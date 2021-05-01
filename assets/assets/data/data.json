@@ -1,0 +1,5650 @@
+[{
+    "eng": "ability",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓐ ꓡˍ ꓟ꓿ ꓑꓷꓽ ꓢꓲ, ꓿",
+    "mm": "အရည်အချင်း၊ အစမ်းအစ",
+    "syntax": [{
+      "eng": "We have ability to forgive and love those who were cruel to us.",
+      "lisu": "ꓥꓪ ꓠꓴꓽ ꓔꓯ ꓟꓽ ꓙꓲ ꓟꓽ ꓜꓳꓽ ꓥꓶ.ˍ ꓟ ꓬꓰ ꓖꓶ ꓡ ꓢꓴ ꓡꓽ ꓞꓳ ꓖꓳ ꓕꓲ ꓧꓳꓽ ꓔꓯ ꓖꓽ ꓖꓶ ꓠꓲ, ꓠꓵ ꓐ ꓡˍ ꓟ ꓑꓷꓽ ꓢꓲ, ꓥꓪ ꓠꓴꓽ ꓔꓯ ꓙꓳˍ ꓡꓳ꓿ ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "add",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓔꓺ꓾ ꓚꓬꓺ꓾ ꓡꓴꓽ꓿",
+    "mm": "ထပ်ဖြည့် ၊ ပေါင်း",
+    "syntax": [{
+      "eng": "An additional item of food was added to the restaurant menu yesterday. ",
+      "lisu": " ꓮꓽ ꓟꓰ ꓕꓯ꓾ ꓜ ꓢꓰꓠ ꓗꓪ ꓟ ꓜꓽ ꓫꓵꓽ ꓟꓯ, ‐ꓠꓴ, ꓗꓪ ꓪꓳꓽ ꓔꓲ.ꓬꓲ ꓫꓵꓼ ꓕꓲ ꓙꓰꓽ ꓔꓺ ꓗꓷꓳ꓿(ꓪꓳꓽ ꓔꓲ.ꓠꓬ ꓚꓬ.ꓦ, ꓟ ꓪꓳꓽ ꓒꓬꓽ ꓕꓲ ꓗꓶ.ꓔꓯ ꓐꓯˍ ꓡꓳ꓿)",
+      "mm": ""
+    }]
+  }, {
+    "eng": "after",
+    "eng_type": [{
+      "type": "prep."
+    }, {
+      "type": "adj."
+    }, {
+      "type": "adv."
+    }],
+    "lisu": " ꓗ ꓠꓯ.꓿ ꓗ ꓠꓯ.ꓢꓲꓺ ꓗꓪ꓿ ",
+    "mm": "နောက်မှာ ၊ နောက် ၊ နောက်ကနေ",
+    "syntax": [{
+      "eng": "After school they all went into the forest and picked the wood for fuel.",
+      "lisu": "ꓙꓳꓥꓽ ꓗꓪ ꓐꓰ ꓡꓽ ꓡ ꓗ ꓠꓯ.ꓬꓲ ꓪꓽ ꓮꓽ ꓙꓵ ꓠꓬ ꓢꓲ, ꓠꓯ ꓡꓲ ꓗꓪ ꓓꓵꓽ ꓙꓰ ꓢꓲ ꓢꓲ, ꓚꓳ.ꓧꓪ ꓖꓳꓺ ꓬꓰˍ ꓡꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": "Several years after the war, the country became prosperous again.",
+      "lisu": "ꓟꓯꓼ ꓟꓶꓽ ꓙꓽ ꓖꓴ ꓡꓰ ꓗ ꓠꓯ, ꓢ ꓡꓲ ꓘꓳꓼ ꓕꓯ ꓬꓲ ꓪꓽ ꓗꓴꓷ ꓠꓬ ꓝꓮꓲ ꓪꓴꓽ ꓟꓴ ꓡꓻꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "allow",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓖꓶ (ꓬꓰ)꓾ ꓖꓶ(ꓙꓰ)꓿ ",
+    "mm": "ခွင့်ပြု",
+    "syntax": [{
+      "eng": "Acha’ parents didn’t allow her to go out at night.",
+      "lisu": " ꓟꓶ ꓘꓶ ꓠꓯ ꓞꓲ, ꓡꓰ ꓕꓯ꓾ ꓮ‐ ꓛ ꓔꓯ ꓬꓲ ꓐ, ꓐ ꓟ, ꓟ ꓡꓰ ꓬꓲ ꓐꓽ ꓟꓽ ꓖꓶ ꓓꓳ꓿ ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "am",
+    "eng_type": [{
+      "type": "v-be"
+    }],
+    "lisu": " ꓥ ꓡꓳ꓿ ꓓ, ꓡꓳ꓿ ꓔꓬ ꓡꓳ꓿ ",
+    "mm": "ဖြစ်သည်၊ ရှိသည်၊ နေထိုင်သည်။",
+    "syntax": [{
+      "eng": "I am a school teacher.",
+      "lisu": " ꓥꓪ ꓠꓬ ꓙꓳꓥꓽ ꓟ.ꓒ ꓕꓲ ꓣꓳ ꓥ ꓡꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": "Where is my wallet? ",
+      "lisu": "ꓥꓪ ꓒꓴ ꓗꓶꓺ ꓕꓴꓽ ꓮ ꓗꓪ ꓓ, ꓡ ? ",
+      "mm": ""
+    }, {
+      "eng": "You are in Myanmar, but I am in the USA.",
+      "lisu": "ꓠꓴ ꓠꓬ ꓡꓳ‐ ꓟꓲ ꓗꓴꓷ ꓗꓪ ꓔꓬ ꓡꓳ꓿ ꓖꓺ ꓧꓶꓺ ꓥꓪ ꓠꓽ ꓟꓷꓽ ꓗꓴꓷꓼ ꓗꓪ ꓔꓬ ꓡꓳ꓿ ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "america",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓷꓽ ꓗꓴꓷ꓿ ",
+    "mm": "အမေရိကား၊ အမေရိကန်",
+    "syntax": [{
+      "eng": "The U.S.A. is located inside North America.",
+      "lisu": " ꓟꓷꓽ ꓗꓴꓷ ꓠꓬ ꓡꓳ ꓪꓴ.ꓟꓷꓽ ꓚꓷꓴ ꓘꓴꓽ ꓗꓪ ꓥ ꓡꓳ꓿ ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "american",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓷꓽ ꓚꓷꓴ ꓒ꓿",
+    "mm": "အမေရိကန် နိုင်ငံသား။",
+    "syntax": [{
+      "eng": "People who live in the U.S.A. are called Americans.",
+      "lisu": "ꓟꓷꓽ ꓗꓴꓷ ꓠꓯꓸꓼ ꓔꓬ ꓢꓴ ꓑꓺ ꓫꓬꓼ ꓡꓽ ꓞꓳ ꓮꓽ ꓙꓵ ꓔꓯ ꓮꓽ‐ ꓟꓯ‐ ꓡꓲ‐ ꓘꓯꓠ ꓐꓯˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "annual",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓘꓳꓼ ꓚꓳ꓿ ꓕꓲ ꓘꓳꓼ ꓕꓲ ꓧꓪ, ꓬꓰˍ ꓟ꓾ ꓒꓬꓱꓼˍ ꓟ꓿ ",
+    "mm": "နှစ်ပတ်လည်။",
+    "syntax": [{
+      "eng": " Our company’ s annual meeting will be held today. ",
+      "lisu": "ꓣꓳꓽ ꓗꓳ‐ ꓑ‐ ꓠꓰ(ꓗꓳꓥ ꓢꓶꓺ) ꓘꓳꓼ ꓚꓳꓺ ꓜꓲꓼ ꓓꓴ ꓠꓬ ꓠꓬꓲ.ꓟꓲ ꓥꓳ꓿ ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "another",
+    "eng_type": [{
+      "type": "adj."
+    }, {
+      "type": "pron"
+    }],
+    "lisu": " ꓠꓱ . ꓐꓯꓼ ( ꓕꓲ ꓟ ) ꓿ ꓝꓮꓲ ( ꓕꓲ ꓟ꓾ ꓕꓲ ꓣꓳ ) ꓿ ",
+    "mm": "အခြား၊ နောက်ထပ်။",
+    "syntax": [{
+      "eng": " Do you have another one? ",
+      "lisu": "ꓠꓴ ꓔꓯ ꓠꓱ . ꓐꓯꓼ ꓕꓲ ꓟ ꓙꓳˍ ꓢꓰꓽ ꓡ? ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "answer",
+    "eng_type": [{
+      "type": "v"
+    }, {
+      "type": "n"
+    }],
+    "lisu": " ꓒꓳ, ꓖꓶ꓾ ꓒꓳ, ꓘꓶ꓿ ꓓꓽ ꓔꓳ,꓾ ꓓꓽ ꓔꓳ, ꓘꓶ꓿",
+    "mm": "အဖြေပေး ၊ ပြန်ကြား။",
+    "syntax": [{
+      "eng": "“ Of course, I will.” John answered. ",
+      "lisu": "ꓬꓳ‐ꓦ ꓡꓰ꓾ “ꓥ ꓡꓯ꓾ ꓥꓪ ꓬꓰˍ ꓥꓳ꓿” ꓐꓰ ꓒꓳ, ꓖꓶˍ ꓡꓳ꓿ ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "anticipate",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓦ ꓐꓬꓱꓽ ꓟꓳ ꓥꓳꓺ ꓡꓳ.꓿",
+    "mm": "တင်ကြိုစိတ်ကူးမျော်မှန်း၊ တင်ကြိုစိတ်ကူးသိမြင် ။",
+    "syntax": [{
+      "eng": "“ In fact, that Hollywood movie producer did not anticipated his last movie would fetch hundreds of million dollars.",
+      "lisu": "ꓬꓲ ꓚꓽ ꓐꓯ ꓕꓯ꓾ ꓧꓳ‐ꓡꓲ‐ꓪꓴꓼ ꓢꓯ. ꓐꓬꓱꓽ ꓫꓬ, ꓓꓳꓺ ꓒ ꓖꓳ ꓕꓲ ꓣꓳ ꓠꓬ꓾ ꓬꓲ ꓢꓯ. ꓐꓬꓱꓽ ꓬꓲ ꓟꓶ ꓕꓱ ꓕꓲ ꓟ ꓗꓪ ꓐꓰ ꓒꓴ ꓬꓲ ꓦꓬꓻ ꓟꓲ‐ꓡꓬ ꓓꓳ‐ꓡ ꓫꓺ ꓟꓶꓻˍ ꓓꓴ ꓐꓰ ꓟꓽ ꓥꓳꓺ ꓡꓳ. ꓔ ꓫꓵꓽ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "are",
+    "eng_type": [{
+      "type": "v-be"
+    }],
+    "lisu": "ꓥ ꓡꓳ꓿ ꓓ, ꓡꓳ꓿ ꓔꓬ ꓡꓳ꓿",
+    "mm": "ဖြစ်သည်၊ ရှိသည်၊ နေထိုင်သည်။",
+    "syntax": [{
+      "eng": "You are a hospital nurse.",
+      "lisu": "ꓠꓴ ꓠꓬ ꓠꓯ ꓞꓲꓼ ꓦꓲ ꓗꓪ ꓟ ꓠ,‐ꓢꓶ ꓟꓺ  ꓕꓲ ꓣꓳ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }, {
+      "eng": "Where are the patients?",
+      "lisu": " ꓞꓳ ꓠꓻ ꓐꓴ ꓮ ꓡꓲ ꓗꓪ ꓥ ꓡ?",
+      "mm": ""
+    }, {
+      "eng": "They are inside the ward.",
+      "lisu": " ꓬꓲ ꓪꓽ ꓠꓬ ꓞꓳ ꓠꓻ ꓬꓲꓼ ꓔ ꓗꓳ, ꓠꓯꓸꓼ ꓗꓪ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "art",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓬꓲꓸꓼ ꓫꓴꓸꓼ꓾ ꓚꓰꓼ ꓜꓰꓺ ꓜꓯꓺ ꓑꓵ, ꓤ. ꓢꓷ ꓠꓲ,꓿ ꓟꓷꓽ ꓫꓴꓸꓼ꓿ ꓢꓷ ꓠꓲ,꓿",
+    "mm": "အနုပညာ။",
+    "syntax": [{
+      "eng": "Art is the expression of human creative skill and imagination, typically in a visual form such as  painting or sculpture, producing works to be appreciated primarily for their beauty or emotional power.",
+      "lisu": "ꓬꓲꓸꓼ ꓫꓴꓸꓼ ꓐꓯˍ ꓟ ꓠꓬ꓾ ꓚꓰꓼ ꓜꓯꓻ ꓡꓯꓼ ꓟꓬꓱꓽ ꓢꓷ ꓠꓲ, ꓐꓰ ꓦ ꓐꓬꓱꓽ ꓐꓴ ꓔꓯ ꓬꓲ ꓑꓰ, ꓬꓰ ꓓꓳ ꓡ ꓢꓲ꓾ ꓛꓳꓽ ꓟꓳ ꓢꓴ ꓠꓲ, ꓟ ꓔꓯ ꓡꓵ, ꓔꓴ ꓡꓵ, ꓢꓴꓺ ꓐ ꓡˍ ꓟ ꓐꓲꓻ ꓒꓬꓱꓽ ꓐꓰ ꓢꓯꓼ ꓪꓽ ꓗꓴꓺ ꓓꓯ, ꓟ ꓡꓯꓼ ꓟꓬꓱꓽ ꓐꓴ ꓔꓯ ꓐꓯˍ ꓡꓳ꓿ ꓔꓯ ꓑꓲꓽ꓾ ꓚꓰꓼ ꓜꓯꓻ ꓐꓳ ꓔ ꓟ ꓟꓴꓽ ꓖꓪꓽ ꓐꓰ ꓘꓶ ꓪꓰ ꓐꓰ ꓔꓯꓺ ꓐꓬꓱꓽ drama ꓾ ꓤ. ꓦ,꓾ ꓧꓪꓸꓼ ꓦ, ꓟ ꓐꓬꓱꓽ ꓒꓬꓽ꓾ ꓜꓰꓺ ꓔ ꓑꓵ, ꓔ ꓟ ꓐꓬꓱꓽ ꓑꓵ, sculptures ꓡꓰꓳ ꓫꓵꓽ ꓔꓯ ꓐꓯˍ ꓡꓳ꓿ The Lisu Musical Artists association ꓡꓲ‐ꓢꓴ ꓟꓴꓽ ꓖꓪ ꓐꓰ ꓟꓬꓴ, ꓜꓲꓼ ꓗꓴ. ꓒ ꓐꓴ ꓙꓻ ꓡꓯꓼ ꓘꓳ ꓜꓴ꓿ The Lisu Artists Association ꓡꓲ‐ꓢꓴ ꓐꓬꓱꓽ ꓤ. ꓒ ꓙ ꓡꓯꓼ ꓘꓳ ꓜꓴ꓿ ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "as",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": "ꓫꓱꓸꓼ꓾ ꓡꓰ ꓐꓰ꓾ ꓒꓬꓱꓽ ꓗꓪ꓾ ꓕꓲ ꓒꓳ, ꓗꓪ ꓐꓰ꓿",
+    "mm": "အဖြစ်၊ ကဲ့သို့၊ လို၊ အသွင်ဖြင့်။",
+    "syntax": [{
+      "eng": "Once upon a time, there it rained hailstones as big as a water melon in a village.",
+      "lisu": "ꓮꓽ ꓠꓱ ꓕꓯ꓾ ꓞꓳ ꓘ, ꓕꓲ ꓟ ꓗꓪ ꓒꓵꓽ ꓜꓲꓽ ꓢꓶ ꓡꓰ ꓐꓰ ꓕꓱ ꓪꓴꓻ ꓗ, ꓫꓵꓽ ꓪꓽ ꓢꓶ ꓟꓶ ꓦ ꓬꓯꓼˍ ꓙꓳꓽ꓿(ꓒꓵꓽ ꓜꓲꓽ ꓢꓶ ꓫꓱ. ꓫꓱꓸꓼ ꓪꓴꓽˍ ꓟ꓿)",
+      "mm": ""
+    }]
+  }, {
+    "eng": "ask",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "1. ꓠ ꓠꓬꓲ꓿ 2. ꓓꓰꓽ꓾ ꓖꓶꓻ ꓬꓲꓼ꓿",
+    "mm": "မေး၊ မေးမြန်း။",
+    "syntax": [{
+      "eng": "Please ask the stranger where he is from.",
+      "lisu": " ꓞꓳ ꓜꓲꓽ ꓕꓱ ꓕꓲ ꓣꓳ ꓔꓯ ꓬꓲ ꓮ ꓡꓲ ꓗꓪ ꓚꓳ. ꓡˍ ꓡꓽ꓾ ꓠꓺ ꓠꓬꓲ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "authority",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓙꓵꓽ ꓪꓽ꓿",
+    "mm": "အာဏာ",
+    "syntax": [{
+      "eng": "What authority do you have that you order me to do this and that?",
+      "lisu": " ꓥꓪ ꓔꓯ ꓕꓱ ꓡꓱ ꓬꓰ꓾ ꓖꓳꓡꓱ ꓬꓰ ꓐꓰ ꓝꓲꓺ ꓠ , ꓟ꓾ ꓕꓵꓼ ꓪꓽ ꓖꓶ ꓠ, ꓟ ꓠꓴ ꓔꓯ ꓮ . ꓫꓵꓽ ꓙꓵꓽ ꓪꓽ ꓕꓲ ꓟ ꓙꓳˍ ꓡ ? ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "back",
+    "eng_type": [{
+      "type": "adv."
+    }, {
+      "type": "n"
+    }],
+    "lisu": "ꓗ   ꓠꓯ, ꓢꓲꓺ꓾ ꓗ ꓠꓯ ꓔꓯ ꓟꓳ.꓿ ꓗ ꓠꓯ.꓾ ꓗ. ꓗꓳꓺ꓿",
+    "mm": "နောက်ပြန်၊ နောက်ကျော့၊ နောက်ကျော။",
+    "syntax": [{
+      "eng": "Lie on you back and stretch out your legs.",
+      "lisu": "ꓠꓴ ꓗ. ꓗꓳꓺ ꓗꓪ (ꓔꓯ. ꓡꓯꓼ ꓥꓪꓺ ꓢꓲꓺ) ꓬꓲꓼ ꓔ ꓢꓲ ꓠꓴ  ꓛꓲ ꓒꓯ, ꓠꓬꓲꓽ ꓐꓽ ꓔꓯ ꓛꓱꓺ ꓩꓴ ꓗꓷ꓿",
+      "mm": ""
+    }, {
+      "eng": "They decided to go back as it  was getting dark.",
+      "lisu": "ꓠꓯ ꓞꓲ, ꓡꓰ ꓔꓬ ꓟ ꓐꓰ ꓕꓲ ꓡꓰꓹꓼ꓾ ꓗ ꓠꓯ. ꓢꓲꓺ ꓡꓽ ꓙꓰ ꓠ, ꓟ ( ꓚꓱ, ꓡꓽ ꓙꓰ ꓠ, ꓟ ) ꓬꓲ ꓪꓽ ꓓꓵꓽ ꓙ ꓞꓷ,   ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "bank",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓐꓮꓥ꓿   ꓒꓴ ꓞꓳꓽ ꓦꓲ꓿",
+    "mm": "ဘဏ်၊ ဘဏ်တိုက်",
+    "syntax": [{
+      "eng": "The bank is where you keep your money safely.",
+      "lisu": "ꓐꓮꓥ ꓒꓴ ꓞꓳꓽ ꓦꓲ ꓠꓬ ꓙꓽ ꓫ ꓓꓴ ꓟꓽ ꓙꓳ ꓟ ꓠꓴ ꓒꓴ ꓫꓺ ꓔꓶ. ꓥꓳ꓿ˍ ꓥꓳ꓿ ( safely ꓕꓱ ꓕꓲ ꓘꓶ ꓔꓯ ꓡꓴꓫꓵꓺ ꓡꓲꓢꓴ ꓐꓴ ꓠꓬ ꓩ. ꓫꓲ ꓓˍ ꓟ ꓐꓰ ꓐꓯ ˍꓡꓳ꓿ )",
+      "mm": ""
+    }]
+  }, {
+    "eng": "be",
+    "eng_type": [{
+      "type": "v-be"
+    }],
+    "lisu": "ꓥ ꓡꓳ꓿ ꓓ, ꓡꓳ꓿ ꓔꓬ ꓡꓳ { am is are ꓕꓱ ꓢ ꓘꓶ ꓡꓱꓸꓼ ꓟ ꓬꓲꓼ ꓛꓲ ꓣꓱꓽˍ ꓡꓳ꓿}",
+    "mm": "ဖြစ်သည်၊ ရှိသည်၊ နေထိုင်သည်။",
+    "syntax": [{
+      "eng": "Don’t be lazy to do your  home-works, boys.",
+      "lisu": "ꓦꓲ ꓗꓪ ꓕꓳ ꓶ ꓵ ꓢꓳ ꓐꓳ ꓢꓳ ꓠ, ꓟ ꓕ ꓐꓴꓻ꓾ ꓮ ꓐꓲ ꓤꓼ ꓐꓴꓳ꓿",
+      "mm": ""
+    }, {
+      "eng": "I will be there with   you very soon.",
+      "lisu": "ꓥꓪ ꓳ. ꓗꓪ ꓟꓽ ꓟꓶꓺ ꓫꓵꓺ ꓕꓯ ꓠꓴˍ ꓐꓰ ꓕꓲ ꓪˍ ꓔꓬ ꓥꓳ꓿",
+      "mm": ""
+    }, {
+      "eng": " Would you be happy if your ex - wife comes back ? ",
+      "lisu": "ꓕꓲꓽ ꓙꓬꓼ ꓧ, ꓗꓷ ꓟ ꓠꓴ ꓦꓲ ꓢꓲ ꓟ ꓝꓮꓲ ꓡꓽ ꓡˍ ꓚꓰꓼ ꓐꓷ,ˍ ꓠꓬ ꓠꓴ ꓗ, ꓛꓲꓽˍ  ꓡ ? ",
+      "mm": ""
+    }, {
+      "eng": "They will be all home by this time tomorrow.",
+      "lisu": "ꓢ, ꓖꓶꓻ ꓕꓱ ꓕꓲ ꓙꓵ, ꓬꓲ ꓪꓽ ꓮ ꓙꓵꓽ ꓦꓲ ꓡꓽ ꓛꓲ ꓬꓰˍ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "believe",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓙꓵ꓾   ꓦ ꓡꓱ꓿",
+    "mm": "ယုံ၊ ယုံကြည်။",
+    "syntax": [{
+      "eng": "You can believe th invisible God, but not the visible human  kind.",
+      "lisu": "ꓟꓳ ꓟꓽ ꓓˍ ꓟ ꓪꓴ‐ꓢ ꓔꓯ ꓠꓴ ꓙꓵ ꓓˍ ꓡꓳ꓿ ꓖꓺ ꓧꓶꓺ ꓟꓳ ꓓˍ ꓟ ꓞꓳ ꓤ ꓔꓯ ꓠꓴ ꓙꓵ ꓟꓽ ꓓ꓿ꓖꓺ ꓧꓶꓺ ꓐꓰ ꓖꓳ ꓡꓱ ꓥˍ ꓟꓲ ꓠꓬ ꓬꓲ ꓕꓲ ꓘꓶˍ ꓡꓰꓽ ꓥ ꓢꓲ꓾ ꓕꓮꓲꓻ ꓟꓵꓽ ꓡꓲ-ꓢꓴ ꓐꓯ ꓘꓶ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "big",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓪꓴꓽˍ ꓟ꓿",
+    "mm": "ကြီးသော။",
+    "syntax": []
+  }, {
+    "eng": "bigger",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓟꓬꓽ ꓠꓬꓲ ꓪꓴꓽˍ ꓟ꓾",
+    "mm": "သာ၍ ကြီးသော၊ ပိုကြီးသော။",
+    "syntax": [{
+      "eng": "Chicken egg is bigger than dove egg",
+      "lisu": "ꓮ. ꓬ. ꓩꓴ ꓠꓬ ꓮ. ꓖꓴꓽ ꓩꓴ ꓕꓯ ꓢꓲꓺ ꓪꓴꓽˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "biggest",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓪꓴ ꓓꓰ ꓡꓰ ꓟ꓾ ꓮꓽ ꓙꓵ ꓪꓴ. ꓗꓪ ꓪꓴꓽ ꓓꓰ ꓡꓰ ꓟ꓿",
+    "mm": "အကြီးဆုံးဖြစ်သော",
+    "syntax": []
+  }, {
+    "eng": "bible",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓢꓲꓽ   ꓫꓬ   ꓕꓳ   ꓶ꓿",
+    "mm": "သမ္မာကျမ်းစာ။",
+    "syntax": [{
+      "eng": "There are two parts in the bible book.",
+      "lisu": "ꓢꓲꓽ ꓫꓬ ꓕꓳ ꓶ ꓑꓷꓠ ꓠꓬ ꓠꓬꓲꓽ ꓐꓱꓻ ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "black",
+    "eng_type": [{
+      "type": "adj."
+    }, {
+      "type": "n"
+    }],
+    "lisu": "ꓠꓯꓺ꓾   ꓬꓲ ꓠꓯ꓿ ꓞꓳ ꓠꓯꓺ ꓫꓵꓽ꓿",
+    "mm": "အနက်၊ အမဲရောင်၊လူမဲ။",
+    "syntax": [{
+      "eng": "The Blacks in the US are kings of the athletes.",
+      "lisu": "ꓟꓷꓽ ꓗꓴꓷ ꓗꓪ ꓔꓬ ꓟ ꓞꓳ ꓠꓯ ꓐꓴ ꓠꓬ ꓡꓳ ꓖꓪꓺ ꓪꓽ ꓝꓲꓺ ꓐꓴ ꓥꓳ꓿",
+      "mm": ""
+    }, {
+      "eng": "Her eye and hair are black.",
+      "lisu": "ꓬꓲ ꓟꓬ ꓢꓶ ꓐꓰ ꓪꓴ. ꓞꓱꓻ ꓐꓴ ꓠꓬ ꓠꓯꓺ ꓠꓯꓺ ꓗ, ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "bless",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓶꓼ ꓥꓳꓽ ꓙꓱꓽ ꓖꓶ꓾ ꓶꓼ ꓤ ꓫꓱ. ꓤ ꓖꓶ꓿",
+    "mm": "ကောင်းကြီးမင်္ဂလာပေးသည်။",
+    "syntax": [{
+      "eng": "Blessed are those who make peace.",
+      "lisu": "ꓧꓳ, ꓡꓯꓼ ꓘꓳ ꓪꓽ  ꓡꓯꓼ ꓘꓳ ꓚꓱ, ꓫꓬ, ꓢꓴ ꓠꓬ ꓶꓼ ꓙꓳ ꓫꓱ, ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "blew",
+    "eng_type": [{
+      "type": "v-pp"
+    }],
+    "lisu": "ꓙꓱꓼ   ꓗꓷꓳ꓾ ꓟꓲꓽ ꓦꓲ ꓙꓱꓼ ꓗꓷꓳ꓾ ꓟꓲꓽ ꓦꓲ ꓙꓱꓼ ꓗꓳ. ꓙꓰꓳ꓿",
+    "mm": "လေတိုက်ခဲ့သည်။မှုတ်ခဲ့သည်။  ꓢꓴ . ꓠꓬ  နှုန်း  ꓥ   ꓡꓳ꓿",
+    "syntax": [{
+      "eng": "Last night the wind blew at a 7  speed of 50 mph.",
+      "lisu": "ꓮꓽ  ꓟꓰꓻ ꓟꓶꓼ ꓘꓶ꓾ ꓟꓲ ꓦꓲ ꓠꓬ ꓕꓲ ꓙꓵ, ꓗꓪ 50 ꓟꓲ ꓢꓴ. ꓙꓱꓼ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "blind",
+    "eng_type": [{
+      "type": "adj."
+    }, {
+      "type": "n"
+    }],
+    "lisu": "ꓟꓬ   ꓛꓱꓽ꓾ ꓟꓬ ꓔꓶꓺ꓿",
+    "mm": "မျက်ကန်း၊ ဘလိုင်း။",
+    "syntax": [{
+      "eng": "The doctors can save you from becoming blind from  this cataract.",
+      "lisu": "ꓟꓬ ꓒꓴ ꓕꓱ ꓟ ꓗꓪ ꓐꓰ ꓠꓴ ꓟꓬ ꓢꓶ ꓛꓱꓼˍ ꓗꓪ ꓟꓽ ꓛꓲ ꓬꓰ ꓠ, ꓟ ꓠꓴ ꓔꓯ ꓠꓯ ꓞꓲꓼ ꓟ. ꓒ ꓓꓳ‐ꓔ ꓐꓴ  ꓚꓬꓴ .ꓙ ꓐ ꓡˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "blow",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓙꓱꓼ꓾ ꓟꓲꓽ ꓦꓲ ꓙꓱꓼ꓿",
+    "mm": "လေတိုက်သည်၊ လေမှုတ်သည်။",
+    "syntax": [{
+      "eng": "“ You are supposed to blow off the candle lights only after  the song Happ  y Birthday is finished” said the baby girl’s mother.",
+      "lisu": "”ꓗ, ꓛꓲˍ ꓟ ꓦꓵ ꓦꓬꓼ  ꓠꓬꓲ ꓟꓴꓽ ꓖꓪꓽ ꓖꓳ ꓟ ꓖꓪ ꓓꓳ ꓡꓰ ꓕꓯ ꓢꓲ꓾ ꓫꓳ. ꓓꓻ ꓮ. ꓔꓳ. ꓟꓵꓺ ꓢꓰꓼ ꓥ꓿” ꓐꓰ ꓮ. ꓟꓲꓽ ꓤꓼ ꓔꓯ ꓬꓲ ꓟ, ꓟ ꓡꓰ ꓐꓯ ꓖꓶˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "blue",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓟꓴꓽ ꓗꓪ ꓠꓲ, ꓛꓵꓼ꓿ ꓡꓯꓽ꓿ ꓡꓯꓽ ꓢꓷꓽ꓿",
+    "mm": "အပြာ၊ အပြာရောင်။",
+    "syntax": [{
+      "eng": "Is that blue car yours?",
+      "lisu": "ꓟꓳ ꓓꓳ ꓡꓯꓽ ꓢꓷꓽ ꓖꓳ ꓕꓲ ꓗ. ꓠꓴ ꓔꓯ. ꓥ ꓡ? ( ꓡꓳ ꓪꓴ. ꓡꓲ‐ꓢꓴ ꓐꓴ ꓠꓬ꓾ ꓠꓴ ꓔꓯ ꓟ ꓥꓳ꓾ ꓥꓪ ꓔꓯ ꓟ ꓥꓳ꓾ ꓐꓰ “ꓟ” ꓕꓲ ꓘꓶ ꓮꓽ ꓘꓶ. ꓟꓽ ꓔ, ꓣꓱꓽ꓿ ꓠꓴ ꓔꓯ ꓥꓳ꓿ ꓕꓱ ꓟ ꓬꓲ ꓔꓯ ꓟꓽ ꓥ꓾ ꓕꓱ ꓡꓱˍ ꓡꓰꓽ ꓐꓯˍ ꓡꓳ꓿)",
+      "mm": ""
+    }]
+  }, {
+    "eng": "book",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓕꓳ ꓶ ꓑꓷꓠꓽ꓿",
+    "mm": "စာအုပ်။",
+    "syntax": [{
+      "eng": "Mark Hae has translated a Thai novel book which title was  “Let us go back to our home.” Into Lisu.",
+      "lisu": "ꓦꓯ, ꓟ‐ꓘꓳ ꓡꓰ꓾ “ꓣꓳꓽ ꓦꓲ ꓗꓪ ꓡꓽ ꓙꓰ ꓡꓯꓳ” ꓐꓯꓳ ꓫꓵꓽ ꓕꓮꓲꓻ ꓐꓳ ꓟꓲꓽ ꓕꓳ ꓶ ꓕꓲ ꓑꓷꓠ ꓔꓯ ꓡꓲ‐ꓢꓴ ꓥꓳꓽ ꓗꓪ ꓡꓶ. ꓐꓳ ꓦ, ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "burmese",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓡꓳꓽ‐ꓟꓲꓽ꓿",
+    "mm": "ဗမာ",
+    "syntax": [{
+      "eng": "Burmese is the majority tribe people who lives in the  country Myanmar.",
+      "lisu": "ꓡꓳꓽ‐ꓟꓲ ꓠꓬ ꓟꓬ‐ꓟ ꓗꓴꓷ ꓗꓪ ꓟ ꓞꓳ ꓫꓵꓽ ꓔꓲꓺ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "buy",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓪꓴ꓿",
+    "mm": "ဝယ်၊ဝယ်ပေး။",
+    "syntax": [{
+      "eng": "I will buy you a book from Amazon",
+      "lisu": "ꓮ‐ꓟ‐ꓜꓳꓠ ꓗꓪ ꓐꓰ ꓠꓴ ꓔꓯ ꓕꓳ ꓶ ꓕꓲ ꓑꓷꓠ ꓪꓴ ꓖꓶˍ ꓠꓬꓲ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "by",
+    "eng_type": [{
+      "type": "prep."
+    }, {
+      "type": "adv."
+    }],
+    "lisu": "1. ꓡꓰ꓿ 2. ꓮ. ꓫꓵꓽ ꓜꓶ ꓢꓲ ꓙꓰˍ ꓟ ꓖꓴ ꓟ. ꓖꓶˍ ꓕꓯ ꓣꓱꓽˍ ꓟ ꓐꓯ ꓘꓶ ꓝ.꓿ 3. ꓗꓪ ꓐꓰ꓿",
+    "mm": "က၊ ဖြင့်၊ အားဖြင့်။",
+    "syntax": [{
+      "eng": "They came by buss.",
+      "lisu": "ꓬꓲ ꓪꓽ ꓐ, ꓢꓶ (ꓟꓳ ꓓꓳ) ꓜꓶ ꓡˍ ꓡꓳ꓿ ꓣꓳꓽ ꓐꓶꓻ ꓓꓳ ꓞꓳ ꓫꓵꓽ ꓐꓴ ꓥꓳꓽ ꓗꓪ  by ꓕꓱ ꓕꓲ ꓘꓶ ꓮꓽ ꓘꓶ ꓟꓽ ꓣꓱꓽˍ ꓟ ꓡꓰ ꓡꓳ. ꓟꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }, {
+      "eng": "This book  was translated by Mark Gwah.",
+      "lisu": "ꓕꓳ ꓶ ꓕꓱ ꓕꓲ ꓑꓷꓠ ꓔꓯ ꓖꓪꓽ ꓟ‐ꓘꓳ, ꓡꓰ ꓥꓳꓽ ꓡꓶ. ꓐꓳ ꓦ, ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "can",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓐ ꓡ꓾ ꓓ꓾ ꓬꓰ ꓓ꓿",
+    "mm": "နိုင်၊ခွင့်ရှိ။ သံဖြူခွက်။",
+    "syntax": [{
+      "eng": "I can help you with your school assignments often, bu t I don’t  have ability to make you pass the exam.",
+      "lisu": "ꓠꓴ ꓙꓳꓥ ꓕꓳ ꓶ ꓵ ꓢꓳˍ ꓟ ꓗꓪ ꓕꓲ ꓖꓺ ꓕꓲ ꓧꓪ, ꓠꓬ ꓥꓪ ꓬꓰ ꓙ ꓐ ꓡˍ ꓡꓳ꓿ ꓖꓺ ꓧꓶꓺ꓾ ꓠꓴ ꓔꓯ ꓕꓳ ꓶ ꓘꓮꓳ ꓧꓪ. ꓡꓰ ꓓꓴ ꓬꓰ ꓖꓶ ꓠ, ꓟ ꓑꓷꓽ ꓢꓲ, ꓠꓽ ꓥꓪ ꓟꓽ ꓙꓳ꓿ (ꓠꓴ ꓚꓲ ꓛꓬ ꓢꓳ ꓢꓯꓼ ꓕꓵꓼˍ ꓗꓪ ꓡꓰꓽ ꓓ, ꓡꓳ꓿)",
+      "mm": ""
+    }]
+  }, {
+    "eng": "catch",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓣꓴ꓾ ꓠꓬ, ꓣꓴ꓾ ꓖꓼ ꓣꓴ꓿",
+    "mm": "ဖမ်း၊ဖမ်းကိုင်။",
+    "syntax": [{
+      "eng": "Akhi Ngua is trying to catch a hen in the garden.?",
+      "lisu": "ꓥꓪ. ꓮ.‐ꓘꓲ ꓠꓬ ꓪꓳꓽ ꓐꓱ ꓠꓯꓸꓼ ꓗꓪ ꓮ. ꓬ. ꓟꓺ ꓕꓲ ꓘ, ꓖꓼ ꓣꓴ ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "catch up",
+    "eng_type": [{
+      "type": "phrasal"
+    }],
+    "lisu": "ꓛꓳ   ꓖꓼ =",
+    "mm": "အမီလိုက်။",
+    "syntax": []
+  }, {
+    "eng": "chance",
+    "eng_type": [{
+      "type": "n"
+    }, {
+      "type": "adj."
+    }],
+    "lisu": "ꓚꓲꓺ ꓧꓴꓲꓸꓼ꓿ ꓳ ꓗꓼ꓿  { ꓫꓵꓽ   ꓧꓶꓴ.꓾ ꓥ ꓠꓬ ꓟꓲ. ꓡꓰ ꓖꓶ ꓡˍ ꓟ ꓫꓵꓽ } ꓿ ꓒꓵꓼ ꓪꓼ",
+    "mm": "အခွင့်အလမ်း။",
+    "syntax": [{
+      "eng": "God gave him  another chance to win.",
+      "lisu": "ꓪꓴ‐ꓢ ꓡꓰ ꓬꓲ ꓔꓯ ꓧꓪ. ꓡꓰ ꓠ, ꓟ ꓚꓲ ꓧꓴꓲꓸꓼ ꓝꓮꓲ ꓕꓲ ꓓꓽ ꓖꓶ ꓗꓷꓳ꓿ ꓧꓪꓽ ꓒꓬꓰꓼ ꓔꓯ ꓮ. ꓔꓲ. ꓫꓱ.ˍ ꓡꓳ꓿ ꓖꓺ ꓧꓶꓺ꓾ ꓧꓪꓽ ꓒꓬꓰꓼ ꓠꓽ opportunity ꓥ꓿ ꓞꓳ ꓤ ꓡꓰ ꓧꓪ ꓟꓶꓻ꓾ ꓫꓬ, ꓣꓴ ꓐ ꓡˍ ꓫꓵꓽ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "china",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓚꓳꓥ ꓗꓴꓷꓼ꓾ ꓧꓶ ꓟꓵꓽ꓿",
+    "mm": "တရုတ်ပြည်သူ့ သမ္မတနိုင်ငံ။",
+    "syntax": []
+  }, {
+    "eng": "church",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "1. ꓪꓽ ꓘꓴ ꓦꓲ꓾ ꓢꓲꓽ ꓫꓬꓻ ꓦꓲ꓿ 2. ꓘꓴ‐ꓜꓲ‐ꓞꓳ꓿",
+    "mm": "ခရစ်ယန်ဘုရားကျောင်း။",
+    "syntax": [{
+      "eng": "Church is a place where Christians  worship God in group.",
+      "lisu": "ꓪꓽ ꓘꓴ ꓦꓲ ꓠꓬ ꓙꓲ ꓢꓴ ꓢꓲ ꓤꓼ ꓐꓴ ꓕꓲ ꓠꓲ, ꓕꓲ ꓪˍ ꓪꓴ‐ꓢ ꓔꓯ ꓪꓴ. ꓓꓵ ꓕꓱꓼ ꓔꓶ. ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "circle",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓚꓳ ꓡꓴ.꓿",
+    "mm": "စက်ဝိုင်း။",
+    "syntax": [{
+      "eng": "Build a circle shape wooden house.",
+      "lisu": "ꓚꓳ ꓡꓴ. ꓒꓬꓱꓽ ꓢꓲ, ꓘꓪ. ꓦꓲ ꓕꓲ ꓢꓶ ꓫꓬ,꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "color",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓬꓲ ꓢꓷꓽ꓿ ꓤ. ꓒꓬꓱꓽ꓿",
+    "mm": "အရောင်။",
+    "syntax": [{
+      "eng": "What is your favorite color?",
+      "lisu": "ꓠꓴ ꓮꓽ ꓘꓶ ꓫꓲꓽ ꓧꓪˍ ꓟ ꓬꓲ ꓢꓷꓽ ꓠꓬ ꓮ. ꓫꓵꓽ ꓥ ꓡ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "college",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓘꓳ. ꓡꓲꓼ꓿ ꓘꓳ. ꓡꓲꓼ ꓙꓳꓥꓽ꓿ ꓔ, ꓫꓬꓳꓽ꓿",
+    "mm": "ကောလိပ်၊ ကောလိပ်ကျောင်း။",
+    "syntax": [{
+      "eng": "There are ten college students in our village?",
+      "lisu": "ꓣꓳꓽ ꓘ, ꓗꓪ ꓘꓳ. ꓡꓲꓼ ꓙꓳꓥꓽ ꓢꓳ ꓤ 10 ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "come",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓡꓻ꓾ ꓛꓲ ꓡꓻ꓿",
+    "mm": "လာ။",
+    "syntax": [{
+      "eng": "I have come to see you, my dad.",
+      "lisu": "ꓥꓪ ꓠꓴ ꓔꓯ ꓡ ꓜꓲꓻ ꓡ ꓟ ꓥ ꓡꓳ꓾ ꓐ, ꓐꓽꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "computer",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓗꓳ ꓑꓬꓴ ꓔꓺ꓿",
+    "mm": "ကွန်ပြူတာ။",
+    "syntax": [{
+      "eng": "Windows is the first computer operating system.",
+      "lisu": "ꓪꓲꓥ‐ꓓꓳ, ꓠꓬ ꓗꓳ‐ꓑꓬꓴ‐ꓔ ꓔꓯ ꓟꓬꓱꓽ ꓬꓰ ꓝꓲ ꓓꓴ ꓢꓲ‐ꓢꓶ‐ꓔꓯꓺ ꓪꓴ. ꓠꓷ. ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "cone",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓦ ꓜꓱꓼ ꓡꓴꓻ꓿",
+    "mm": "ကန်တော့ချွန်ခွက်။",
+    "syntax": [{
+      "eng": "Cone shaped cup",
+      "lisu": "ꓦ ꓜꓱꓼ   ꓗꓴꓰ.꓿ ꓦ ꓜꓱꓼ ꓠꓬ ꓦ ꓐꓬꓱꓽ ꓙꓳˍ ꓡꓳ꓿ ꓢ ꓜꓱꓼ ꓠꓽ ꓟꓽ ꓥ꓿ ꓦ ꓒꓬꓱꓽ ꓗꓴꓰ.꓾ ꓥˍ ꓠꓬ ꓦ  ꓒꓬꓱꓽ ꓡꓴꓻ ꓐꓯ ꓛꓵꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "count",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓵ꓿ꓵ ꓠꓬꓲ꓿",
+    "mm": "ရေတွက်။",
+    "syntax": [{
+      "eng": "Can you count how many fish in this pond?",
+      "lisu": "ꓥꓪ. ꓐꓱ ꓕꓱ ꓟ ꓠꓯꓸꓼ ꓥꓪ. ꓮ ꓟꓬ ꓘ, ꓓꓯ, ꓟ ꓠꓴ ꓵ ꓐ ꓡˍ ꓡ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "country",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓗꓴꓷꓼ꓿ ꓟꓵꓽ꓾ ꓪꓽ ꓚꓲ ꓟꓵꓽ꓿",
+    "mm": "နိုင်ငံ၊ကျေးလက်၊ ကျေးလက်ဒေသ။",
+    "syntax": [{
+      "eng": "Western country is my favorite music.",
+      "lisu": "ꓐꓶꓻ ꓓꓵꓽ ꓪꓽ ꓚꓲ ꓪꓽ ꓐꓽ ꓟꓵꓽ ꓟꓴꓖꓪꓽ ꓠꓬ ꓥꓪ ꓮ. ꓓꓲꓽ ꓠꓵˍ ꓟ ꓟꓴꓖꓪ ꓥꓳ꓿",
+      "mm": ""
+    }, {
+      "eng": "My country is the U.S.A.",
+      "lisu": "ꓥꓪ ꓗꓴꓷ ꓠꓬ ꓟꓷꓽ ꓗꓴꓷꓼ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "court",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓢꓲ, ꓘꓶ ꓦꓲ꓿ ꓐꓯ ꓟꓴ ꓫꓬ, ꓦꓲ꓿",
+    "mm": "တရားရုံး။",
+    "syntax": [{
+      "eng": "The judge at the court finally ruled out the  villagers’ dispute over a trifle.",
+      "lisu": "ꓬꓲ ꓟꓶ ꓕꓯ꓾ ꓐꓯ ꓟꓴ ꓦꓲ ꓗꓪ ꓢꓲ, ꓓꓶꓺ ꓒ (ꓐꓯ ꓟꓴ ꓞꓷ, ꓒ) ꓡꓰ꓾ ꓕꓲ ꓫꓵꓽ  ꓟꓽ ꓥˍ ꓟ ꓘ, ꓤ ꓡꓳ ꓤ ꓐꓴ ꓫꓵꓽ ꓪꓴꓻ ꓔꓯ ꓠꓽ ꓡꓰ ꓝꓲꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "criminal",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓙꓵꓽ ꓗ ꓞꓳ. ꓢꓴ꓾ ꓞꓳ ꓥꓶꓺ꓿",
+    "mm": "ပြစ်မှုကျူးလွန်သူ၊ ဥပဒေမဲ့။",
+    "syntax": [{
+      "eng": "The criminals and lawless generally ended as  homeless although they were not the poor.",
+      "lisu": "ꓞꓳ ꓥꓶꓺ ꓐꓰ ꓙꓵꓽ ꓗꓺ ꓔꓯ ꓞꓳ. ꓢꓴ ꓬꓲꓮ ꓦꓬꓼ ꓠꓬꓲ ꓠꓬ ꓦꓲ ꓟꓽ ꓙꓳ ꓗꓪ ꓟꓽ ꓙꓳ ꓗꓪ ꓡꓳ, ꓬꓰˍ ꓟꓲ꓾ ꓬꓲ ꓚꓽ ꓐꓯ ꓕꓯ ꓬꓲ ꓪꓽ ꓠꓽ ꓞꓳ ꓫ ꓟꓽ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "cup",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓗꓴꓰ. ꓗꓴꓰ.꓾ ꓑꓷꓺ꓾ ꓗꓷ.꓿ ꓜꓻ ꓡꓴ ꓗꓶ.꓾ ꓮ. ꓙꓬ  ꓗꓷ.꓾ ꓛꓽ ꓗꓴꓰ.",
+    "mm": "ရေခွက်၊ ခွက်။ ",
+    "syntax": [{
+      "eng": "Can you give me a glass of water?",
+      "lisu": "ꓬꓲꓻ ꓙꓬ ꓕꓲ ꓗꓷ. ꓤꓼ ꓖꓶ ꓓꓳ  ꓓˍ ꓡ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "cut",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓓꓶꓺ꓾ ꓘꓶ꓾ ꓕꓳ,꓾ ꓞꓶ꓾ ꓐꓬꓼ꓾ ꓛꓵꓻ꓾ ꓝꓱꓺ꓾ ꓫꓳꓽ꓿",
+    "mm": "ခုတ်၊ဖြတ်၊ ခွဲ၊ ညှပ်။",
+    "syntax": [{
+      "eng": "We must not cut the  expense on food and drink.",
+      "lisu": "ꓜ ꓓꓳꓻ ꓓꓴ ꓗꓪ ꓣꓱꓽ ꓠ, ꓟ ꓒꓴ ꓔꓯ ꓓꓶꓺ ꓟꓽ ꓛꓵ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "dare",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓑꓶ.꓿ ꓑꓶ.ˍ ꓡꓳ꓿",
+    "mm": "ရဲသည်။သတ္တိရှိသည်။",
+    "syntax": [{
+      "eng": "Luke dares not walk pass in front of that little dog.",
+      "lisu": "ꓡꓴ‐ꓘ, ꓠꓬ ꓮ. ꓠꓽ ꓤꓼ ꓖꓳ ꓕꓲ ꓘ, ꓟꓲ. ꓙꓬꓽ ꓗꓪ ꓐꓰ ꓫꓱꓽ ꓗꓳ. ꓙꓰ ꓟꓽ ꓑꓶ.꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "dear",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓮꓽ ꓘꓶ ꓒꓵꓽˍ ꓟ꓿ ꓮꓽ ꓘꓶ ꓠꓲ, ꓠꓵˍ ꓟ꓿",
+    "mm": "ချစ်လှစွာသော၊ အလွန်တန်ဖိုးရှိသော။",
+    "syntax": [{
+      "eng": "My dear friend, how are you?",
+      "lisu": "ꓲ, ꓠꓵˍ ꓟ ꓛꓳꓽ ꓒꓯ, ꓠꓴ ꓧꓪ. ꓧꓪꓸꓼ ꓥ ꓡ ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "dew",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓡꓴ. ꓢꓶ꓿ (ꓓꓵ, ꓐꓰ ꓵ= ꓓꓽꓬꓴ, ꓟꓽ ꓥ ) ꓿",
+    "mm": "နှင်း၊နှင်းပွင့်။",
+    "syntax": [{
+      "eng": "The lawn in our yard was  wet with dew.",
+      "lisu": "ꓥꓪ ꓦꓲ ꓗ, ꓖꓴ ꓓꓲꓽ ꓗꓪ ꓟ ꓟꓳꓼ ꓠꓬ ꓡꓴ. ꓢꓶ ꓡꓰ ꓒꓼ ꓞ, ꓡꓳ꓿",
+      "mm": ""
+    }, {
+      "eng": "a drop of dew",
+      "lisu": "ꓡꓴ. ꓢꓶ ꓕꓲ ꓢꓶ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "dig",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓓꓴꓽ꓾ ꓚꓴ.꓿",
+    "mm": "တူး။",
+    "syntax": [{
+      "eng": "They are digging for a water well.",
+      "lisu": "ꓬꓲ ꓪꓽ ꓠꓬ ꓮ. ꓙꓬ ꓘꓴ ꓕꓲ ꓘꓴ ꓚꓴ.ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "do",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓬꓰ꓿",
+    "mm": "ပြု၊ပြုလုပ်၊လုပ်။",
+    "syntax": [{
+      "eng": "Do you know his name?",
+      "lisu": "ꓠꓴ ꓬꓲ ꓟꓬꓱ   ꓢꓷˍ ꓡ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "dog",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓘꓶ꓾ ꓮꓽ ꓘꓶꓽ꓾ ꓮ. ꓠꓽ꓿",
+    "mm": "ခွေး။",
+    "syntax": [{
+      "eng": "My neighbor’s dog barked every night.",
+      "lisu": "ꓥꓪ ꓠꓶ ꓛꓳꓽ ꓬꓲ ꓪꓽ ꓮ. ꓠꓽ ꓠꓬ ꓕꓲ ꓦꓬꓼˍ ꓡꓰ ꓡꓴˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "doing",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓬꓰ ꓔꓬ꓿ ꓬꓰˍꓟ꓿",
+    "mm": "လုပ်နေ၊လုပ်ခြင်း။",
+    "syntax": [{
+      "eng": "What are you doing?",
+      "lisu": "ꓠꓴ ꓮ. ꓫꓵꓽ ꓬꓰ ꓔꓬ    ꓡ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "done",
+    "eng_type": [{
+      "type": "v-pp"
+    }],
+    "lisu": "ꓬꓰ ꓦ,ꓳ꓾ ꓬꓰ ꓔ.ꓳ꓿ ꓖꓴ ꓦ,ꓳ꓿",
+    "mm": "လုပြီးပြီ၊ လုပ်ထားပြီ။",
+    "syntax": [{
+      "eng": "I have done my homework. Haven’t you done   yours yet?",
+      "lisu": "ꓥꓪ ꓧꓳ.‐ꓪꓳꓼ ꓬꓰ ꓓꓳ ꓦ,ꓳ꓿ ꓠꓴ ꓔꓯ ꓡꓲ.꓾ ꓟꓽ ꓬꓰ ꓓꓳ ꓦ, ꓢꓰꓽ ꓡ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "don't",
+    "eng_type": [{
+      "type": "contract"
+    }],
+    "lisu": "ꓕ꓿  ꓟꓽ꓿",
+    "mm": "မ၊ မ.. နဲ့။",
+    "syntax": [{
+      "eng": "I don’t know.",
+      "lisu": "ꓥꓪ ꓟꓽ ꓢꓷ.꓿",
+      "mm": ""
+    }, {
+      "eng": "Don’t be lazy.",
+      "lisu": "ꓕ ꓐꓴꓻ ꓕ ꓛꓵꓽ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "dumb",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓟꓶꓻ꓿ ꓟꓶꓻˍ ꓟ꓿ ꓔꓯꓽˍ ꓟ꓿ ꓥꓼˍ ꓟ꓿ ꓬꓽ ꓑꓺ꓿",
+    "mm": "ထုံသော၊အသော။ ( ꓟꓬꓱꓺ ꓟ꓾ ꓝꓷꓼˍ ꓟ꓾ ꓒꓲ.ˍ ꓟ ꓮꓽ ꓙꓵ ꓬꓲ ꓕꓲ ꓘꓶˍ ꓥ ꓡꓳ꓿)",
+    "syntax": [{
+      "eng": "The opponent stood dumb at the swift   punches of Mike Tyson.",
+      "lisu": "ꓚꓴ, ꓡꓯꓼ ꓘꓳ ꓒ ꓠꓬ꓾ ꓟꓬꓱꓺˍ ꓟ ꓟꓮꓲ‐ꓕꓮꓲ‐ꓢꓮꓠ ꓡꓯꓼ ꓑꓵ, ꓑꓶ ꓓꓴ ꓟꓶꓻ ꓟꓶꓻ ꓔꓯꓽ  ꓔꓯꓽ ꓗꓷ ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "dump",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓡꓳ ꓦ꓾ ꓷ, ꓡꓳ꓾ ꓡꓳ ꓗꓷ꓿",
+    "mm": "စွန့်ပစ်။",
+    "syntax": [{
+      "eng": "You can’t dump all those bottles into trash bin.  Bottles are not trash.",
+      "lisu": "ꓐꓬꓻ ꓩꓴꓽ ꓐꓴ ꓔꓯ ꓑꓱ. ꓛꓵꓽ ꓑꓱꓺ ꓗꓪ ꓕ ꓡꓳꓺ ꓧꓳꓽ ꓩꓴ꓿ ꓐꓬꓻ ꓩꓴꓽ ꓠꓬ ꓑꓱ. ꓛꓵꓽ ꓟꓽ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "dust",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓛꓯꓽ ꓐꓰꓼ꓾ ꓘꓪꓽ ꓦ꓿",
+    "mm": "ဖုန်၊ မြေမှုန့်။",
+    "syntax": [{
+      "eng": "In the dust cloud, the village beyond the hills was seen   partly.",
+      "lisu": "ꓛꓯꓽ ꓐꓰꓼ ꓟꓴ ꓗꓴ. ꓗꓴꓺ ꓕꓴꓽ ꓕꓴꓽ ꓠꓯꓸꓼ ꓗꓪ꓾ ꓖꓪꓻ ꓪꓽ ꓜꓱꓽ ꓢ ꓚꓲ ꓖꓳꓻꓼ ꓛꓱꓽ ꓗꓪ ꓟ ꓞꓳ ꓘ, ꓔꓯ ꓮ. ꓔꓲ ꓤꓼ  ꓡꓳ. ꓟꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "duty",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓟꓬꓱꓽ ꓶꓻ꓿ ꓶꓻ ꓑꓱ.꓾ ꓙꓴ ꓔꓲꓺ꓿",
+    "mm": "တာဝန်။",
+    "syntax": [{
+      "eng": "The gateman’s duty is to watch the ga te.",
+      "lisu": "ꓗ, ꓘꓶ ꓖꓷꓸꓼ ꓗꓽ ꓢꓴ ꓬꓲ ꓶꓻ ꓑꓱ. ꓠꓬ ꓗ, ꓘꓶ ꓒꓬꓰꓼ ꓔꓯ ꓦꓴꓻ ꓠꓬ, ꓟꓬꓱꓽ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "eat",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓜꓽ꓿",
+    "mm": "စား။",
+    "syntax": [{
+      "eng": "We eat rice as the main food in Asia.",
+      "lisu": "ꓐꓶꓻ ꓓꓳ ꓟꓵꓽ ꓢꓴ ꓠꓬ ꓜꓻ ꓔꓯ ꓓꓽ ꓪꓴ. ꓜꓽ ꓫꓵꓽ ꓚꓬ, ꓢꓲ ꓜˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "earn",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓓꓵꓽ꓿ ꓫꓺ ꓟꓶꓻ꓿ ꓪꓺ꓿ ꓪꓽ ꓒꓵꓽ ꓜ꓿",
+    "mm": "ဝင်ငွေရသည်။ ရရှိသည်။",
+    "syntax": [{
+      "eng": "He earns his living from English teaching.",
+      "lisu": "ꓠꓬꓲ ꓠꓬ ꓰ‐ꓖꓲ‐ꓡꓲ ꓕꓳ ꓶ ꓟ. ꓢꓲ ꓪꓽ ꓒꓵꓽ ꓜˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "earth",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓟꓲ   ꓠꓯ꓿",
+    "mm": "ကမ္ဘာမြေကြီး။",
+    "syntax": [{
+      "eng": "At the beginning the earth was formless.",
+      "lisu": "ꓬꓲ ꓚꓰ ꓬꓲ ꓪꓴ. ꓕꓯ ꓟꓲ ꓠꓯ ꓠꓬ ꓬꓲ  ꓑꓰ, ꓟꓽ ꓙꓳ ꓟ ꓬꓲ ꓖꓳꓽ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "encounter",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓜꓲꓻ ꓡꓯꓼ ꓘꓳ꓿ ꓟꓳ ꓡꓯꓼ ꓘꓳ꓿(ꓟꓽ ꓥꓳꓺ ꓡꓳ. ꓔ ꓗꓪ)꓿",
+    "mm": "မတော်တဆကြုံဆုံ ၊ ကြုံတွေ့။",
+    "syntax": [{
+      "eng": "Adeu Yaku encountered his  ex-wife this morning at a store while he was shopping.",
+      "lisu": "ꓠꓬꓲ. ꓠꓯꓼ ꓢꓶ‐ꓔꓳ. ꓗꓪ ꓙꓵꓺ ꓪꓴꓻ ꓚꓳ ꓔꓬ ꓕꓯ꓾ ꓮ‐ꓓꓶ. ꓬ‐ꓗꓴ ꓠꓬ ꓧꓶ. ꓕꓯ ꓟꓬꓲ ꓤꓽ ꓟꓶꓻ ꓐꓰꓽ ꓔꓯ ꓜꓲ ꓡꓯꓼ ꓘꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "end",
+    "eng_type": [{
+      "type": "v"
+    }, {
+      "type": "n"
+    }],
+    "lisu": "ꓡꓳ, ꓬꓰ꓿ ꓓꓳ ꓡꓰ꓿ ꓖꓴ ꓡꓰ꓿",
+    "mm": "ကုန်ဆုံးသည်၊ လမ်းဆုံး သည်။",
+    "syntax": [{
+      "eng": "When the movie ended the audience poured out of  the theatre.",
+      "lisu": "ꓢꓯ. ꓐꓬꓱꓽ ꓒꓺ ꓡꓳ, ꓬꓰ ꓟꓽ ꓕꓱꓽ꓾ ꓛꓳꓽ ꓢꓴ ꓐꓴ ꓠꓬ ꓮ ꓙꓬ ꓬꓲꓻˍ ꓪˍ ꓡꓰ ꓐꓰ ꓓ,‐ꓫꓲ‐ꓦꓲ ꓗꓪ ꓐꓰ ꓓꓳ ꓡ ꓖꓴꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "enemy",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓛꓴꓽ ꓙꓳ ꓢꓴ꓿",
+    "mm": "ရန်သူ။",
+    "syntax": [{
+      "eng": "The family assaulted you in group because they are the  enemies of the evangelism.",
+      "lisu": "ꓡꓽ ꓞꓳ ꓖꓳ ꓕꓲ ꓦꓲ ꓠꓬ ꓶꓼ ꓓꓳꓽ ꓫꓱ, ꓓꓳꓽ ꓔꓯ ꓛꓳꓽ ꓛꓴ ꓢꓴ ꓥ ꓑꓶ. ꓓꓴ꓾ ꓠꓴ  ꓔꓯ ꓬꓲ ꓪꓽ ꓕꓲ ꓦꓲ ꓕꓲ ꓗꓪ ꓡ ꓓꓶꓽ ꓗꓷ ꓟ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "energy",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓢꓯꓼ꓾   ꓢꓯꓼ ꓪꓽ꓿",
+    "mm": "အား၊အားအင်၊ခွန်အား။",
+    "syntax": [{
+      "eng": "There are many sorts of energy drinks with different brand  names available at the convenient stores.",
+      "lisu": "ꓟꓽ ꓫꓱ. ꓡꓯꓼ ꓘꓳˍ ꓟ ꓢꓯꓼ ꓙꓳ ꓠꓯ ꓞꓲꓼ ꓬꓲꓻ ꓕꓴꓽ ꓬꓲ ꓫꓵꓽ ꓬꓲ ꓙꓰꓽ꓾ ꓮ ꓗꓪ ꓛꓲ ꓛꓲ ꓢꓶ‐ꓔꓳ, ꓢꓰꓠ ꓐꓴ ꓗꓪ ꓪꓴꓻ ꓓꓳ ꓪ ꓓˍ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "engage",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓡꓯꓼ ꓒꓯ, ꓝ ꓠ, ꓟ ꓢꓽ꓿ ꓢꓽ ꓡꓯꓽ ꓘꓳ꓿ ꓙꓻ ꓡꓯꓽ ꓘꓳ꓿",
+    "mm": "စေ့စပ်သည်၊ ထိတွေ့ဆက်ဆံသည်။",
+    "syntax": [{
+      "eng": "The police force hoped a possible  chance to engage in face off with the terrorists very soon.",
+      "lisu": "ꓗ, ꓘꓶ ꓖꓷꓸꓼ ꓗꓽ ꓢꓴ ꓬꓲ ꓶꓻ ꓑꓱ.  ꓠꓬ  ꓗ, ꓘꓶ ꓒꓬꓰꓼ ꓔꓯ ꓦꓴꓻ ꓠꓬ, ꓟꓬꓱꓽ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "england",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓬꓲꓥ ꓗꓴꓷꓼ꓿ ꓓꓻ ꓒ꓾ ꓢꓷ ꓠꓲ, ꓙꓳ ꓒ ꓔꓲꓺ ꓐꓴ꓾ ꓥꓳ, ꓒ ꓐꓴ ꓔꓬ ꓖꓴ ꓟꓵꓽ ꓐꓯˍ ꓟ ꓥꓳ꓿",
+    "mm": "အင်္ဂလန်နိုင်ငံ။",
+    "syntax": []
+  }, {
+    "eng": "english",
+    "eng_type": [{
+      "type": "adj."
+    }, {
+      "type": "n"
+    }],
+    "lisu": "ꓬꓲꓥ ꓗꓴꓷ ꓡꓽ ꓞꓳ꓾꓿ ꓬꓲꓥ ꓬꓵꓽ꓿ ꓬꓲꓥ ꓗꓴꓷꓼ ꓥꓳꓽ꓿ ꓬꓲꓥ ꓗꓴꓷ ꓕꓳ ꓶ꓿",
+    "mm": "အင်္ဂလိပ်။",
+    "syntax": [{
+      "eng": "The peoples of  England.",
+      "lisu": "ꓬꓲꓥ  ꓗꓴꓷ ꓡꓽ ꓞꓳ꓿ ꓬꓲꓥ ꓗꓴꓷ ꓑꓺ ꓫꓬꓼ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "enlarge",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓬꓲ ꓐꓶ, ꓬꓲ ꓓꓽ ꓟ ꓛꓬꓱꓺ ꓙꓰ ꓝꓲˍ ꓡꓳ꓿ ꓬꓲ ꓐꓶ, ꓪꓴꓽ ꓡ꓾ ꓩꓲꓺ ꓡ꓾ ꓦꓬꓺ ꓡ ꓓꓴ ꓬꓰˍ ꓡꓳ꓿",
+    "mm": "ကျယ်ဝန်းလာစေသည်၊ တိုးချဲ့၊ အကျယ်ချဲ့သည်။",
+    "syntax": [{
+      "eng": "We vision for  a bigger project to enlarge this mini dictionary to an unabridged one.",
+      "lisu": "ꓓꓲ‐ꓫꓲ‐ꓠꓯ‐ꓡꓲ ꓑꓷꓠ ꓤ, ꓤꓼ ꓕꓱ ꓟ ꓔꓯ꓾ ꓪꓴꓽ ꓓꓰˍ ꓟ ꓬꓲ ꓑꓷꓠ ꓓꓽ ꓟ ꓗꓪ ꓛꓲ ꓡꓵ, ꓪꓴꓽ ꓡꓵ, ꓛꓬꓱꓺ ꓠ, ꓟ ꓟꓬꓱꓽ ꓐꓬꓱꓼ ꓘꓶ ꓓꓽ ꓟ ꓕꓲ ꓟ ꓥꓪ ꓠꓴꓽ ꓦ ꓐꓬꓱꓽ ꓟꓳ ꓔꓬ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "enjoy",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓟꓬꓱꓽ ꓑꓬꓳꓽˍ ꓡꓳ꓾ ꓗ, ꓛꓲˍ ꓡꓳ꓿",
+    "mm": "နှစ်သက်မှုဖြင့်ခံစားရှုစားသည်။",
+    "syntax": [{
+      "eng": "The baby enjoys himself playing with toys alone.",
+      "lisu": "ꓮ ꓐꓲ ꓤꓼ ꓠꓬ ꓗꓽ ꓠꓯ, ꓓꓴˍ ꓐꓰ ꓗ ꓠꓯ, ꓗ, ꓢꓲ ꓬꓲ. ꓶ ꓬꓲ ꓗ, ꓛꓲ ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "equal",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓔꓱꓺ ꓔꓷꓹꓼ ꓗ,꓾ ꓔꓱ ꓟꓬꓸꓼ ꓥˍ ꓟ꓿",
+    "mm": "တူညီ၊တန်းတူ၊ညီမျှသော။",
+    "syntax": [{
+      "eng": "The Human right is equal in the U.S.A.",
+      "lisu": "ꓟꓷꓽ ꓗꓴꓷꓼ  ꓗꓪ꓾ ꓡꓽ ꓞꓳ ꓮꓽ ꓙꓵ ꓔꓯ ꓢꓲꓺ ꓪꓽ (ꓢꓲꓺ ꓣꓷꓽ) ꓔꓱ ꓟꓬꓸꓼ꓾ ꓔꓱꓺ ꓔꓷꓹꓼ ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "exam",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓕꓳ ꓶ ꓘꓳꓽˍ ꓟ꓿ ꓕꓳ ꓶ ꓘꓮꓳꓽˍ ꓟ꓿",
+    "mm": "စာမေးပွဲ။",
+    "syntax": [{
+      "eng": "The Winter season is biding goodbye as the  final school exam is a month’s away.",
+      "lisu": "ꓙꓳꓥꓽ ꓦꓲ ꓗꓪ ꓕꓳ ꓶ ꓬꓲ ꓟꓶ ꓕꓲ ꓓꓼ ꓘꓮꓳꓽ ꓠ, ꓟ ꓦ ꓐ ꓕꓲ ꓟˍ ꓡꓰꓽ  ꓛˍ ꓟ ꓐꓰ ꓕꓲ ꓡꓰ꓾ ꓙꓬ ꓝꓲ. ꓠꓬ ꓮꓽ ꓙꓵ ꓢꓴ ꓔꓯ ꓧꓪ ꓧꓪꓸꓼ ꓐꓯ ꓔꓬꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "fair",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓒꓲꓥꓽˍ ꓟ꓿ ꓘꓳ ꓣꓴ ꓓˍ ꓟ꓿ ꓜꓳꓽˍ ꓟ꓿ ꓪꓴꓽ ꓒꓲꓥꓽ ꓠꓬꓲ ꓟꓽ ꓗ,꓿",
+    "mm": "မျှတသော။ ꓪꓴꓽ ꓒꓲꓥꓽ ꓠꓬꓲ ꓟꓽ ꓬꓰ꓿",
+    "syntax": [{
+      "eng": "It was unfair that they did  not allow you to participate in the game.",
+      "lisu": "ꓬꓲ ꓪꓽ ꓠꓴ ꓔꓯ ꓡꓳꓺ ꓖꓪꓺ ꓗꓽ ꓠꓯ, ꓑꓮꓲꓽ ꓗꓪ ꓟꓽ ꓖꓶ ꓔ, ꓟ (ꓟꓽ ꓖꓶꓽ ꓢꓮꓲ. ꓟ ) ꓕꓱ ꓟ ꓠꓬ ꓔꓷꓼ ꓟꓽ ꓜꓳꓽˍ ꓕꓲ ꓫꓵꓽ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "faith",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓙꓵ ꓠꓲ,꓿",
+    "mm": "ယုံကြည်မှု။",
+    "syntax": [{
+      "eng": "Our faith is our hope and trust in something priceless to gain next  life although it is yet invisible",
+      "lisu": "ꓣꓳꓽ ꓙꓵꓻ ꓠꓲ, ꓠꓬ꓾ ꓮ ꓟꓶ ꓟꓽ ꓟꓳˍ ꓢꓰꓽ ꓐꓯˍ ꓟꓽ ꓘꓪꓽ ꓡ ꓠꓯ, ꓟ ꓕꓲ ꓤꓶꓻ ꓗꓪ ꓣꓳꓽ ꓪꓺ ꓔꓳꓼˍ ꓟ ꓬꓲ ꓒꓵꓽ ꓐꓯ ꓞꓷ, ꓟꓽ ꓓ ꓠ ꓛꓲ ꓒꓵꓽˍ ꓕꓲ ꓫꓵꓽ ꓔꓯ ꓦ ꓡꓱ ꓐꓳ ꓢꓲ ꓦꓴ ꓠꓬ, ꓔꓬ ꓟ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "faint",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓢꓯꓼ ꓐꓽ ꓢꓯꓼ ꓣꓪꓽˍ ꓟ꓿",
+    "mm": "အားအင်ကုန်ခန်းသည်၊ အားအင်ချိနဲ့သည်။",
+    "syntax": [{
+      "eng": "After running in the jungle for three days, the man fell  off to the ground from starvation.",
+      "lisu": "ꓡꓲ ꓛꓲ ꓗꓪ 3 ꓠꓬꓲ ꓔꓷ, ꓗꓷ ꓗ ꓠꓯ꓾ ꓡꓽ ꓞꓳ ꓖꓳ ꓕꓲ ꓣꓳ ꓠꓬ ꓦꓰꓼ  ꓟꓷꓼ ꓠꓬꓲ ꓟꓲ ꓛꓬ ꓗꓪ ꓓꓳꓽ ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "fan",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓒꓲꓽ ꓓꓴ꓿ ꓟꓲꓽ ꓦꓲ ꓒꓲꓽ ꓓꓴ꓿",
+    "mm": "ပန်ကာ။",
+    "syntax": [{
+      "eng": "We need fans as the weather is scorching.",
+      "lisu": "ꓦ ꓐ ꓬꓲ ꓝꓶ. ꓮꓽ ꓘꓶ ꓞꓻˍ ꓑꓶ. ꓓꓴ ꓣꓳꓽ ꓔꓯ ꓟꓲꓽ ꓦꓲ ꓒꓲꓽ ꓓꓴ ꓣꓱꓽ ꓬꓯꓼˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "fate",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓟꓲ.꓾ ꓡꓯꓽ ꓗꓪ ꓚꓱ.꓿",
+    "mm": "ကံကြမ္မာ။",
+    "syntax": [{
+      "eng": "Some people believe that their fate was pre-written on  their palm.",
+      "lisu": "ꓡꓽ ꓞꓳ ꓕꓲ ꓐꓱ ꓢꓴ ꓠꓬ꓾ ꓬꓲ ꓪꓽ ꓟꓲ. ꓔꓯ ꓦꓵˍ ꓕꓲ ꓠꓬꓲ ꓕꓯˍ ꓡꓰ ꓬꓲ ꓪꓽ ꓡꓯꓼ ꓗꓪ ꓘꓴꓽ ꓗꓪ ꓐꓳ ꓔ.ꓳ ꓐꓰ ꓙꓵˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "feel",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓚ, ꓟꓶꓻ꓿",
+    "mm": "ခံစားသိရှိသည်။",
+    "syntax": [{
+      "eng": "The patient said, “Doctor, I can feel the flow of the fluid of your  injection into my flesh.",
+      "lisu": "ꓠꓻ ꓫꓬ, ꓒꓽꓳ꓾ ꓠꓴ ꓠꓯ ꓞꓲꓼ ꓗ. ꓪꓳꓼ ꓗꓪ ꓐꓰ ꓥꓪ ꓧꓪꓽ ꓗꓪ ꓬꓲꓻ ꓓꓵꓽ ꓙꓰˍ ꓟ ꓠꓯ ꓞꓲꓼ ꓔꓯ ꓥꓪ ꓚ, ꓟꓶˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "feeling",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓚ, ꓟꓶꓻ ꓢꓷ ꓡꓰ ꓓꓴ꓾ ꓚ, ꓟꓶˍ ꓟ꓾ ꓩꓲꓺ ꓡꓲꓻ꓿",
+    "mm": "တွေ့ထိခံစားသိရှိချက်။",
+    "syntax": [{
+      "eng": "a loss feeling in the hand",
+      "lisu": "ꓡꓯꓼ   ꓗꓪ ꓔꓯꓽ ꓔꓯꓽ ꓗꓷ ꓡꓰ ꓢꓲ ꓮ. ꓫꓵꓽ ꓚ, ꓟꓶˍ ꓟ ꓟꓽ ꓙꓳ ꓗꓷ ꓡꓰˍ ꓟ꓿",
+      "mm": ""
+    }, {
+      "eng": "a feeling of joy",
+      "lisu": "ꓗ, ꓛꓲˍ ꓟ ꓑꓬꓳꓽˍ ꓟ ꓠꓲ, ꓟ (ꓚ, ꓟꓶꓻ ꓢꓷ ꓡꓰ ꓓꓴ ) ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "final",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓬꓲ ꓟꓶꓽ꓿ ꓡꓳ, ꓬꓰˍ ꓕꓲ ꓕꓳꓼ꓿ ꓬꓲ ꓑꓶ.꓿",
+    "mm": "နောက်ဆုံး၊အဆုံး။",
+    "syntax": [{
+      "eng": "During her final days grandma did not sing  much.",
+      "lisu": "ꓥꓪ ꓮ. ꓬꓽ (ꓧꓪꓽ ꓖꓳ ꓓꓱꓽ ꓒꓳ, ꓙꓰ ꓔꓳꓼˍ ꓕꓯ)  ꓬꓲ ꓦꓬ ꓠꓬꓲ ꓡꓳ, ꓬꓰˍ ꓕꓲ ꓝꓲ ꓗꓪ ꓛꓲˍ ꓕꓯ ꓬꓲ ꓟꓴꓽ ꓖꓪ ꓮꓽ ꓘꓶ ꓟꓽ ꓖꓪ ꓗꓷ ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "find",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓧꓪ꓾ ꓧꓪ ꓚꓳ꓿ ꓧꓪ ꓟꓳ꓿ ꓟꓲꓽ ꓦꓲ ꓒꓲꓽ ꓓꓴ꓿",
+    "mm": "ရှာ၊ ရှာဖွေ။",
+    "syntax": [{
+      "eng": "He is thinking of finding his lost car with  the help of police men.",
+      "lisu": "ꓬꓲ ꓠꓬ꓾ ꓐꓶ ꓡꓲꓼ ꓟꓯꓼ ꓒ ꓐꓴ ꓔꓯ ꓬꓰ ꓙ ꓡꓯ ꓐꓯ ꓢꓲ꓾ ꓒꓲꓼ ꓬꓰ ꓟ ꓬꓲ ꓟꓳ ꓓꓳ ꓔꓯ ꓧꓪ ꓚꓳ ꓠꓯꓹꓼ ꓓꓵꓽ ꓙ ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "finish",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓓꓳ ꓡꓰ꓾ ꓬꓰ ꓓꓳ꓾ ꓬꓰ ꓖꓴ꓾ ꓡꓳ, ꓬꓰ꓿",
+    "mm": "ပြီး၊ ပြီးစီး။",
+    "syntax": [{
+      "eng": "When you finish your supper, start doing   your homework.",
+      "lisu": "ꓠꓴ ꓟꓶꓼ ꓘꓶꓼ ꓜꓻ ꓜ ꓓꓳ ꓡꓰ ꓕꓯ꓾ ꓙꓳꓥꓽ ꓦꓲ ꓗꓪ ꓐꓰ ꓖꓶ ꓩꓴ ꓡ ꓟ ꓧꓳ‐ꓪꓳꓼ ꓬꓰ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "floor",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓕꓳꓼ   ꓑꓽ꓾ ꓩꓷ, ꓑꓽ꓿",
+    "mm": "ကြမ်းခင်း၊ ကြမ်းပြင်။",
+    "syntax": [{
+      "eng": "The second floor is paved with teakwood.",
+      "lisu": "ꓙꓳꓽ ꓟꓻ ꓕꓳꓼ ꓑꓽ ꓔꓯ ꓚꓴ. ꓜꓲꓻ ꓘꓪ. ꓘꓳꓽ ꓦ, ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "fly",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓐꓬꓱꓻ꓿",
+    "mm": "ပျံ၊ ပျံသန်း။",
+    "syntax": [{
+      "eng": "A big airplane is flying above the clouds.",
+      "lisu": "ꓐꓬꓱꓻ ꓦꓲ ꓓꓽ ꓟ ꓕꓲ ꓑꓼ ꓠꓬ ꓟꓴ ꓗꓴ. ꓒꓱ ꓐꓴ ꓪꓴ. ꓖꓳꓽ ꓗꓪ ꓐꓬꓱꓻ ꓙꓰ ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "forget",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓟꓲ ꓡꓰ꓾ ꓟꓲ ꓡꓲ, ꓗꓷ꓿",
+    "mm": "မေ့၊မေ့ပျောက်၊အမှတ်မရ၊ မမှတ်မိ။",
+    "syntax": [{
+      "eng": "Little kids easily forget other peoples’ insults.",
+      "lisu": "ꓟꓬꓺ ꓖꓺ ꓤꓼ (ꓤꓽ ꓠꓱ ꓤ, ꓤꓼ) ꓐꓴ ꓠꓬ ꓢꓴ ꓡꓰ ꓬꓲ ꓪꓽ ꓔꓯ ꓠꓬꓲ ꓖꓳꓽ ꓠꓬꓲ ꓣꓳꓺ ꓬꓰ ꓗꓷ ꓟ ꓔꓯ ꓢ ꓢꓹꓼ ꓟꓲ ꓡꓲ ꓗꓷˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "follow",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓗ ꓠꓯ. ꓛꓳ꓾ ꓗ ꓠꓯ. ꓢꓲ ꓖꓼ꓿",
+    "mm": "လိုက်၊ နောက်လိုက်။",
+    "syntax": [{
+      "eng": "Follow the guide so that you will not get yourself  lost in town.",
+      "lisu": "ꓡꓳ ꓒꓱꓽ ꓘꓴꓽ ꓗꓪ ꓟꓵꓽ ꓥꓳꓽ ꓟꓽ ꓪꓴ. ꓡꓰ ꓠ, ꓟ ꓐꓱ ꓶ꓾ ꓙꓻ ꓖꓴ ꓧꓳꓽ ꓢꓴ ꓗ ꓠꓯ ꓛꓳ ꓙꓰ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "foods",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓜ ꓫꓵꓽ ꓜ ꓙꓰꓽ꓿",
+    "mm": "အစားအစာ။",
+    "syntax": [{
+      "eng": "Rice is the main food of Asians.",
+      "lisu": "ꓜꓻ꓾ ꓜꓻ ꓒꓴ ꓠꓬ ꓣꓳꓽ ꓮ‐ꓢꓲ‐ꓬ ꓡꓽ ꓞꓳ ꓐꓴ ꓔꓯ ꓟ ꓜ ꓫꓵꓽ ꓓꓽ ꓟ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "fool",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓞꓳ ꓙꓲꓽ꓿ ꓞꓳ ꓖꓳꓽ ꓞꓳ ꓟꓯ,꓿",
+    "mm": "လူမိုက်။",
+    "syntax": [{
+      "eng": "A fool and his money soon depart.",
+      "lisu": "ꓞ ꓙꓲꓽ ꓐꓰ ꓬꓲ ꓙꓳˍ ꓟ ꓒꓴ ꓫꓵꓺ ꓠꓬ ꓕꓲ ꓑꓹꓼ ꓗꓪ ꓧ, ꓡꓯꓼ ꓘꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "foolish",
+    "eng_type": [{
+      "type": "adj."
+    }, {
+      "type": "n"
+    }],
+    "lisu": "ꓒꓲꓽꓴ꓿",
+    "mm": "မိုက်မဲသော။",
+    "syntax": [{
+      "eng": "It is too foolish of you to call  “Father” to that wooden statute you made.",
+      "lisu": "ꓚꓲ ꓛꓬ ꓜꓰꓺ ꓔ ꓟ ꓢꓲ, ꓓ ꓐꓬꓱꓽ ꓮ. ꓕꓱ ꓟ ꓔꓯ “ꓐ, ꓐ” ꓘꓴˍ ꓟ ꓠꓬ ꓠꓴ ꓠꓽ ꓞꓳ ꓙꓲꓽ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "foreign",
+    "eng_type": [{
+      "type": "adj."
+    }, {
+      "type": "n"
+    }],
+    "lisu": "ꓐꓶ  ꓗꓴꓷꓼ꓾ ꓐꓶ ꓟꓵꓽ꓿",
+    "mm": "နိုင်ငံခြား၊ တိုင်းတပါး။",
+    "syntax": [{
+      "eng": "All the young men and young women from the  village went to a foreign country to work.",
+      "lisu": "ꓞꓳ ꓘ, ꓗꓪ ꓟ ꓞꓲꓼ ꓣꓳ ꓢꓴ ꓞꓳ ꓑ ꓞꓳ ꓟ ꓮꓽ ꓙꓵ ꓟꓬꓱꓽ  ꓬꓰ ꓪꓽ ꓟꓴ ꓜ ꓠ, ꓟ ꓐꓶ ꓗꓴꓷ ꓗꓪ ꓓꓳ ꓙꓰ ꓖꓴꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "forgive",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓖꓽ ꓖꓶ꓿ ꓝꓴꓲ ꓣꓮꓥ. ꓖꓶ꓿",
+    "mm": "ခွင့်လွတ်။",
+    "syntax": [{
+      "eng": "I can forgive you for your mistake.",
+      "lisu": "ꓠꓴ ꓛꓬꓻ ꓖꓴ ꓔꓯ ꓥꓪ ꓖꓽ ꓖꓶ ꓐ ꓡˍ ꓡꓳ꓿",
+      "mm": ""
+    }, {
+      "eng": "Forget and forgive are two different things.",
+      "lisu": "”ꓟꓲ ꓡꓲ, ꓗꓷ” ꓐꓰ “ ꓖꓽ ꓖꓶ ꓗꓷ” ꓠꓬ ꓠꓬꓲꓽ ꓫꓵꓽ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "ford",
+    "eng_type": [{
+      "type": "v"
+    }, {
+      "type": "n"
+    }],
+    "lisu": "ꓬꓲꓻ ꓝꓶ. ꓕꓯ ꓕꓯ꓿ ꓮ. ꓙꓬ ꓖꓴꓽ ꓗꓳ. ꓙꓰˍ ꓡꓳ꓿",
+    "mm": "လမ်းလျှောက်ကူးသည်၊ ရေတိမ်သောနေရာ။",
+    "syntax": []
+  }, {
+    "eng": "fuel",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓐꓬꓻ ꓜꓻ꓾ ꓢꓲ, ꓚꓳ.꓾ ꓧꓪꓽ ꓞꓶꓻ꓿",
+    "mm": "လောင်စာ။",
+    "syntax": [{
+      "eng": "We used drifted-woods for fuel instead of gas and  electricity before.",
+      "lisu": "ꓧꓶ. ꓕꓯ ꓥꓪ ꓠꓴꓽ ꓠꓬ꓾ ꓖꓯ,‐ꓢꓶ ꓐꓰ ꓮ. ꓔꓳ. ꓔꓬꓰꓠꓸꓼ ꓡꓰꓳ ꓫꓵꓽ ꓐꓬꓻ ꓜꓻ ꓬꓲ ꓛꓲ꓾ ꓬꓲꓻ ꓐꓴꓻ  ꓢꓲ, ꓔꓯ ꓣꓱꓽ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "fund",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓜꓶꓻ ꓒꓴ꓾ ꓛꓵꓽ   ꓔꓴ   ꓒꓴ꓿",
+    "mm": "ရံပုံငွေ။",
+    "syntax": [{
+      "eng": "We have idea and enthusiasm to promote our language and literature, but we need fund.",
+      "lisu": "ꓣꓳꓽ ꓥꓳꓽˍ ꓐꓰ ꓕꓳ ꓶ ꓔꓯ ꓛꓵꓽ ꓔꓴ ꓠ, ꓟ ꓐꓱ ꓶ ꓥꓪ ꓠꓴꓽ ꓔꓯ ꓮꓲ‐ꓓꓲ‐ꓬ ꓚꓴꓽ ꓬꓲ, ꓐꓰ ꓦ ꓐꓬꓱꓽ ꓙꓳˍ ꓟꓲ꓾ ꓛꓵꓽ ꓔꓴ ꓒꓴ ꓣꓱꓽ ꓬꓯꓼˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "game",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓖꓲ,꓿ ꓗꓽ ꓠꓯ, ꓚꓱ,꓿",
+    "mm": "ဂိမ်း၊ ကွန်ပြူတာဂိမ်း။",
+    "syntax": [{
+      "eng": "What computer game do you like best?",
+      "lisu": "ꓗꓳ‐ꓑꓬꓴ‐ꓔ ꓖꓲ, ꓮ ꓡꓲ ꓕꓲ ꓫꓵꓽ ꓟ ꓠꓴ ꓟꓬꓽ ꓠꓬꓲ ꓫꓲꓽ ꓧꓪˍ ꓡ ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "gap",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓠꓬꓲꓽ ꓗꓴ. ꓚꓸꓼ ꓗꓷ, ꓶˍ ꓟ꓿ ꓧꓽ ꓞ, ꓟ ꓬꓲ ꓘꓴꓻ꓿",
+    "mm": "ကွာဟမှု။အပေါက်။",
+    "syntax": [{
+      "eng": "The gaps between the rich and the poor are unmeasurable in some countries.",
+      "lisu": "ꓮꓽ ꓟꓬ, ꓗꓴꓷ ꓗꓪ꓾ ꓞꓳ   ꓐꓳ ꓞꓳ ꓫ ꓠꓬꓲꓽ ꓗꓴ. ꓚꓸꓼ ꓗꓷ, ꓞ, ꓓꓴ ꓠꓬ ꓔꓯꓺ ꓡꓲ. ꓔꓯꓺ ꓟꓽ ꓠꓺ ꓗꓪ ꓛꓲ ꓪꓴꓽˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "get",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓪꓺ꓾ ꓟꓶꓻ꓾ ꓘꓳ ꓣꓴ ꓟꓶꓻ꓾ ꓙꓰ ꓑꓰꓺ꓿",
+    "mm": "ရ၊ ရရှိ၊ ရယူသည်။",
+    "syntax": [{
+      "eng": "As soon as I get there, I will give you a call.",
+      "lisu": "ꓥꓪ ꓖꓪꓻ ꓙꓰ ꓛꓲ ꓟꓽ ꓕꓱꓽ ꓠꓴ ꓔꓯ ꓩꓳꓥ. ꓘꓴ ꓩꓴ ꓡˍ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "give",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓖꓶ꓿",
+    "mm": "ပေး၊ ပေးသည်။",
+    "syntax": [{
+      "eng": "”Give it away” said grandma.",
+      "lisu": "ꓮ. ꓬꓽ ꓡꓰ ꓐꓯˍ ꓡꓳ꓾ “ꓓꓰꓽ ꓖꓶ ꓩꓴ ꓗꓷ”꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "giver",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓖꓶ ꓢꓴ꓿",
+    "mm": "ပေးသူ။",
+    "syntax": [{
+      "eng": "They say that the giver is always above the receiver",
+      "lisu": "ꓡꓽ ꓞꓳ ꓐꓯˍ ꓠꓬ꓾ ꓖꓶ ꓢꓴ ꓠꓽ ꓮ ꓕꓯˍ ꓟꓲ ꓘꓳ ꓣꓴ ꓢꓴ ꓪꓴ. ꓓꓵꓺ ꓗꓪ ꓔꓬ ꓙꓳꓽ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "glad",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓗ, ꓛꓲˍ ꓟ꓾ ꓠꓲ, ꓒꓴ ꓢ꓿",
+    "mm": "ဝမ်းသာ၊ ရွှင်လန်းသော၊ စိတ်ချမ်းသာသော။",
+    "syntax": [{
+      "eng": "I was glad to see Koreans from both North and South  were participating Winter Olympic games together.",
+      "lisu": "ꓡꓳ ꓪꓴ. ꓘꓳ‐ꓣꓲ‐ꓬ ꓐꓰ ꓬꓲꓻ ꓟꓶꓻ ꓘꓳ‐ꓣꓲ‐ꓬꓮ ꓠꓬꓲꓽ ꓗꓴꓷꓼ ꓕꓲ ꓪˍ ꓳ‐ꓡ‐ꓑꓲꓸꓼ ꓡꓳꓺ ꓖꓪꓺ ꓑꓮꓲꓽ ꓗꓪ ꓗꓽ ꓠꓯ, ꓔꓯꓺ ꓢꓮꓲ. ꓡꓯꓼ ꓘꓳ ꓔꓬ ꓟ ꓔꓯ ꓟꓳˍ ꓕꓯ ꓥꓪ  ꓠꓲ, ꓒꓴ ꓢˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "go",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓙꓰ꓿",
+    "mm": "သွားသည်။",
+    "syntax": [{
+      "eng": "How do you go to work?",
+      "lisu": "ꓠꓴ ꓟꓬꓱꓽ ꓗꓪ ꓮ ꓡꓲ ꓐꓰ ꓙꓰˍ ꓡ ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "goal",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓔꓶꓺ ꓙꓱꓼ꓿ ꓟꓴꓽ ꓔꓲ.꓿",
+    "mm": "ပန်းတိုင်၊ ရည်မှန်းချက်။",
+    "syntax": [{
+      "eng": "Our goal is the President  ’s  Award of the year.",
+      "lisu": "ꓥꓪ ꓠꓴꓽ ꓟꓳ. ꓔ ꓟ ꓔꓶꓺ ꓙꓱꓼ ꓠꓬ ꓗꓴꓷ ꓪꓴ. ꓓꓵꓺ ꓣꓱꓽ ꓚꓴꓽ‐ꓫꓲ, ꓗꓪ ꓐꓰ ꓖꓶˍ ꓟ ꓟꓬꓱ ꓓꓳꓽ ꓡꓯꓼ ꓫꓴ ꓖꓳ ꓟ ꓥꓳ꓿ ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "God",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓪꓴ‐ꓢ꓿",
+    "mm": "ဘုရား၊ ဖန်းဆင်းရှင်ဘုရား။",
+    "syntax": [{
+      "eng": "God is love.",
+      "lisu": "ꓪꓴ‐ꓢ ꓠꓬ ꓠꓵ ꓠꓲ, ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "good",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓙꓲˍ ꓟ꓿ ꓧꓺˍ ꓟ꓿",
+    "mm": "ကောင်းသော။",
+    "syntax": [{
+      "eng": "I wish I could always be a good Samaritan.",
+      "lisu": "ꓥꓪ ꓠꓬ ꓮ ꓕꓯˍ ꓟꓲ ꓙꓲˍ ꓟ ꓢ‐ꓟ‐ꓡꓲ ꓡꓽ ꓞˍꓖꓳ ꓕꓲ ꓣꓳ ꓒꓬꓱꓼ ꓠꓲ, ꓫꓵˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "goods",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓧꓳꓴꓸꓼ꓾ ꓶꓻ ꓤꓼ ꓖꓴꓽ ꓙꓴꓽ꓿",
+    "mm": "ကုန်ကစ္စည်းများ။",
+    "syntax": [{
+      "eng": "American brands but made in China goods are  found everywhere in the States.",
+      "lisu": "ꓟꓷꓽ ꓗꓴꓷ ꓒꓮꓲꓽ ꓠꓷꓼ ꓦ, ꓥˍ ꓟꓲ ꓚꓳꓥ ꓗꓴꓷ ꓗꓪ ꓫꓬ, ꓔ ꓟ ꓖꓴꓽ ꓙꓴꓽ  ꓧꓴꓳꓸꓼ ꓐꓴ ꓔꓯ ꓮ ꓗꓪ ꓛꓲ ꓛꓲ ꓡꓳ. ꓟꓳ ꓪ ꓓˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "gospel",
+    "eng_type": [{
+      "type": "adj."
+    }, {
+      "type": "n"
+    }],
+    "lisu": "ꓶꓼ ꓓꓳꓽ ꓫꓱ, ꓓꓳꓽ ꓔꓯ ꓟ꓾ ꓶꓼ ꓓꓳꓽ ꓫꓱ, ꓓꓳꓽ꓿",
+    "mm": "ဧဝံဂေလိ။",
+    "syntax": [{
+      "eng": "We intend to produce high quality  Lisu gospel albums in the future.",
+      "lisu": "ꓟꓲ ꓕꓯ ꓦꓬ ꓠꓬꓲ ꓗꓪ꓾ ꓗꓪ‐ꓡꓲ‐ꓔꓲ ꓟꓴˍ ꓟ ꓫꓱ. ꓖꓶ ꓟꓴꓽ ꓖꓪ ꓘꓪ. ꓫꓬ, ꓓꓳ ꓠ, ꓟ ꓥꓳ ꓡꓳ. ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "ground",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓟꓲ   ꓛꓬꓺ꓿",
+    "mm": "မြေပြင်၊ ကြမ်းပြင်။",
+    "syntax": [{
+      "eng": "When the airplane wheels touched the ground, I woke up.",
+      "lisu": "ꓐꓬꓱꓻ ꓦꓲ ꓛꓲ ꓪꓳꓽ ꓟꓲ ꓛꓬ ꓗꓪ ꓕꓳꓼ ꓬꓯꓼ ꓗꓷ ꓟꓽ ꓕꓱꓽ ꓥꓪ ꓬꓲꓼ ꓟꓶꓺ ꓧꓪ. ꓛꓲ ꓡꓻꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "guilty",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓞꓳ.ˍ ꓟ꓾ ꓛꓬˍ ꓟ꓾ ꓝꓴꓲ ꓙꓳˍ ꓟ꓿",
+    "mm": "အပြစ်ရှိသော၊ ပြစ်မှုထင်ရှားသော။",
+    "syntax": [{
+      "eng": "He was found guilty of using abuse of the   government property.",
+      "lisu": "ꓬꓲ ꓡꓰ ꓗꓴꓷꓼ ꓚꓬ (ꓗꓴꓷ ꓚꓬꓺ ꓔꓯ ꓟ) ꓒꓵꓽ ꓶꓼ ꓔꓯ ꓬꓲ ꓚꓲ ꓛꓬ ꓐꓱ ꓶ ꓣꓱꓽ ꓛꓬꓻ ꓗꓷꓳ  ꓐꓯˍ ꓟ ꓔꓯ ꓢꓴ ꓟꓳ ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "guita",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓙꓲꓻ ꓕꓺ꓿",
+    "mm": "ဂီတာ။",
+    "syntax": [{
+      "eng": "A common guitar has six strings.",
+      "lisu": "ꓛꓲ ꓐꓶꓻ ꓕꓲ ꓑꓼ ꓗꓪ ꓛꓲ ꓐꓶꓻ ꓚꓺ ꓛꓳꓼ ꓚꓺ ꓠꓳꓽˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "guitarist",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓛꓲ ꓐꓶ ꓡꓸꓷ, ꓒ꓿",
+    "mm": "ဂီတာသမား။",
+    "syntax": [{
+      "eng": "Mathiyae Gwah and Moses Fish are professional   guitarists.",
+      "lisu": "ꓖꓪꓽ ꓟ‐ꓕꓲ‐ꓬꓯꓼ ꓐꓰ ꓥꓪ. ꓟꓳ‐ꓫꓲ ꓕꓱ ꓠꓬꓲꓽ ꓣꓳ ꓠꓬ ꓲ ꓐꓶꓻ ꓡꓷ, ꓢꓲ ꓧꓪ ꓜ ꓔꓬ ꓢꓴ ꓛꓲ ꓐꓶ ꓡꓷ, ꓒ ꓐꓴ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hair",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓪꓴ. ꓞꓱꓻ꓾ ꓪꓴ. ꓗꓴꓺ ꓟ꓿",
+    "mm": "ဆံပင်။",
+    "syntax": [{
+      "eng": "Your hair grew so fast. You need a haircut.",
+      "lisu": "ꓠꓴ ꓪꓴ. ꓞꓱꓻ ꓮꓽ ꓘꓶ ꓫꓵꓺ ꓡ ꓝꓷꓼˍ ꓐꓷ꓿ ꓪꓴ. ꓞꓱꓻ ꓞꓶ ꓓ,ꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hate",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓠꓲ, ꓜꓳꓺ꓾ ꓠꓬꓲ ꓐꓴꓻ꓿",
+    "mm": "မုန်း၊ မုန်းထား။",
+    "syntax": [{
+      "eng": "No matter how much you hate your fingers, you cannot cut them off.",
+      "lisu": "ꓠꓴ ꓚꓲ ꓛꓬ ꓡꓯꓼ ꓠꓬꓲ ꓡꓯꓼ ꓟ ꓔꓯ ꓮ ꓘꓶ ꓛꓲ ꓠꓲ, ꓜꓳꓺˍ ꓟꓲ ꓓꓶꓺ ꓡꓳ ꓗꓷ ꓟ ꓠꓺ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "haughty",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓟꓬꓱ ꓓꓳꓽ ꓖꓳꓽ ꓧꓪˍ ꓟ꓿ ꓘꓶ ꓘ,ˍ ꓟ꓿ ꓠꓲ, ꓘ,ˍ ꓟ꓿ ꓑꓴꓽ ꓗꓲꓽ꓿",
+    "mm": "မောက်မာထောင်လွှားသော။",
+    "syntax": [{
+      "eng": "That jade money turned him to be a haughty man overnight.",
+      "lisu": "ꓬꓵ. ꓒꓴ (ꓬꓵ. ꓪꓴꓽ ꓟꓶꓻ ꓟ ꓒꓴ) ꓖꓳ ꓟ ꓡꓰ ꓬꓲ ꓔꓯ ꓑꓴꓽ ꓗꓲꓽ ꓒ ꓑꓶ. ꓡꓰ ꓝꓲꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "have",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓙꓳ꓿ ꓙꓳˍ ꓡꓳ꓿ ꓦ,ꓳ꓾ ꓔ.ꓳ꓿",
+    "mm": "ကိုင်၊ ကိုင်ထား။",
+    "syntax": [{
+      "eng": "Do you have a used text book to spare me?",
+      "lisu": "ꓠꓴ ꓔꓯ. ꓢꓳ ꓕꓳ ꓶ ꓑꓷꓠ ꓬꓲ ꓐꓰꓽ ꓕꓲ ꓑꓷꓠ ꓤꓼ ꓙꓳˍꓡ? ꓙꓳˍ ꓠꓬ ꓥꓪ ꓔꓯ ꓓꓰꓽ ꓖꓶ ꓣꓱꓽ ꓡꓯ ꓟꓴꓽ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "have",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓦ,ꓳ꓾ ꓔ.ꓳ ꓐꓯˍ ꓟ ꓠ  ꓠꓬꓲ ꓘꓶ ꓗꓪ ꓣꓱꓽˍ ꓡꓳ꓿",
+    "mm": "ကိုင်၊ကိုင်ထား။",
+    "syntax": [{
+      "eng": "I  have worked forty hours for this week.",
+      "lisu": "ꓕꓱ ꓕꓲ ꓠꓽ ꓐꓱ ꓶ ꓥꓪ ꓟꓬꓱꓽ ꓡꓲ ꓞꓲ ꓙꓵ, ꓬꓰ ꓦ,ꓳ꓿",
+      "mm": ""
+    }, {
+      "eng": "Have you prepared for dinner?",
+      "lisu": "ꓠꓴ ꓟꓶꓼ ꓘꓶ ꓜꓻ ꓐꓱ ꓶ ꓙꓽ ꓖꓶ ꓦ,ꓳ ꓪ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "heal",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓠꓻ ꓫꓬ,꓿ ꓫꓬ, ꓓꓻ ꓡꓰ꓾ ꓢꓻ ꓡꓰ꓿",
+    "mm": "ကုသပျောက်ကင်း။",
+    "syntax": [{
+      "eng": "A few hours after he used that skincare oil, his skin  disease was healed.",
+      "lisu": "ꓧꓪꓽ ꓗꓴ, ꓙꓲ ꓠꓯ ꓞꓲꓼ ꓞꓶꓻ ꓖꓳ ꓟ ꓣꓱꓽ ꓗꓷ ꓗ ꓠꓯ ꓠꓺ ꓡꓲ ꓢ ꓡꓲ ꓙꓵ, ꓛꓲ ꓕꓯ꓾ ꓬꓲ ꓧꓪꓽ ꓗꓴ, ꓙꓲꓻ ꓠꓻ ꓖꓳ ꓟ ꓓꓻ ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "health",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓧꓪꓽ   ꓢꓯꓼ꓿",
+    "mm": "ကျန်းမာရေး။",
+    "syntax": [{
+      "eng": "This eighty years old man is still very healthy.",
+      "lisu": "ꓦꓰꓼ ꓞꓲ ꓘꓳꓼ ꓙꓳˍ ꓟ ꓞꓳ ꓟꓳꓽ ꓕꓱ ꓕꓲ ꓣꓳ ꓮ ꓟꓶ ꓗꓪ ꓛꓲ ꓧꓪꓽ ꓢꓯꓼ ꓮꓽ ꓘꓶ ꓔꓰ,ˍ ꓢꓰꓽ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hear",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓑꓺ ꓙꓽ꓿ꓐꓯ ꓙꓽ꓿",
+    "mm": "ကြား၊ ကြားသည်။",
+    "syntax": [{
+      "eng": "If you don’t hear well, you’d better wash the ear  -wax out. But  if you are still deaf, go see a doctor.",
+      "lisu": "ꓠꓴ ꓬꓲ ꓜꓲ ꓟꓽ ꓑꓺ ꓙ ꓐꓯˍ ꓠꓬ ꓠ. ꓑꓳ ꓘꓲꓽ ꓙꓰ ꓗꓳ. ꓞꓲꓽ ꓩꓴ ꓗꓷ꓿ ꓠ. ꓑꓳ ꓡꓲꓽˍ ꓢꓰꓽ ꓐꓯˍ ꓠꓬ꓾ ꓠꓯ ꓞꓲꓼ ꓟ. ꓒ ꓓꓳ‐ꓔ ꓔꓯ ꓙꓰ ꓟ. ꓖꓶ ꓬꓰ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "heat",
+    "eng_type": [{
+      "type": "v"
+    }, {
+      "type": "n"
+    }],
+    "lisu": "ꓞꓻ ꓢꓯꓼ ꓖꓶ꓿ ꓞꓻ ꓢꓯꓼ꓿",
+    "mm": "အပူ၊အပူပေးသည်။",
+    "syntax": [{
+      "eng": "Gas is used to heat homes in the U.S.A.",
+      "lisu": "ꓟꓷꓽ ꓗꓴꓷ ꓗꓪ꓾ ꓖꓯ, ꓢꓶ ꓣꓱꓽ ꓢꓲ ꓦꓲ ꓔꓯ ꓞꓻ ꓢꓯꓼ ꓖꓶˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hobby",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓧꓳ ꓐꓲ꓿ ꓯ, ꓧꓮꓳꓽ꓿ ꓪ‐ꓢ‐ꓠ꓿",
+    "mm": "ဝါသနာ",
+    "syntax": [{
+      "eng": "The thing what you always want to do is your  hobby.",
+      "lisu": "ꓠꓴ ꓮ ꓕꓯ  ꓟ ꓕꓯ ꓬꓰ ꓔꓬ ꓠꓲ, ꓫꓵˍ ꓟ ꓖꓳ ꓕꓲ ꓫꓵꓽ ꓠꓬ ꓠꓴ ꓯ, ꓧꓳꓽ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hold",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓣꓱꓽ ꓞ,꓾ ꓣꓴ ꓞ,꓾ ꓠꓬ, ꓔ꓿",
+    "mm": "ကိုင်၊ကိုင်ထား။",
+    "syntax": [{
+      "eng": "Hold the handle of the umbrella up straight, please.",
+      "lisu": "ꓬꓼ ꓢꓼ ꓡꓯꓼ ꓪꓵꓽ ꓔꓯ ꓔꓺ ꓔꓺ ꓢꓲꓺ ꓣꓱꓽ ꓞ, ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hole",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓬꓲ ꓘꓴꓻ꓾ ꓬꓲ ꓠꓬꓺ꓿",
+    "mm": "အပေါက်၊ တွင်း။",
+    "syntax": [{
+      "eng": "After the flood, there outside the village, a big hole  appeared in the ground.",
+      "lisu": "ꓮ. ꓙꓬꓺ ꓟꓷ.ˍ ꓟ ꓡꓳ, ꓬꓰ ꓕꓯ꓾ ꓙꓪꓻ ꓞꓳ ꓘ, ꓐꓻ ꓫꓱꓻ ꓟꓲ ꓛꓬꓺ ꓗꓪ ꓬꓲ ꓘꓴꓻ ꓓꓽ ꓟ ꓕꓲ ꓘꓴ ꓙꓳ ꓡꓻꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "home",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓦꓲ꓿ ꓦꓲ ꓘꓴꓽ꓿",
+    "mm": "အိမ်။",
+    "syntax": [{
+      "eng": "Most people own homes. But there are some homeless, although they are human beings like we are.",
+      "lisu": "ꓞꓳ ꓤ ꓟꓬꓽ ꓐꓱ ꓠꓬ ꓦꓲ ꓙꓳ ꓗꓪ ꓙꓳˍ ꓡꓳ꓿ ꓕꓲ ꓐꓱ  ꓢꓴ ꓠꓽ ꓣꓳꓽ ꓫꓱ. ꓫꓱꓸꓼ ꓞꓳ ꓤ ꓥ ꓡꓳ ꓐꓯˍ ꓟꓲ ꓦꓲ ꓟꓽ ꓙꓳ ꓗꓪ ꓟꓽ ꓙꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "house",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓦꓲ꓿",
+    "mm": "အိမ်၊ နေအိမ်။",
+    "syntax": [{
+      "eng": "Our house is made of brick and woods.",
+      "lisu": "ꓥꓪ ꓠꓴꓽ ꓦꓲ ꓠꓬ ꓞꓽ ꓛꓬ ꓘꓴ. ꓐꓰ ꓢꓲ, ꓓ  ꓦꓲ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "household",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓦꓲ ꓘꓴꓽ꓾ ꓦꓲ ꓘꓴꓽ ꓡꓽ ꓞꓳ꓿",
+    "mm": "အိမ်ထောင်။",
+    "syntax": [{
+      "eng": "My family members are my household.",
+      "lisu": "ꓥꓪ ꓕꓲ ꓦꓲ ꓡꓽ ꓞꓳ ꓮꓽ ꓙꓵ ꓠꓬ ꓥꓪ ꓦꓲ ꓘꓴꓽ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "housewife",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓦꓲ ꓢꓲ ꓟ꓿",
+    "mm": "မိန်းမ။",
+    "syntax": [{
+      "eng": "A good housewife.",
+      "lisu": "ꓙꓲˍ ꓟ ꓦꓲ ꓢꓲ ꓟ ꓕꓲ ꓣꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "housekeeping",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓦꓲ ꓗꓪꓽ ꓫꓵꓽ ꓟꓬꓱꓽ꓿",
+    "mm": "ထိမ်းသိမ်း။",
+    "syntax": [{
+      "eng": "Housekeeping jobs in a hotel.",
+      "lisu": "ꓪꓧꓳ‐ꓔꓰꓻ ꓗꓳ, ꓗꓪ ꓗꓪꓽ ꓫꓵꓽ ꓟꓬꓱꓽ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "how",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": "ꓮ ꓡꓲ ꓐꓰ꓿",
+    "mm": "ဘယ်လို၊ ဘယ်ကဲ့သို့၊ ဘယ်ပုံဘယ်နည်း။",
+    "syntax": [{
+      "eng": "How often did you send your aging father some money?",
+      "lisu": "ꓠꓴ ꓐ, ꓐ ꓞꓳ ꓟꓳꓽ ꓔꓯ ꓮ ꓡꓲ ꓟꓶꓺ ꓕꓲ ꓧꓪ, ꓒꓴ ꓢꓳꓥꓽ ꓖꓶˍ ꓡ ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "however",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": "ꓮ ꓡꓲ ꓐꓰ ꓢꓲ ꓥˍ ꓟꓲ꓿ ꓮ ꓡꓲ ꓥˍ ꓟꓲ꓿ ꓖꓳ ꓡꓱ ꓥ ꓐꓯ ꓟꓽ ꓘꓪꓽ꓿",
+    "mm": "မည်ရွေ့ မည်မျှ၊ ဘယ်လိုပင်။",
+    "syntax": [{
+      "eng": "Many aging people try  to keep their hair from losing. However, losing hair is a matter of nature.",
+      "lisu": "ꓞꓲꓼ ꓪꓴꓽ ꓡ ꓔꓬ ꓢꓴ ꓮꓽ ꓟꓬ, ꓠꓬ꓾ ꓬꓲ ꓪꓽ ꓪꓴ. ꓞꓱꓻ ꓟꓽ ꓟꓶ ꓬꓰ ꓠ, ꓟ ꓐꓱ ꓶ ꓢꓯꓼ ꓕꓵꓼˍ ꓡꓳ꓿ ꓮ ꓡꓲ ꓢꓯꓼ ꓕꓵꓼˍ ꓐꓯ ꓟꓽ ꓘꓪꓽ꓾ ꓪꓴ. ꓞꓱꓻ ꓟꓶ ꓬꓰˍ ꓟ ꓠꓬ ꓟꓲꓠꓯ ꓬꓲ ꓡꓲꓽ꓾ ꓝꓲꓻ ꓤ, ꓕꓲ ꓙꓰꓽ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hope",
+    "eng_type": [{
+      "type": "v"
+    }, {
+      "type": "n"
+    }],
+    "lisu": "ꓥꓳꓺ ꓡꓳ.꓿",
+    "mm": "မျော်လင့်၊ မျောင်လင့်ချက်။",
+    "syntax": [{
+      "eng": "I hope you will pass the exam.",
+      "lisu": "ꓠꓴ ꓕꓳ ꓶ ꓘꓮꓳꓽ ꓦ, ꓟ ꓧꓪ. ꓡꓰˍ ꓓꓴ꓾ ꓐꓰ ꓥꓪ ꓥꓳꓺ ꓡꓳ.ˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hopeful",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓥꓳꓺ ꓡꓳ. ꓓꓴ ꓐꓲ ꓞ,꓾ ꓦ ꓡꓱ ꓐꓳ ꓐꓳˍ꓿",
+    "mm": "မျော်လင့်၊ မျော်လင့်ချက်။",
+    "syntax": [{
+      "eng": "Many people are hopeful of winning a big lottery ticket.",
+      "lisu": "ꓡꓽ ꓞꓳ ꓮꓽ ꓟꓬ, ꓠꓬ ꓡꓳ‐ꓔ‐ꓡꓲ ꓞꓮꓲꓺ ꓒꓬꓽ ꓓꓽ ꓟ ꓕꓲ ꓑꓳꓼ ꓧꓪ. ꓡꓰ ꓠ, ꓟ ꓥꓳ ꓡꓳ. ꓔꓬ ꓖꓴˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hopefully",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": "ꓥꓳ ꓡꓳ. ꓢꓲ ꓠꓬꓲ꓾ ꓦꓳ ꓡꓳ. ꓓꓴ ꓙꓳ ꓙꓳˍ ꓐꓰ꓿",
+    "mm": "",
+    "syntax": [{
+      "eng": "Citizens  are hopefully waiting for the end of this civil war.",
+      "lisu": "ꓑ ꓫꓬꓼ ꓡꓽ ꓞꓳ ꓐꓴ ꓠꓬ꓾ ꓟꓯꓼ ꓟꓶ ꓙꓽ ꓡꓳ, ꓬꓰ  ꓦꓬ ꓠꓬꓲ ꓔꓯ ꓥꓳ ꓡꓳ. ꓓꓴ ꓒꓺ ꓐꓲꓸꓼ ꓐꓰ ꓦꓴ ꓠꓬ, ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hopeless",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓥꓳ ꓡꓳ. ꓓꓴ ꓬꓲ ꓖꓳꓽ꓾ ꓥꓳ ꓡꓳ. ꓓꓴ ꓟꓽ ꓙꓳ꓿",
+    "mm": "မျော်လင့်ချက်မဲ့သော။",
+    "syntax": [{
+      "eng": "When the robbers ran away with his money, the traveler was left by the roadside hopeless.",
+      "lisu": "ꓛꓬꓽ ꓜ ꓒ ꓐꓴ ꓡꓰ ꓬꓲ ꓒꓴ ꓮꓽ ꓙꓵ ꓦꓴ ꓔꓯ, ꓘꓰ, ꓙꓰ ꓕꓯ꓾ ꓓꓴ ꓓꓳ ꓒ ꓠꓬ ꓗ ꓠꓯ ꓢꓲꓺ ꓗꓪ ꓥꓳ ꓡꓳ. ꓬꓲ ꓖꓳꓽ ꓗꓷ ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "humble",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓙꓻ ꓣꓳꓽ ꓠꓲ, ꓙꓳˍ ꓟ꓿ ꓱ ꓠꓲ, ꓣꓱꓽˍ ꓟ꓿",
+    "mm": "နှိမ့်ချသော။",
+    "syntax": [{
+      "eng": "Because great men are humble, they are  friendly to a vagabond like me.",
+      "lisu": "ꓓꓻ ꓒ꓾ ꓪꓽ ꓠꓬꓲ ꓢꓴ ꓐꓴˍ ꓟꓲ ꓙ ꓣꓳꓽ ꓠꓲ, ꓙꓳˍ ꓠꓬ i꓾ ꓥꓪ ꓡꓰꓳ ꓫꓵꓽ ꓫꓽ ꓟꓽ ꓚ ꓡ ꓒ ꓔꓯ ꓖꓶꓻ ꓪꓽ ꓡꓯꓼ ꓘꓳ ꓐ ꓡˍ ꓐꓷ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hungry",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": "ꓦꓰꓼ ꓟꓷꓼ꓿",
+    "mm": "ဆာသော၊ ငတ်သော။",
+    "syntax": [{
+      "eng": "When we are hungry love will keep us alive.",
+      "lisu": "ꓦꓰꓼ ꓟꓷꓼˍ ꓕꓸꓯ ꓠꓵ ꓠꓲ, ꓡꓰ ꓣꓳꓽ ꓔꓯ ꓢꓯꓼ ꓦ ꓓꓻ ꓝꓲˍ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hunt",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓧꓪꓽ ꓖ꓾ ꓖꓼ ꓧꓪ꓿",
+    "mm": "အမဲလိုက်၊ မုဆိုး။",
+    "syntax": [{
+      "eng": "The police men will hunt down the burglars.",
+      "lisu": "ꓡꓲꓼ ꓟꓯꓼ ꓒ (ꓚꓲꓥ  ꓛꓽ) ꓐꓴ ꓠꓬ ꓒꓬ, ꓜꓽ ꓒ ꓔꓯ ꓖꓼ ꓧꓪ ꓔꓳꓼ ꓠꓬ, ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hunter",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓧꓪꓽ ꓖꓼ ꓒ꓿",
+    "mm": "မုဆိုး။",
+    "syntax": [{
+      "eng": "Majority of Lisu men were  hunters",
+      "lisu": "ꓧꓶ. ꓕꓯ ꓡꓲ‐ꓢꓴ ꓒ ꓟꓬꓽ ꓐꓱꓻ ꓠꓬ ꓧꓪꓽ ꓖꓼ ꓒ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hurt",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": "ꓠꓻ ꓡꓰ ꓝꓲ꓾ ꓫꓮꓥꓺ ꓡꓰ ꓝꓲ꓿",
+    "mm": "နာကျင်စေသည်။",
+    "syntax": [{
+      "eng": "His business was badly hurt.",
+      "lisu": "ꓬꓲ ꓶꓻ ꓡꓯꓼ ꓚꓱ, ꓗꓪ ꓠꓻ ꓠꓻ ꓫꓮꓥ ꓡꓰꓳ꓿",
+      "mm": ""
+    }, {
+      "eng": "Please do not hurt the children’s hearts .",
+      "lisu": "ꓤꓽ ꓠꓱ ꓤꓼ ꓐꓴ ꓬꓲ ꓪꓽ  ꓠꓲ, ꓟ ꓔꓯ ꓕ ꓠꓻ ꓡꓰ ꓝꓲ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "hut",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": "ꓟꓻ ꓑꓬ, ꓦꓲ꓾ ꓦꓲ ꓑꓬꓺ꓿",
+    "mm": "တဲ၊ တဲကုတ်။",
+    "syntax": [{
+      "eng": "Our forefathers lived in bamboo huts.",
+      "lisu": "ꓣꓳꓽ ꓒꓵꓽ ꓒ ꓐꓴ ꓠꓬ ꓟꓻ ꓑꓬ, ꓦꓲ ꓗꓪ ꓔꓬ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "if",
+    "eng_type": [{
+      "type": "conj."
+    }, {
+      "type": "n"
+    }],
+    "lisu": "ꓕꓲ ꓙꓬꓼ꓾ ꓕꓲ ꓙꓰꓽ ... ꓥ ꓐꓷ, ꓕꓯ꓿ ꓥ ꓚꓰꓼ ꓐꓷ, ꓠꓬ꓿",
+    "mm": "အကယ်၍သာ၊ အကယ်၍များ။",
+    "syntax": [{
+      "eng": "If you were a young woman, Mark, what kind of man would you marry?",
+      "lisu": "ꓕꓲ ꓙꓬꓼ ꓟ‐ꓘꓳ ꓠꓴ ꓠꓬ ꓤ ꓟꓶ ꓡꓯ. ꓤ ꓕꓲ ꓣꓳ ꓥ ꓚꓰꓼ ꓐꓷ, ꓕꓯ꓾ ꓮ ꓡꓲꓳ ꓫꓵꓽ ꓞꓳ ꓑ ꓤ ꓔꓯ ꓠꓴ ꓠꓲ, ꓒꓴˍ ꓐꓯˍ ꓡ?"
+    }]
+  }, {
+    "eng": "ill ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓠꓻ꓾ ꓠꓻ ꓒꓬꓽ ꓙꓳ꓿ ",
+    "mm": " ဖျားနာ။ ",
+    "syntax": [{
+      "eng": " Jya Aphu is ill. So, he can't go to school today. ",
+      "lisu": " ꓙꓬꓽ ꓮ‐ꓒꓴ ꓠꓻ ꓔꓬ ꓡꓳ꓿ ꓖꓳ ꓡꓱ ꓠꓬꓲ ꓬꓲ ꓠꓬꓲ. ꓟꓲ ꓙꓳꓥ ꓦꓲ ꓙꓰ ꓟꓽ ꓐ ꓡ꓿ ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "in ",
+    "eng_type": [{
+      "type": "prep."
+    }, {
+      "type": " adv."
+    }],
+    "lisu": " ꓗꓪ ",
+    "mm": " တွင်၊ မှာ။ ",
+    "syntax": [{
+      "eng": " Mother is in the kitchen. And dad is in the garden. ",
+      "lisu": " ꓟ, ꓟ ꓠꓬ ꓜ ꓚꓬ, ꓗꓳ, ꓗꓪ ꓥ (ꓔꓬ ꓡꓳ)꓿ ꓝꓮꓲ ꓐ, ꓐ ꓠꓬ ꓪꓳꓽ ꓐꓱ ꓗꓪ ꓔꓬ ꓡꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " My parents are in the Myitkina, Kachin State, Myanmar. ",
+      "lisu": " ꓥꓪ ꓒꓽ ꓟ ( ꓥꓪ ꓒꓽ ꓥꓪ ꓟ ) ꓠꓬ ꓟꓬ‐ꓟ ꓗꓴꓷ꓾ ꓗ,‐ꓛꓲꓽ ꓟꓵꓽ꓾ ꓟꓲ‐ꓚꓲ‐ꓠ ꓡꓳ ꓒꓱ ꓗꓪ ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "in fact ",
+    "eng_type": [{
+      "type": "phrasal"
+    }],
+    "lisu": " ꓬꓲ ꓚꓽ ꓐꓯˍ ꓕꓯ꓾ ꓬꓲ ꓚꓽ ꓠꓬ꓾ ",
+    "mm": " တက်တော့၊ မှန်က။ ",
+    "syntax": []
+  }, {
+    "eng": "ink ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓷ,꓿ ꓟꓷ, ꓬꓲꓻ꓿ ꓐꓳ ꓞꓶꓻ꓿ ",
+    "mm": " မှင်။ ",
+    "syntax": [{
+      "eng": " Some cashier printers use papers that does not need ink. ",
+      "lisu": " ꓘꓯ.‐ꓫꓲ‐ꓬ ꓑꓲꓠ‐ꓔꓺ ꓕꓲ ꓐꓱ ꓟ ꓠꓬ ꓟꓷꓽ ꓬꓲꓻ ꓣꓱꓽ ꓟꓽ ꓛꓵꓳ ꓫꓵꓽ ꓕꓳ ꓶ ꓒꓬꓽ ꓣꓱꓽˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "inside ",
+    "eng_type": [{
+      "type": "n"
+    }, {
+      "type": " adj."
+    }, {
+      "type": " prep."
+    }, {
+      "type": " adv."
+    }],
+    "lisu": " ꓠꓯꓸꓼ꓾ ꓠꓯꓸꓼ ꓗꓪ꓾ ꓘꓴꓽ ꓗꓪ꓿ ",
+    "mm": " ထဲမှာ၊ အတွင်းမှာ။ ",
+    "syntax": [{
+      "eng": " A man is trapped inside the burning building. ",
+      "lisu": " ꓞꓳ ꓑ ꓤ ꓕꓲ ꓣꓳ ꓠꓬ ꓮ. ꓔꓳ. ꓐꓬꓻ ꓔꓬ ꓟ ꓦꓲ ꓘꓴꓽ ꓠꓯꓸꓼ ꓗꓪ ꓐꓱ ꓓ, ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "insult ",
+    "eng_type": [{
+      "type": "v."
+    }, {
+      "type": " n "
+    }],
+    "lisu": " ꓪꓴꓽ ꓣꓴꓽ꓾ ꓡꓽ ꓞꓳ ꓔꓯ ꓟꓽ ꓒꓵꓽ ꓟꓽ ꓚꓬꓺ ꓥꓳꓽ ꓕꓱˍ ꓟ꓿ ",
+    "mm": " စော်ကား။ ",
+    "syntax": [{
+      "eng": " No one should insult their own parents. ",
+      "lisu": " ꓚꓲ ꓛꓬ ꓐ, ꓐ ꓟ, ꓟ ꓔꓯ ꓪꓴꓽ ꓣꓴꓽ ꓟꓽ ꓚꓰꓼ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "intend ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓚꓴꓽ ꓬꓲ, ꓓꓶ꓿ ꓔꓽ ꓢꓪ.꓿ ",
+    "mm": " ကြံစည်၊ ရည်ရွယ်။ ",
+    "syntax": [{
+      "eng": " He intends to find a job and start working to support the family after graduation from college. ",
+      "lisu": " ꓬꓲ ꓠꓬ ꓘꓳ. ꓡꓲꓼ ꓙꓳꓥ ꓢꓳ ꓓꓳ ꓡꓰ ꓟꓽ ꓕꓱꓽ ꓟꓬꓱꓽ ꓧꓪ ꓣꓱꓽ ꓪꓴ. ꓔꓴ ꓢꓲ꓾ ꓚꓲ ꓛꓬ ꓦꓲ ꓘꓴꓽ ꓔꓯ ꓔꓳ, ꓙ ꓠ, ꓟ ꓚꓴꓽ ꓬꓲ, ꓓꓶ ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "international ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓗꓴꓷꓼ ꓜꓴ ꓐꓰ ꓗꓴ. ꓙꓲꓽ ꓙꓳˍ ꓟ꓿ ꓟꓵꓽ ꓗꓳ, ꓓꓵ ꓓꓵ꓿ ",
+    "mm": " အပြည်ပြည်ဆိုင်ရာ။ ",
+    "syntax": [{
+      "eng": " I wish the Myitkyina Airport will be upgraded into an International Airport. ",
+      "lisu": " ꓟꓲ‐ꓚꓲ‐ꓠ ꓐꓬꓱ ꓦꓲ ꓛꓽ ꓕꓱ ꓟ ꓔꓯ ꓟꓵꓽ ꓗꓳ, ꓓꓵ ꓓꓵ ꓐꓬꓱ ꓦꓲ ꓛꓽ ( ꓐꓬꓱ ꓦꓲ ꓠꓽ ꓔꓶ.) ꓕꓲ ꓟ ꓒꓬꓱꓼ ꓡ ꓝꓲ ꓠꓲ,ꓫꓵˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "interest ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓢꓲ. ꓬꓼ ꓢ.꓾ ꓢꓲ. ꓬꓼ ꓢ.ˍ ꓟ꓿ ꓡꓲꓸꓼ꓾ ꓒꓴ ꓘꓲꓽ꓿ ",
+    "mm": " စိတ်ဝင်စား။ ငွေတိုး၊ အကျိုးအမြတ်။ ",
+    "syntax": [{
+      "eng": " They have a great interest in their own literature production.",
+      "lisu": " ꓬꓲ ꓪꓽ ꓠꓬ ꓬꓲ ꓪꓽ ꓚꓲ ꓛꓬ ꓞꓳ ꓫꓵꓽ ꓕꓳ ꓶ ꓟꓬꓱꓽ ꓔꓯ ꓟꓳ ꓮꓽ ꓘꓶ ꓢꓲ. ꓬ ꓢ. ꓔꓬ ꓡꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " Do not charge your brothers any interest when you lend them money. ",
+      "lisu": " ꓠꓴ ꓬꓲꓼ ꓠꓴ ꓠꓬꓲ ꓐꓴ ꓔꓯ ꓒꓴ ꓛꓵꓽ ꓖꓶ ꓥꓪ. ꓖꓶˍ ꓕꓯ ꓡꓲꓸꓼ ꓕ ꓜꓽ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "internet ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓲꓠ‐ꓔ‐ꓠꓯꓼ꓾ ꓟꓲꓽ ꓦꓲ ꓚꓱ, ꓗꓪ ꓐꓰ ꓗꓳ‐ꓑꓬꓴ‐ꓔ ꓛꓳꓽ ꓗꓳ‐ꓑꓬꓴ‐ꓔ ꓙꓻ ꓡꓯꓼ ꓘꓳ ꓝ ꓡꓯꓼ ꓘꓳ ꓚꓱ,꓿ ",
+    "mm": " အင်တာနက်။ ",
+    "syntax": [{
+      "eng": " The first use of internet was in 1974. ‐‐‐ ꓠꓲ‐ꓔ‐ꓠꓯꓼ ꓔꓯ ꓬꓲ ꓪꓴ. ꓕꓲ ꓧꓪ, ꓣꓱꓽˍ ꓟ ꓠꓬ 1974 ꓘꓳꓼ ꓗꓪ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "invest ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓒꓴ ꓫꓵ. ꓔꓶꓺ꓿ ",
+    "mm": " ရင်းနှီး၊ ရင်းနှီးမြုပ်နှံ။ ",
+    "syntax": [{
+      "eng": " Parents invest in their children's education. ‐‐‐ ꓮꓽ ꓐꓽ ꓮ ꓟ ꓐꓴ ꓠꓬ ꓬꓲꓮ ꓤ ꓫꓵ. ꓤ ꓠꓱ ꓐꓴ ꓢꓷ ꓠꓲ, ꓚꓱ, ꓗꓪ ꓒꓴ ꓫꓵ. ꓔꓶꓺˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "investment",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓒꓴ ꓫꓵ. ꓔꓶˍ ꓟ ꓟꓬꓱꓽ꓿ ",
+    "mm": " ရင်းနှီးမြုပ်နှံ။ ",
+    "syntax": [{
+      "eng": " Ahuge foreign investment. ",
+      "lisu": " ꓐꓶ ꓗꓴꓷꓼ ꓗꓪ ꓐꓰ ꓔꓯ, ꓔꓶꓺ ꓡˍ ꓟ ꓒꓴ ꓫꓵ. ꓓꓽ ꓟ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "invite ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓛꓲꓥꓽ꓾ ꓘꓴꓻ꓿ ",
+    "mm": " ဖိတ်၊ ခေါ်ဖိတ်၊ ဖိတ်ခေါ်။ ",
+    "syntax": [{
+      "eng": " Mark invited us to their son's wedding.",
+      "lisu": " ꓬꓲꓮ ꓮ ꓐꓲ ꓡꓯꓼ ꓒꓯꓼ ꓝ ꓑꓮꓲ ꓗꓪ ꓡ ꓠ, ꓟ꓾ ꓟ,‐ꓘꓳ ꓡꓰ ꓥꓪ ꓠꓴꓽ ꓔꓯ ꓚꓲꓥꓽˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "invitation ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ဖိတ်ခေါ်။ ",
+    "mm": " The wedding invitation card was so beautiful. --- ꓡꓯꓼ ꓒꓯ, ꓝ ꓑꓮꓲ ꓘꓴ ꓕꓳ ꓶ ꓒꓬꓽ ꓠꓬ ꓮ. ꓘꓶ ꓡꓳ. ꓐꓲˍ ꓡꓳ꓿",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "is ",
+    "eng_type": [{
+      "type": "v-be"
+    }],
+    "lisu": " ꓥ ꓡꓳ꓿ ꓓ, ꓡꓳ꓿ ꓔꓬ ꓡꓳ꓿ ",
+    "mm": " ရှိသည်၊ နေထိုင်သည်။ ",
+    "syntax": [{
+      "eng": " She is a hospital nurse. ",
+      "lisu": " ꓬꓲ ꓠꓬ ꓠꓯ ꓞꓲꓼ ꓦꓲ ꓗꓪ ꓟ ꓠ,‐ꓢꓶ ꓟꓺ ꓕꓲ ꓣꓳ ꓥ ꓡꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " Where is the doctor? ",
+      "lisu": " ꓟꓳ, ꓒ ꓓꓳ‐ꓔ ꓮ ꓡꓲ ꓗꓪ ꓥ, ꓡ? ꓡꓲ ꓗꓪ ꓔꓬ? ",
+      "mm": ""
+    }, {
+      "eng": " He is with the patients inside the ward. ",
+      "lisu": " ꓬꓲ ꓠꓬ ꓞꓳ ꓠꓻ ꓬꓲꓼ ꓔ ꓗꓳ, ꓠꓯꓸꓼ ꓗꓪ ꓞꓳ ꓠꓻ ꓐꓴˍ ꓐꓰ ꓕꓲ ꓪˍ ꓥ ꓡꓳ꓿ ꓔꓬˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "island ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓔꓮꓳꓽ꓾ ꓬꓲꓻ ꓗꓳ ꓡꓳ ꓟꓵꓽ꓿ ",
+    "mm": " ကျွန်း၊ ရေလည်ကျွန်း။ ",
+    "syntax": [{
+      "eng": " Japan and England are island countries. ",
+      "lisu": " ꓬꓲꓥ ꓗꓴꓷ ꓐꓴ ꓠꓬ ꓬꓲꓻ ꓗꓳꓺ ꓡꓳ ꓟꓵꓽ ꓗꓴꓷ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "isn't ",
+    "eng_type": [{
+      "type": "contraction"
+    }],
+    "lisu": " ꓟꓽ ꓥ꓿ ",
+    "mm": " မဟုတ်။ ",
+    "syntax": [{
+      "eng": " Israel isn't a poor country. ",
+      "lisu": " ꓬꓲ‐ꓢꓷ‐ꓡꓰ ꓠꓬ ꓞꓳ ꓫ ꓗꓴꓷꓼ ꓕꓲ ꓗꓴꓷ ꓟꓽ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "Israel ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓬꓲ‐ꓢꓷ‐ꓡꓰ꓿ ꓬꓲ‐ꓢꓷ‐ꓡꓰ ꓗꓴꓷ꓿ ",
+    "mm": " အစ္စရေး။ ",
+    "syntax": [{
+      "eng": " Israel can transform the desert land into green forest. ",
+      "lisu": " ꓬꓲ‐ꓢꓷ‐ꓡꓰ ꓠꓬ ꓟꓵꓽ ꓛꓱ, ꓔꓯ ꓢꓲ, ꓠꓯ ꓡꓲ ꓑꓶ. ꓡꓰ ꓝꓲ ꓐ ꓡˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "jar ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓗꓴꓰ꓿ ꓠꓱ. ꓡꓱꓽ ꓐꓰꓻ ꓤꓼ꓿ ",
+    "mm": " ရေခရား၊ ပလပ်စတစ်ခရားအိုး။ ",
+    "syntax": [{
+      "eng": " She filled up the plastic jar with fruit juice and placed it on the dining table. ",
+      "lisu": " ꓬꓲ. ꓠꓬ ꓮ. ꓙꓬ ꓗꓴꓰ. ꓗꓪ ꓢꓲ, ꓢꓶ ꓬꓲꓻ ꓗꓶꓺ ꓐꓲ ꓢꓲ ꓜ ꓜꓽ ꓚꓳ, ꓝꓲꓺ ꓕꓯ ꓢꓲꓺ ꓗꓪ ꓚꓰ, ꓗꓷˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "jaguar ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓙ,‐ꓖꓪꓺ ꓡꓽ꓿ ",
+    "mm": " အာဖရိကကျားသစ်။ ",
+    "syntax": [{
+      "eng": " Made in U.S.A. jaguar car is as strong as a jaguar in central Africa. ",
+      "lisu": " ꓟꓷꓽ ꓗꓴꓷ ꓙ,‐ꓖꓪ‐ꓡꓽ ꓟꓳ ꓓꓳ ꓠꓬ꓾ ꓩꓷꓺ ꓚꓷꓴꓺ ꓗꓪ ꓟ ꓙ,‐ꓖꓪ‐ꓡꓽ ꓟ ꓫꓱ. ꓫꓱꓸꓼ ꓢꓯꓼ ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "jealous ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓟꓬ ꓔꓳ,꓿ ",
+    "mm": " မနာလိုစိတ်ဖြစ်၊ မနာလိုမရူစိမ့်ဖြစ်။ ",
+    "syntax": [{
+      "eng": " We must not fell jealous of our brothers' success in their business. ",
+      "lisu": " ꓣꓳꓽ ꓠꓬ ꓚꓲ ꓛꓬ ꓮ. ꓬꓲꓼ ꓠꓬꓲ ꓤ ꓐꓴ ꓶꓻ ꓡꓯꓼ ꓚꓱ, ꓗꓪ ꓪꓴꓽ ꓡˍ ꓟ ꓟꓳˍ ꓕꓯ ꓟꓬ ꓔꓳ, ꓟꓽ ꓓ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "Jesus ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓢꓲ ꓒ ꓬꓰ‐ꓢꓴ꓿ ",
+    "mm": " သခင်ယေရှု။ ",
+    "syntax": [{
+      "eng": " Jesus literally lived and walked 2000 years ago. ",
+      "lisu": " ꓗꓳ. ꓗꓷ ꓟ 2000 ꓘꓳꓼ ꓕꓯ ꓢꓲ ꓒ ꓬꓰ‐ꓢꓴ ꓟꓲ ꓠꓯ ꓗꓪ ꓬꓲ ꓑꓰ, ꓬꓲ ꓚꓽ ꓢꓯ. ꓔꓬ ꓢꓲ ꓫꓱꓽ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "jet ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓙꓰꓸꓼ ꓐꓬꓱ ꓦꓲ꓾ ꓩꓷ ꓚꓲꓺ꓿ ꓞꓳ ꓤ ꓘꓴ ꓢꓯꓼ ꓕꓯ ꓢꓲꓺ ꓟꓬꓱˍ ꓟ꓾ ꓕꓶ.ˍ ꓟ ꓐꓬꓱꓻ ꓦꓲ꓿ ",
+    "mm": " ဂျက်လေယဥ်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "jetliner ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓑ‐ꓢꓰꓠ‐ꓙ ꓕꓳꓽ ꓙꓰꓸꓼ ꓐꓬꓱ ꓦꓲ꓿ ",
+    "mm": " ခရီးသည်တင် လေယဥ်ပျံကြီး။ ",
+    "syntax": [{
+      "eng": " Boeing 747 was the biggest airliner which is make in U.S.A. ",
+      "lisu": " ꓐꓳ,‐ꓬꓲꓥ, ꓙꓰꓸꓼ 747 ꓐꓬꓱ ꓦꓲ ꓠꓬ ꓟꓷꓽ ꓗꓴꓷ ꓗꓪ ꓫꓬ, ꓔ ꓟ ꓥ ꓢꓲ꓾ ꓟꓲ ꓠꓯ ꓗꓪ ꓪꓴꓽ ꓓꓰ ꓡꓰ ꓟ ꓑ‐ꓢꓰꓠ‐ꓙ ꓕꓳꓽ ꓙꓰꓸꓼ ꓐꓬꓱ ꓦꓲ ꓕꓲ ꓑꓼ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "job ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓬꓱꓽ꓿ ꓣꓱꓽ ꓜ ꓬꓰ ꓜ ꓚꓱ,꓿ ",
+    "mm": " အလုပ်။ ",
+    "syntax": [{
+      "eng": " Playing the piano at a night club every night is his job. ",
+      "lisu": " ꓬꓲ ꓟꓬꓱꓽ ꓠꓬ꓾ ꓠꓮꓲꓸꓼ ꓘꓼ ꓡꓼ ꓕꓲ ꓟ ꓗꓪ ꓕꓲ ꓦꓬꓼˍ ꓡꓰ ꓑꓲꓮꓠꓳ ꓠꓬꓲ.ˍ ꓟ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "join ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓓꓵꓽ ꓙꓰꓻ꓿ ",
+    "mm": " ဆက်စပ်၊ ပူးပေါင်းသည်၊ အဖွဲ့ အစည်းတစ်ခုသို့ဝင်သည်။ ",
+    "syntax": [{
+      "eng": " Abraham Bobi will join the US military when his age reach 20. ",
+      "lisu": " ꓮ‐ꓐ‐ꓡ‐ꓦ ꓐꓳ‐ꓐꓲ ꓬꓲ ꓞꓲꓼ 20 ꓘꓳꓼ ꓐꓲ ꓡꓰˍ ꓕꓲ ꓠꓬꓲ꓾ ꓬꓲ ꓠꓬ ꓟꓷꓽ ꓗꓴꓷ ꓟꓯꓼ ꓜꓴ ꓗꓪ ꓓꓵꓽ ꓙꓰˍ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "joint ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓔꓺ ꓡꓯꓼ ꓘꓳ ꓢꓲ꓾ ꓕꓲ ꓜꓴˍ ꓬꓰ ꓢꓲ꓿ ",
+    "mm": " ပူးတွဲ၊ အဆစ်အမြစ်။ ",
+    "syntax": [{
+      "eng": " Joint military exercies. ",
+      "lisu": " ꓠꓬꓲꓽ ꓗꓴꓷꓼ ꓟꓯꓼ ꓜꓴ ꓔ, ꓡꓯꓼ ꓘꓳ ꓢꓲ ꓟꓯꓼ ꓤ. ꓢꓳˍ ꓟ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " Serveral political parties in Myanmar issued a joint statement today. ",
+      "lisu": " ꓟꓬ‐ꓟ ꓗꓴꓷꓼ ꓗꓪ ꓟ ꓑꓺ ꓔꓲ ꓢ ꓡꓲ ꓜꓴ ꓔ, ꓡꓯꓼ ꓘꓳ ꓢꓲ ꓐꓯ ꓑꓶꓺ ꓘꓶ ꓕꓲ ꓟ ꓐꓯ ꓒꓬꓱꓺ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "journal ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓕꓳ ꓶ ꓙꓻ ꓠꓰꓻ꓿ ꓝ, ꓚꓵꓽ ꓕꓳ ꓶ꓿ ",
+    "mm": " မဂ္ဂဇင်း၊ ဂျာနယ်။ ",
+    "syntax": [{
+      "eng": " After college, Ngua David established a Lisu language journal publication. ",
+      "lisu": " ꓥꓪ. ꓓ‐ꓪꓵꓽ ꓡꓰ ꓙꓻ ꓠꓰꓻ ꓕꓳ ꓶ ꓑꓷꓠ ꓠꓬꓲ. ꓑꓶꓺˍ ꓟ ꓟꓬꓱꓽ ꓐꓬꓱꓼ ꓘꓶ ꓕꓲ ꓟ ꓔꓶꓺ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "journey ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓓꓴꓻ ꓓꓳ ꓙ ꓖꓴ꓿ ꓓꓴꓻ ꓓꓳ ꓙꓻ ꓫꓱꓽˍ ꓟ ꓿ ",
+    "mm": " လမ်းခရီးရှည်၊ ခရီးသွားခြင်း။ ",
+    "syntax": [{
+      "eng": " The journey Mr. Fraser traveled from England to China was very dangerous and tiresome. ",
+      "lisu": " ꓬꓲꓥ ꓗꓴꓷ ꓐꓰ ꓚꓳꓥ ꓗꓴꓷ ꓔꓯ ꓟꓳ. ꓮ.‐ꓬꓲꓼ‐ꓢ ꓩꓴ,‐ꓟꓴꓽ‐ꓢꓲꓺ ꓫꓱꓽ ꓗꓷ ꓟ ꓓꓴꓻ ꓓꓳ ꓙ ꓖꓴ ꓖꓳ ꓕꓲ ꓚꓱ, ꓠꓬ ꓙꓲ ꓣꓴꓽ ꓓꓴ ꓐꓲ ꓞ, ꓢꓲ ꓮ. ꓓꓲꓽ ꓪꓴꓽ ꓧꓶ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "joy ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓗ, ꓛꓲ ꓠꓲ,꓿ ꓠꓲ, ꓒꓴ ꓗ, ꓛꓲꓽ ꓠꓲ,꓿ ",
+    "mm": " ဝမ်းမြောက်သောစိတ်။ ",
+    "syntax": [{
+      "eng": " When the father saw his lost son came home, his heart was filled with joy. ",
+      "lisu": " ꓟꓶꓽ ꓡꓰ ꓟ ꓤ ꓡꓽ ꓡˍ ꓟ ꓔꓯ ꓡꓳ. ꓟꓳ ꓗꓷ ꓕꓯ꓾ ꓐ, ꓐ ꓣꓱꓽ ꓢꓴ ꓠꓲ, ꓟ ꓠꓬ ꓗ, ꓛꓲꓽ ꓠꓲ, ꓒꓴ ꓢˍ ꓟ ꓐꓲ ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "judge ",
+    "eng_type": [{
+      "type": "v."
+    }, {
+      "type": " n"
+    }],
+    "lisu": " ꓐꓯ ꓟꓴ ꓗꓶ꓾ ꓢꓲ, ꓘꓶ꓿ ꓐꓯ ꓟꓴ ꓫꓬ, ꓒ꓾ ꓢꓲ, ꓫꓬ, ꓒ꓿ ",
+    "mm": " တရားစီရင်သည်၊ စီရင်ချက်ချသည်၊ စီရင်ချက်။ ",
+    "syntax": [{
+      "eng": " We are not to judge our own brothers. ",
+      "lisu": " ꓣꓳꓽ ꓠꓽ ꓚꓲ ꓛꓬ ꓮ. ꓬꓲꓼ ꓠꓬꓲ ꓤꓼ ꓐꓴ ꓔꓯ ꓢꓲ, ꓘꓶ ꓓꓴ ( ꓐꓯ ꓟꓴ ꓞꓷ, ꓓꓴ ) ꓟꓽ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "judgement ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓐꓯ ꓟꓴ ꓘꓶˍ ꓟ꓾ ꓢꓲ, ꓘꓶˍ ꓟ꓿ ",
+    "mm": " စီရင်ချက်။ ",
+    "syntax": [{
+      "eng": " No one will escape away from the judgement day according to the bible. ",
+      "lisu": " ꓪꓴ‐ꓢ ꓢꓲ, ꓘꓶˍ ꓟ ꓦꓬ ꓠꓬꓲ ꓓꓽ ꓟ ꓗꓪ ꓐꓰ ꓮꓽ ꓟˍ ꓟꓲ ꓡꓲ, ꓙꓰ ꓟꓽ ꓐ ꓡ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "juice ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓢꓲ, ꓢꓶ ꓬꓲꓻ꓿ ",
+    "mm": " သစ်သီးရည်၊ ဖျော်ရည်။ ",
+    "syntax": [{
+      "eng": " Drinking a glass of fruit juice each day would really do you good. ",
+      "lisu": " ꓢꓲ, ꓢꓶ ꓬꓲꓻ ꓕꓲ ꓠꓬꓲ ꓕꓲ ꓗꓴꓰ. ꓤꓼ ꓓꓳˍ ꓠꓬ ꓠꓴ ꓐꓱ ꓶ ꓙꓲ ꓖꓴ ꓮꓽ ꓗꓶ ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "just ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓡꓰꓽ꓾ ꓛꓲˍ꓾ ꓡꓱˍ ( ꓖꓳ ꓡꓱˍ꓾ ꓕꓱ ꓡꓱˍ)꓾ ꓬꓲˍ ꓡꓰꓽ꓿ ꓔꓱ,꓾ ꓔꓱ,ˍ ꓟ ꓿ ",
+    "mm": " ခုနလေးတင်၊ ရုံ၊ တရားသော။ ",
+    "syntax": [{
+      "eng": " He just went out a minute ago. ",
+      "lisu": " ꓬꓲ ꓮꓽ ꓢꓳˍ ꓢꓲ. ꓡꓰꓽ ꓬꓲ ꓐꓽ ꓓꓳ ꓙꓰꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " I just don't know. ",
+      "lisu": " ꓬꓲˍ ꓡꓰꓽ ꓥꓪ ꓟꓽ ꓢꓷ ꓐꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "justice ",
+    "eng_type": [{
+      "type": "adj."
+    }, {
+      "type": " n"
+    }],
+    "lisu": " ꓔꓱ, ꓓꓰˍ ꓟ꓿ ",
+    "mm": " တရားသော၊ တရားမျှတမှု။ ",
+    "syntax": [{
+      "eng": " Philosophy of John Rawls \"Justice as fairness\" is taught at colleges. ",
+      "lisu": " ꓙꓳꓥ‐ꓣꓳ, ꓓꓵꓽ ꓙ ꓚꓱ, \"ꓔꓱ, ꓓꓰˍ ꓟ ꓐꓰ ꓘꓳ ꓣꓴ ꓓˍ ꓟ\" ꓔꓯ ꓘꓳ.‐ꓡꓲꓼ ꓔ,‐ꓫꓬꓳꓽ ꓗꓪ ꓟ. ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "Kachin ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓗ,‐ꓛꓲꓽ ꓟꓵꓽ꓿ ꓗ,‐ꓛꓲꓽ ꓢꓷꓽ꓿ ",
+    "mm": " ကချင်ပြည်နယ်။ ",
+    "syntax": [{
+      "eng": " Kachin State is located Northern Myanmar. ",
+      "lisu": " ꓗ‐ꓛꓲꓽ ꓢꓷꓽ ꓠꓬ ꓟꓬ‐ꓟ ꓗꓴꓷ ꓡꓳ‐ꓪꓴ. ꓕꓲ ꓛꓱꓽ ꓗꓪ ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "kettle ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓛꓽ ꓗꓴꓰ.꓾ ꓠꓱ. ꓡꓱꓽ ꓐꓰꓺ꓿ ",
+    "mm": " ခရား၊ ရေနွေးခရားအိုး။ ",
+    "syntax": [{
+      "eng": " Kettles were made from clay, iron and aluminum. ",
+      "lisu": " ꓛꓽ ꓗꓴꓰ. ꓠꓬ ꓠꓱ. ꓦꓱꓽ꓾ ꓧꓳꓻ ꓐꓰ ꓧꓳꓻ ꓒꓴꓻ ꓣꓱꓽ ꓢꓲ ꓫꓬ, ꓔ ꓟ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "key ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓬꓳꓽ ꓫꓵꓺ꓾ ꓜꓳꓼ ꓢꓶ ꓒꓬꓰ, ꓓꓴ꓾ ꓢꓳ ꓕꓴꓽ ꓒꓴ ꓓꓴ꓿ ",
+    "mm": " သော့။ ",
+    "syntax": [{
+      "eng": " The only key to success in life is education. ",
+      "lisu": " ꓧꓪ. ꓡꓰ ꓓꓴ ꓠꓯꓸꓼ ꓗꓪ ꓓꓵꓽ ꓙꓰ ꓠ, ꓟ ꓗ ꓘꓶ ꓢꓳ ꓕꓴꓽ ꓒꓬꓰ, ꓓꓴ ꓠꓬ ꓢꓷ ꓠꓲ, ꓢꓳˍ ꓔꓲ ꓫꓵꓽˍ ꓡꓰꓽ ꓥꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " The door is locked. Where is the key? ",
+      "lisu": " ꓗ, ꓘꓶ ꓜꓳꓼ ꓢꓳꓺ ꓦ, ꓡꓳ꓿ ꓜꓳꓼ ꓢꓶ ꓒꓬꓱ, ꓓꓴ ꓮ ꓗꓪ ꓥ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "keyboard ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓘꓲ. ꓐꓴꓼ꓿ ",
+    "mm": " ခီးဘို့။ ",
+    "syntax": [{
+      "eng": " Electronic keyboard and computer keyboard are totally different. ",
+      "lisu": " ꓠꓺ ꓢꓻ ꓡꓴꓽ ꓟꓶꓻ ꓢꓯꓼ ꓘꓲ. ꓐꓴꓼ ꓐꓰ ꓗꓳ ꓑꓬꓴ ꓔꓮ ꓘꓲ. ꓐꓴꓼ ꓠꓬ ꓔꓷꓼ ꓟꓽ ꓫꓱ. ꓡꓯꓼ ꓘꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "kid ",
+    "eng_type": [{
+      "type": "v"
+    }, {
+      "type": " n"
+    }],
+    "lisu": " ꓟꓬ ꓖꓻ ꓤꓼ꓾ ꓤꓽ ꓠꓱ ꓤꓼ꓿ ",
+    "mm": " ချာတိတ်၊ ခလေးလေး။ ",
+    "syntax": [{
+      "eng": " The little kids go to school by school bus. ",
+      "lisu": " ꓟꓬꓺ ꓖꓺ ꓤꓼ ꓐꓴ ꓠꓬ ꓙꓳꓥꓽ ꓐ, ꓢꓶ ꓟꓳ ꓓꓳ ꓜꓶ ꓢꓲ ꓙꓳꓥ ꓦꓲ ꓙꓰˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "kill ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓢꓰꓼ꓿ ",
+    "mm": " သတ်၊ သတ်ဖြတ်။ ",
+    "syntax": [{
+      "eng": " Kachin and Burmese are brothers who should not kill one another. ",
+      "lisu": " ꓗ‐ꓛꓲꓽ ꓟꓵꓽ ꓑꓺ ꓫꓬꓼ ꓡꓽ ꓞꓳ ꓡꓳ‐ꓟꓲꓽ ꓐꓴ ꓠꓬ ꓢꓰꓼ ꓡꓯꓼ ꓘꓳ ꓠꓺ ꓟꓽ ꓔ. ꓟ ꓬꓲꓼ ꓤ ꓠꓬꓲ ꓤ ꓚꓵ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "kind ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓠꓲ, ꓟ ꓙꓲ꓾ ꓠꓲ, ꓟ ꓧꓺˍ ꓟ꓿ ",
+    "mm": " သဘောကောင်း၊ စိတ်ရင်းကောင်းသော။ ",
+    "syntax": [{
+      "eng": " There are many people who are kind.But some are cruel. ",
+      "lisu": " ꓞꓳ ꓤ ꓮꓽ ꓟꓬ, ꓠꓬ ꓠꓲ, ꓟ ꓙꓲˍ ꓢꓴ ꓥꓳ꓿ ꓖꓳ ꓡꓱ ꓥˍ ꓟꓲ꓾ ꓥꓶ.ˍ ꓟ ꓠꓲ, ꓟ ꓓꓯ, ꓢꓴˍ ꓟꓲ ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "kindle ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓮ. ꓔꓳ ꓝꓲꓺ꓿ ",
+    "mm": " မီးမွှေး။ ",
+    "syntax": [{
+      "eng": " Brainless people are always trying to kindle fires of unrest among the societies. ",
+      "lisu": " ꓪꓴ. ꓠꓷ. ꓟꓽ ꓙꓳˍ ꓟ ꓡꓽ ꓞꓳ ꓕꓲ ꓐꓱꓻ ꓠꓬ ꓮ ꓕꓯˍ ꓟꓲ ꓞꓳ ꓜꓴ ꓠꓯꓸꓼ ꓗꓪ ꓫꓵꓽ ꓪꓴꓻ ꓮ. ꓔꓳ. ꓝꓲꓺ ꓖꓶ ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "king ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓪꓽ ꓔꓲ.꓿ ",
+    "mm": " ဘုရင်။ ",
+    "syntax": [{
+      "eng": " England does not have a King for a long time. ",
+      "lisu": " ꓬꓲꓥ ꓗꓴꓷ ꓪ ꓔꓲ. ꓒ ꓟꓽ ꓙꓳ ꓟ ꓟꓶꓺ ꓫꓵ ꓫꓵˍ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "kiss ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓐꓳꓼ꓿ ꓐꓳꓼ ꓖꓶ꓿ ꓗꓲ. ꓢꓶ ꓖꓶ꓿ ",
+    "mm": " နမ်း၊ နမ်းစုတ်။ ",
+    "syntax": [{
+      "eng": " Sam kissed his wife at their wedding for the first time. ",
+      "lisu": " ꓢ‐ꓟꓳ‐ꓢꓳ‐ꓠ ꓬꓲ ꓪꓴ. ꓕꓲ ꓓꓽ ꓬꓲ ꓦꓲ ꓢꓲ ꓟ ꓔꓯ ꓐꓳꓼ ꓖꓶˍ ꓟ ꓠꓬ ꓬꓲ ꓡꓯꓼ ꓒꓯꓼ ꓝ ꓑꓮꓲ ꓗꓪ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "kitchen ",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": " ꓜꓻ ꓚꓬ. ꓗꓳ,꓿ ꓜ ꓚꓬ. ꓦꓲ꓿ ",
+    "mm": " မီးဖိုချောင်၊ မီးဖိုခန်း။ ",
+    "syntax": [{
+      "eng": " How big is your home kitchen? ",
+      "lisu": " ꓠꓴ ꓪꓽ ꓦꓲ ꓜꓻ ꓚꓬ. ꓗꓳ, ꓠꓬ ꓮ ꓡꓲ ꓪꓴꓻ ꓙꓳˍ ꓡ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "kite ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓕꓳ ꓶ ꓒꓬꓽ ꓜꓱ꓿ ",
+    "mm": " စွန်။ ",
+    "syntax": [{
+      "eng": " Some kids are kite-surfing on the football ground. ",
+      "lisu": " ꓤꓽ ꓠꓱ ꓤꓼ ꓕꓲ ꓧꓳꓽ ꓠꓬ ꓐꓲ ꓡꓴ. ꓛꓽ ꓗꓪ ꓕꓳ ꓶ ꓜꓱꓻ ꓩꓴ ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "knit ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓪꓳꓼ ꓚꓵ, ꓫꓲˍ ꓡꓳ꓿ ꓟꓶꓺ ꓚꓵꓺ ꓚꓵꓽˍ ꓡꓳ꓿ ",
+    "mm": " ဇာထိုးသည်။ ",
+    "syntax": [{
+      "eng": " This warm suit is the work of my mother's knitting. ",
+      "lisu": " ꓢꓳꓲꓻ ꓔꓺ ꓐꓵ ꓞꓶ ꓕꓱ ꓕꓲ ꓘꓱ, ꓠꓬ ꓥꓪ ꓟ, ꓟ ꓪꓳꓼ ꓚꓵ, ꓡꓯꓼ ꓜꓻ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "knock ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " 1. ꓗꓺ ꓘꓶ ꓲꓼ꓿2. ꓚꓴ, ꓓꓳꓽ꓿ ",
+    "mm": " တံခါးခေါက်။ ",
+    "syntax": [{
+      "eng": " Just ring the doorbell.Don't knock on the door. ",
+      "lisu": " ꓗ, ꓘꓶ ꓗꓪ ꓕ ꓲꓼ꓿ ꓗ, ꓘꓶ ꓟꓻ ꓔꓯ ꓡꓰꓽ ꓠꓬꓲ.꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "knock out ",
+    "eng_type": [{
+      "type": "phrasal."
+    }],
+    "lisu": " ꓚꓴ, ꓓꓳꓽ ꓩꓴ ꓗꓷ ꓢꓲ꓾ꓚꓴ, ꓡꓯꓼ ꓘꓳ ꓢꓮꓲ.ˍ ꓟ ꓔꓯ ꓬꓲ ꓟꓶ ꓢꓰꓼˍ ꓟ꓿ ",
+    "mm": " အလှဲထိုးသည်။ ",
+    "syntax": [{
+      "eng": " Mike Tyson knocked his opponent out in one minute. ",
+      "lisu": " ꓟꓮꓲ‐ꓕꓮꓲ‐ꓢꓮꓠ ꓡꓰ꓾ ꓬꓲ ꓐꓰ ꓚꓴ, ꓔꓯꓺ ꓡꓯꓼ ꓘꓳ ꓢꓴ ꓔꓯ ꓠꓺ ꓡꓲ ꓕꓲ ꓧꓶꓻ ꓠꓯꓸꓼ ꓗꓪ ꓚꓴ, ꓓꓳꓽ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "know ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓢꓷ꓾ ꓢꓷ ꓔ꓿ ",
+    "mm": " သိ။ ",
+    "syntax": [{
+      "eng": " Didn't you know that he was your cousin? ",
+      "lisu": " ꓬꓲ ꓠꓬ ꓠꓴ ꓖꓪꓻ ꓛꓳꓽ ꓬꓲꓼ ꓠꓬꓲ ꓥˍ ꓟ ꓔꓯ ꓠꓴ ꓟꓽ ꓢꓷ ꓡ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "known ",
+    "eng_type": [{
+      "type": "v-pp"
+    }, {
+      "type": " adj."
+    }],
+    "lisu": " ꓟꓬꓱ ꓓꓳꓽ ꓓꓳꓺ꓿ ",
+    "mm": " ကျော်ကြား။ ",
+    "syntax": [{
+      "eng": " Thailand is well knownas the land of flower. ",
+      "lisu": " ꓕꓮꓲꓻ ꓗꓴꓷ ꓠꓬ \"ꓢꓲ, ꓪꓰ ꓟꓵꓽ\" ꓕꓲ ꓟꓵꓽ ꓡꓰ ꓐꓰ ꓟꓬꓱ ꓓꓳꓽ ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "knowledge ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓢꓷ. ꓫꓵꓽ ꓜꓲꓼ ꓠꓲ,꓾ ꓘꓪꓺ ꓣꓴ,꓿ ",
+    "mm": " ဗဟုသုတ၊ အသိပညာ။ ",
+    "syntax": [{
+      "eng": " If you want to increase your general knowledge, read good books. ",
+      "lisu": " ꓢꓷ. ꓫꓵꓽ ꓜꓲꓼ ꓠꓲ, ( ꓗꓪꓺ ꓣꓴ,) ꓮꓽ ꓟꓬ, ꓙꓳ ꓠꓲ, ꓫꓵˍ ꓠꓬ ꓙꓲˍ ꓟ ꓕꓳ ꓶ ꓮꓽ ꓟꓬ, ꓵ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "knuckle ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓡꓯꓼ ꓠꓬꓲ ꓝꓶ.꓾ ꓡꓯꓼ ꓟ ꓝꓶ.꓿ ",
+    "mm": " လက်ညိုးဆစ်။ ",
+    "syntax": [{
+      "eng": " A joint in your finger. ",
+      "lisu": " ꓠꓴ ꓡꓯꓼ ꓠꓬꓲ ꓗꓪ ꓟ ꓬꓲ ꓝꓶ. ꓕ꓾ ꓟ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "lay, laid, laid ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓘꓳꓽ꓾ ꓛ, ꓩꓴ꓾ ꓒꓯ, ꓩꓴ꓾ ꓤꓽ ꓠꓱ ꓫꓵ.꓿ ",
+    "mm": " ချလိုက်သည်၊ ခင်းသည်၊ ဥဥသည်။ ",
+    "syntax": [{
+      "eng": " Please lay the baby in the crib gently. ",
+      "lisu": " ꓞꓳ ꓫꓵꓼ ꓤ ꓔꓯ ꓮꓺ ꓣˍ ꓐꓰ ꓬꓲ ꓬꓲꓼ ꓖꓴ ꓗꓪ ꓛ, ꓩꓴ ꓗꓷ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "lend ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓛꓵꓽ ꓖꓶ꓾ ꓥꓪ. ꓖꓶ꓾ ꓬꓵꓻ ꓖꓶ꓿ ",
+    "mm": " ချေးပေး၊ ငှားပေး။ ",
+    "syntax": [{
+      "eng": " The lady who lives next to your home is a money lender. She will lend you the money you need. Go and borrow from her. ",
+      "lisu": " ꓠꓴ ꓦꓲ ꓐꓻ ꓫꓱꓻ ꓗꓪ ꓔꓬ ꓢꓴ ꓞꓳ ꓔꓲꓺ ꓟ ꓖꓳ ꓕꓲ ꓣꓳ ꓠꓬ ꓒꓴ ꓛꓵꓽ ꓖꓶ ꓥꓪ. ꓖꓶ ꓢꓴ ꓥꓳ꓿ ꓠꓴ ꓣꓱꓽ ꓛˍ ꓟ ꓒꓴ ꓬꓲ ꓠꓴ ꓔꓯ ꓛꓵꓽ ꓖꓶ ꓐ ꓡˍ ꓡꓳ꓿ ꓬꓲ ꓔꓯ ꓙꓰ ꓛꓵꓽ ꓬꓰ ꓟꓼ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "lens ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓗꓰ‐ꓟ‐ꓣ ꓡꓯ, ꓢꓶ꓾ ꓗꓰ‐ꓟ‐ꓣ ꓟꓬ ꓢꓶ꓿ ",
+    "mm": " ကင်မရာမှန်ဘီလူး။ ",
+    "syntax": [{
+      "eng": " I will replace my camera lens with Olympus lens. ",
+      "lisu": " ꓥꓪ ꓗꓰ‐ꓟ‐ꓣ ꓡꓯ, ꓢꓶꓽ ꓔꓯ ꓳ‐ꓡ‐ꓑ ꓡꓯ, ꓢꓶꓽ ꓕꓲ ꓟ ꓙꓑꓺ ꓗꓶꓺ ꓓꓴ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "less ",
+    "eng_type": [{
+      "type": "determination."
+    }, {
+      "type": " pron."
+    }, {
+      "type": " adj."
+    }, {
+      "type": " adv."
+    }, {
+      "type": " prep."
+    }],
+    "lisu": " ꓠꓲ.ˍ ꓟ꓿ ",
+    "mm": " နဲသော။ ",
+    "syntax": [{
+      "eng": " The less time spent here in this dangerous place, the better. ",
+      "lisu": " ꓙꓲꓻ ꓣꓴꓽ ꓓꓴ ꓙꓳˍ ꓟ ꓕꓱ ꓕꓲ ꓟꓵꓽ ꓗꓪ ꓬꓲ ꓙꓵ, ꓔꓬ, ꓠꓲ.ˍ ꓠꓬ ꓪꓺ ꓜꓲ ꓜꓳꓽˍ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "like ",
+    "eng_type": [{
+      "type": "v."
+    }, {
+      "type": " adj."
+    }],
+    "lisu": " 1. ꓠꓵ꓾ ꓠꓲ, ꓫꓵ꓿ 2. ꓡꓰ ꓐꓰ ꓗ,꓾ ꓫꓱ. ꓫꓱꓸꓼ꓿ ",
+    "mm": " လို၊ ကဲ့သို့၊ တူသည်။ ",
+    "syntax": [{
+      "eng": " I like him but i don't like his smoking habit. ",
+      "lisu": " ꓬꓲ ꓔꓯ ꓠꓬ ꓠꓵˍ ꓡꓳ꓿ ꓖꓺ ꓧꓶꓺ ꓬꓲ ꓬꓰ ꓗꓳꓺ ꓛꓵꓼˍ ꓟ ꓔꓯ ꓠꓽ ꓥꓪ ꓟꓽ ꓠꓵ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " He is like a father. ",
+      "lisu": " ꓬꓲ ꓠꓬ ꓐ, ꓐ ꓔꓯ ꓫꓱ.ˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "likely ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓫꓱ.꓾ ꓒꓬꓱꓽ ꓫꓱ.꓿ ",
+    "mm": " တူသည်။ ",
+    "syntax": [{
+      "eng": " It looks it will likely be raining tonight. ",
+      "lisu": " ꓠꓬꓲ. ꓟꓶꓼ ꓘꓶ ꓮꓽ ꓡ ꓟꓶ ꓦ ꓬꓯꓼ ꓡ ꓠꓸꓼ ꓗ,꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "loan ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓛꓵꓽ ꓥꓪ. ꓦ, ꓟ ꓒꓴ꓿ꓚꓰ. ꓘꓪꓽ꓿ ",
+    "mm": " ချေးငွေ, အကြွေးပေး။ ",
+    "syntax": [{
+      "eng": " I bought this car on a laon. ",
+      "lisu": " ꓚꓰ. ꓘꓪꓽ ꓕꓲ ꓟ ꓕꓯ ꓢꓲꓺ ꓗꓪ ꓟꓳ ꓓꓳ ꓕꓱ ꓔꓲ ꓗ. ꓪꓴ ꓔ ꓟ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "lone ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓕꓲ ꓣꓳ ꓔꓵꓸꓼ꓾ ꓕꓲ ꓟ ꓔꓵꓸꓼ꓿ ",
+    "mm": " တဦးတည်း၊ တစ်ခုတည်း၊ အထီးကျန်သော။ ",
+    "syntax": [{
+      "eng": " Agya Wood lives in that house alone. ",
+      "lisu": " ꓖꓳꓻꓼ ꓦꓲ ꓗꓪ ꓢꓲ, ꓮ‐ꓖꓬꓽ ꓕꓲ ꓣꓳˍ ꓡꓰꓽ ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "lonely ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓙꓬꓺ ꓓꓷꓼˍ ꓟ꓾ ꓛꓳꓽ ꓒꓯ, ꓟꓽ ꓙꓳˍ ꓟ꓿ ꓕꓲ ꓣꓳ ꓔꓴꓸꓼ ꓔꓬ ꓟ꓿ ",
+    "mm": " အထီးကျန်သော။ ",
+    "syntax": [{
+      "eng": " Ayo Fish felt really lonely as he is single. ",
+      "lisu": " ꓥꓪ. ꓮꓽ‐ꓬꓳ ꓠꓬ ꓦꓲ ꓟꓽ ꓕꓴꓽ ꓢꓰꓽ ꓢꓴ ꓕꓲ ꓣꓳ ꓥ ꓟˍ ꓐꓰ ꓤꓲ ꓡꓰ,ꓼ꓾ ꓬꓲ ꓠꓲ, ꓟ ꓗꓪ ꓮꓽ ꓘꓶ ꓙꓬꓺ ꓓꓷꓼˍ ꓟˍ ꓡꓰ ꓚ, ꓟꓶꓻˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "long ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓫꓵˍ ꓟ꓾ ꓟꓶꓺ ꓫꓵˍ ꓟ꓿ ",
+    "mm": " ရှည်သော။ ",
+    "syntax": [{
+      "eng": " ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "longer ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓟꓬꓽ ꓠꓬꓲ ꓫꓵˍ ꓟ꓿ ꓟꓬꓽ ꓠꓬꓲ ꓟꓶꓺ ꓫꓵˍ ꓟ꓿ ",
+    "mm": " ပို၍ရှည်သော။ ",
+    "syntax": [{
+      "eng": " My pen is longer than yours. ",
+      "lisu": " ꓥꓪ ꓐꓳ ꓗ. ꓠꓬ ꓠꓴ ꓔꓯ ꓟ ꓕꓯ ꓢꓲꓺ ꓟꓬꓽ ꓠꓬꓲ ꓫꓵꓺˍ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "look ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓠꓬꓲ ꓠ,꓾ ꓡꓳ. ꓠꓬꓲ꓾ ꓔꓱ, ꓠꓬꓲ꓾ ꓛꓳꓽ꓿ ",
+    "mm": " ကြည့်။ ",
+    "syntax": [{
+      "eng": " Look a thomas. ",
+      "lisu": " ꓕꓳ‐ꓟ ꓔꓯ ꓛꓳꓽ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " They are watching a 007 James Bond movie. ",
+      "lisu": " ꓬꓲ ꓪꓽ ꓠꓬ 007 ꓙꓲ‐ꓢꓶ‐ꓐꓳꓥ, ꓢꓯ. ꓐꓬꓱꓽ ꓕꓲ ꓟ ꓡꓳ. ꓠꓬꓲ ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "look for ",
+    "eng_type": [{
+      "type": " phrasal."
+    }],
+    "lisu": " ꓧꓪ꓾ ꓧꓪ ꓚꓳ꓿ ",
+    "mm": " ရှာ၊ ရှာဖွေ။ ",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "loose ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓐꓬꓻ ꓡꓯꓽ ꓡꓯꓽ꓾ ꓐꓬꓻ ꓡꓯꓽ ꓗ, ꓟ꓿ ꓞꓳ, ꓞ, ꓗꓪ ꓐꓰ ꓡꓲ, ꓙꓰ꓾ ꓟꓽ ꓞꓳ, ꓔ ꓟ꓿ ",
+    "mm": " လျော့ရဲရဲဖြစ်။ ",
+    "syntax": [{
+      "eng": " Tie the rope tightly, please. it is loose. ",
+      "lisu": " ꓛꓲ ꓤꓼ ꓚꓺ ( ꓛꓲ ꓚꓺ ) ꓔꓰ, ꓔꓰꓸꓼ ꓐꓰ ꓞꓳ,꓿ ꓐꓬꓻ ꓡꓯꓽ ꓡꓯꓽ ꓗ, ꓡꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " A loose cat, a loose tongue. ",
+      "lisu": " ꓡꓲ, ꓞ, ꓟ ꓮꓽ ꓠꓬ.꓾ ꓡꓲ, ꓞ, ꓟ ꓡꓺ ꓛꓱ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "lose ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓟꓶ ꓡꓰ꓾ ꓕꓰ, ꓡꓰ꓾ ꓒꓲꓼ ꓬꓰ꓾ ꓞꓳ. ꓡꓰ꓾ ꓫꓴ ꓡꓰ꓿ ",
+    "mm": " ပျောက်၊ ဆုံးရှုံး။ ",
+    "syntax": [{
+      "eng": " If you don't know, come and ask me. There is nothing to lose. ",
+      "lisu": " ꓠꓴ ꓟꓽ ꓢꓷ ꓐꓯ ꓥꓪ ꓔꓯ ꓡ ꓠꓺ ꓠꓬꓲ ꓟꓼ꓿ ꓮ. ꓫꓵꓽ ꓞꓳ. ꓡꓰ ꓓꓴ ꓟꓽ ꓙꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "lot ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓮꓽ ꓟꓬ,꓿ ",
+    "mm": " အမြောက်အများ၊ တစ်ပြုံကြီး။ ",
+    "syntax": [{
+      "eng": " He has a lot of money in a bank. ",
+      "lisu": " ꓬꓲ ꓔꓯ ꓐꓮꓥ ꓘꓴꓽ ꓗꓪ ꓗꓶꓺ ꓦ, ꓟ ꓒꓴ ꓮꓽ ꓟꓬ, ꓙꓳˍ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "lottery ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓞꓮꓲꓺ ꓒꓬꓽ꓾ ꓡꓳ ꓔꓺ ꓡꓲ꓿ ",
+    "mm": " ထီ။ ",
+    "syntax": [{
+      "eng": " I play the state lottery for pleasure purpose and responsibly. ",
+      "lisu": " ꓡꓳ‐ꓔ‐ꓡꓲ (ꓞꓮꓲꓺ ꓒꓬ) ꓪꓴꓸꓼ ꓗꓽ ꓠꓯ,ˍ ꓟ ꓔꓯ ꓡꓳꓺ ꓖꓪ ꓓꓴ ꓕꓲ ꓫꓵꓽ ꓡꓰꓽ ꓚꓬ, ꓢꓲ꓾ ꓡꓳ ꓖꓪ ꓫꓵꓽ ꓕꓱ ꓟ ꓗꓪ ꓐꓰ ꓚꓲ ꓛꓬ ꓔꓯ ꓬꓰ ꓫ ꓓꓴ ꓟꓽ ꓒꓬꓱꓼ ꓡ ꓝꓲ ꓠ, ꓟ ꓐꓱ ꓶ ꓥꓪ ꓤꓺ ꓟꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "love ",
+    "eng_type": [{
+      "type": "n"
+    }, {
+      "type": " v"
+    }],
+    "lisu": " ꓠꓵ ꓠꓲ,꓾ ꓠꓲ, ꓠꓵ꓿ ",
+    "mm": " ချစ်၊ ချစ်ခြင်းမေတ္တာ။ ",
+    "syntax": [{
+      "eng": " Who can love an ugly and short man? ",
+      "lisu": " ꓖꓳ ꓓꓱꓽ ꓔꓴ, ꓔꓰꓼ ꓔꓰꓼ꓾ ꓒꓬꓱꓽ ꓖꓶꓻ ꓧꓶˍ ꓟ ꓤ ꓑ ꓤ ꓕꓲ ꓣꓳ ꓔꓯ ꓮꓽ ꓟ ꓠꓲ, ꓠꓵ ꓐ ꓡˍ ꓡ? ",
+      "mm": ""
+    }, {
+      "eng": " God is love ",
+      "lisu": " ꓪꓴ‐ꓢ ꓠꓬ ꓠꓵ ꓠꓲ, ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "luck ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓶꓼ꓾ ꓶꓼ ꓙꓲˍ ꓟ꓿ ꓙꓲˍ ꓟ ꓟꓬꓼ꓾ ꓬꓴꓰ, ꓛꓲꓸꓼ꓿ ",
+    "mm": " ကံကောင်းခြင်း၊ လဒ်လာဘရှိသော။ ကံ‌ကောင်းသော။ ",
+    "syntax": [{
+      "eng": " It was just luck that they won the last game. ",
+      "lisu": " ꓬꓴꓰ. ꓛꓲꓸꓼ ꓙꓲˍ ꓑꓶ. ꓓꓴ ꓡꓳ, ꓬꓰˍ ꓕꓲ ꓑꓳꓼ ꓗꓽ ꓠꓯ,ˍ ꓟ ꓗꓪ ꓬꓲ ꓪꓽ ꓧꓪ. ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "lucky ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ကံ‌ကောင်းသော။ ",
+    "mm": " Acha Fish was so lucky to be able to come home although she was sold by the human traffickers. --- ꓥꓪ. ꓮ‐ꓛ ꓠꓬ ꓟꓬꓼ ꓙꓲˍ ꓘꓪꓽ ꓠꓲ꓾ ꓞꓳ ꓤ ꓪꓴꓽ ꓜ ꓢꓴ ꓐꓴ ꓡꓯꓼ ꓒꓯ, ꓗꓪ ꓐꓰ ꓡꓲ, ꓙꓰ ꓢꓲ ꓦꓲ ꓗꓪ ꓡꓽ ꓛꓲ ꓬꓰ ꓟ ꓥꓳ꓿",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "lust ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓦꓯ. ꓠꓲ,꓿ ꓮꓽ ꓘꓶ. ꓪ ꓠꓲ, ꓫꓵˍ ꓟ ꓠꓲ, ꓟ꓾ ꓢꓲꓽ ꓠꓯꓼ ꓛꓴꓻ ꓞꓻ ꓠꓲ,꓿ ",
+    "mm": " တက်မက်ခြင်း၊ တဏှာ၊ ရာဂ၊ တက်မက်မှုပြင်းပြ၊ ဏှာရာဂစိတ်ပြင်းပြသော။ ",
+    "syntax": [{
+      "eng": " He has no more lust for the opposite sex as he is 90 years old. ‐‐‐ ꓬꓲ ꓠꓬ ꓞꓲꓼ 90 ꓘꓳꓼ ꓙꓳˍ ꓟ ꓐꓰ ꓕꓲ ꓡꓰ,ꓼ꓾ ꓤ ꓟꓶ ꓤꓼ ( ꓥˍ ꓠꓬ ꓤ ꓑ ꓤ) ꓐꓴ ꓔꓯ ꓟꓳ. ꓠꓲ, ꓫꓵˍ ꓟ ꓠꓲ, ꓟ ꓟꓽ ꓙꓳ ꓗꓷ ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "lustful ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓢꓲꓽ ꓠꓯꓼ ꓛꓴꓻ ꓞˍ ꓟ꓿ ꓡꓯ. ꓖꓼ ꓠꓲ, ꓛꓴꓻ ꓞꓻˍ ꓟ꓿ ",
+    "mm": " ဏှာရာဂစိတ်ပြင်းပြသော။ ",
+    "syntax": [{
+      "eng": " The young men gave lustful looks at the swimming young women in bikini. ",
+      "lisu": " ꓐꓲ‐ꓗꓲ‐ꓠꓲ ( ꓟꓶꓺ ꓛꓲ ꓐꓽ ꓐꓽ ꓓꓴ. ꓓꓴ. ꓤꓼ) ꓖꓪꓽ ꓢꓲ ꓮ ꓙꓬ ꓢ. ꓔꓬ ꓟ ꓤ ꓟꓶ ꓤꓼ ꓐꓴ ꓔꓯ꓾ ꓤ ꓑ. ꓤ ꓐꓴ ꓠꓬ ꓢꓲꓽ ꓠꓯꓼ ꓛꓴꓻ ꓞˍ ꓟ ꓟꓬ ꓢꓶ ꓡꓰ ꓛꓳꓽˍ ꓡꓳ ( ꓡꓳ. ꓠꓬꓲ)꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "mad ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓟꓯ,ˍ ꓟ꓾ ꓢꓲꓽ ꓐꓬꓺ ꓢꓴ꓾ ꓪꓴ. ꓔꓬ ꓟ꓿ ",
+    "mm": " ရူးသွတ်သော၊ စိတ်မနှံ့သော။ ",
+    "syntax": [{
+      "eng": " The old man became mad right after his treasure were robbed away by the dacoits. ",
+      "lisu": " ꓞꓳ ꓟꓳꓽ ꓖꓳ ꓕꓲ ꓤꓳ ꓠꓬ꓾ ꓬꓲ ꓒꓵꓽ ꓶꓼ ꓮꓽ ꓙꓵꓽ ꓛꓬꓥꓽ ꓔꓮꓳꓸꓼ ꓐꓴ ꓡꓰ ꓦꓴ ꓜꓽ ꓔꓯ, ꓙꓰ ꓗ ꓠꓯ ꓞꓳ ꓟꓯ, ꓕꓲ ꓣꓳ ꓑꓶ. ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "main ",
+    "eng_type": [{
+      "type": "adj. n"
+    }],
+    "lisu": " ꓚꓴꓽ ꓬꓳ,ˍ ꓟ꓾ ꓬꓳ, ꓚꓵˍ ꓟ ꓾ ꓟꓺ ꓔꓲꓺ꓿ ",
+    "mm": " အဓိက၊ အဓိကအားဖြင့်။ ",
+    "syntax": [{
+      "eng": " The main structure of this hospital is the largest one with a very beautiful hall lobby. ",
+      "lisu": " ꓠꓯ ꓞꓲꓼ ꓦꓲ ꓕꓱ ꓕꓲ ꓒꓱꓻ ꓗꓪ ꓦꓲ ꓬꓲ ꓟꓺ ꓔꓲꓺ ꓠꓬ꓾ ꓗ, ꓘꓶ ꓒꓱꓼ ꓓꓽ ꓟ ꓗꓪ ꓡꓳ. ꓐꓲˍ ꓟ ꓪꓰ ꓤ ꓘꓳ ꓣꓴ ꓗꓷ, ꓡꓳ‐ꓐꓲ ꓕꓲ ꓟ ꓙꓳˍ ꓟ ꓖꓳ ꓟ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "mainly ",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": " ꓚꓴꓽ ꓬꓳ, ꓠꓬ꓾ ꓬꓲ ꓟꓺ ꓔꓲꓺ ꓠꓬ꓾ ꓬꓲ ꓓꓽ ꓟ ꓠꓬ꓿ ",
+    "mm": " အဓိကအားဖြင့်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "many ",
+    "eng_type": [{
+      "type": "det."
+    }],
+    "lisu": " ꓮꓽ ꓟꓬ,꓿ ",
+    "mm": " အမြောက်အများ။ ",
+    "syntax": [{
+      "eng": " Many customers, many visitors, many people. ",
+      "lisu": " ꓙꓵꓺ ꓖꓼ ꓤꓽ ꓮꓽ ꓟꓬ,꓾ ꓪꓰ ꓤꓽ ꓮꓽ ꓟꓬ,꓾ ꓡꓽ ꓞꓳ ꓮꓽ ꓟꓬ, ꓣꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "map ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓵꓽ ꓐꓬꓱꓽ꓿ ",
+    "mm": " မြေပုံ။ ",
+    "syntax": [{
+      "eng": " Google map is a perfect map. ",
+      "lisu": " ꓖꓴ,‐ꓖꓰ ꓡꓰ ꓫꓬ, ꓔ ꓟ ꓟꓵꓽ ꓐꓬꓱꓽ ꓠꓬ ꓐꓲ ꓜꓲꓼˍ ꓟ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "mat ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓘꓳꓽ ꓓꓳꓺ꓾ ꓔꓼ ꓑꓳꓼ꓿ ",
+    "mm": " ဖြာ။ ",
+    "syntax": [{
+      "eng": "* Grandma laid a big rattan mat on the ground and then spread grain seed on it to expose to the sun. ",
+      "lisu": " ꓮ. ꓬꓽ ( ꓮ. ꓣꓽ ) ꓡꓰ ꓟꓲ ꓛꓬꓺ ꓗꓪ ꓖꓴꓽ ꓟꓲ ꓔꓼ ꓑꓳꓼ ꓕꓲ ꓘꓪ. ꓘꓳꓽ ꓢꓲ꓾ ꓖꓳ ꓟ ꓕꓯ ꓢꓲꓺ ꓗꓪ ꓮ. ꓠꓳꓺ ꓢꓶ ꓟꓶ ꓞꓻ ꓡꓱ. ꓙꓴꓺ ꓠ, ꓟ ꓐꓱ ꓶ ꓒꓭ. ꓩꓴ ꓗꓷˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "mate ",
+    "eng_type": [{
+      "type": "n."
+    }, {
+      "type": " v"
+    }],
+    "lisu": " ꓛꓳꓽ꓾ ꓛꓳꓽ ꓒꓯ,꓿ ",
+    "mm": " အဖေါ်၊ အိမ်ထောင်ဖက်။ ",
+    "syntax": [{
+      "eng": " My college room-mate was a night person who love to stay late at night. ",
+      "lisu": " ꓔ, ꓫꓬꓳꓽ ꓙꓳꓥ ꓗꓪ ꓥꓪ ꓐꓰ ꓕꓲ ꓗꓷˍ ꓔ, ꓔꓬ ꓢꓴ ꓛꓳꓽ ꓒꓯ, ꓠꓬ ꓦꓬꓼ ꓒ ꓥ ꓡꓳ꓿ ꓮ ꓕꓯˍ ꓟꓲ ꓦꓬꓼ ꓔꓱ ꓫꓵꓺ ꓗꓪ ꓛꓲ ꓔꓬ ꓘꓴˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "mathematics ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓢꓪ. ꓫꓴꓽ꓿ ",
+    "mm": " သင်္ချာ။ ",
+    "syntax": [{
+      "eng": " Arithmetic, algebra, geometry, and calculus are branches of mathematics. ",
+      "lisu": " ꓢꓪ. ꓫꓴꓸꓼ꓾ ꓯ‐ꓖꓲ‐ꓐꓣꓮ꓾ ꓙꓲꓳ‐ꓟꓯ‐ꓕꓣꓲ ꓐꓰ ꓢꓪ. ꓚꓱ, ꓥ ꓕꓻ ꓑꓳ. ꓠꓬ ꓢꓪ ꓫꓴꓽ ꓢꓷ ꓠꓲ, ꓗꓪ ꓓꓯ, ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "matter ",
+    "eng_type": [{
+      "type": "n"
+    }, {
+      "type": "v"
+    }],
+    "lisu": " ꓪꓴꓻ꓾ ꓫꓵꓽ ꓪꓴꓻ꓾ ꓢꓲ, ꓪꓴꓻ꓾ ꓬꓳ, ꓚꓵˍ ꓟ꓿ ",
+    "mm": " အရေးကြီး၊ ကိစ္စ။ ",
+    "syntax": [{
+      "eng": " Oh, it doesn't matter. ",
+      "lisu": " ꓳ.꓾ ꓮ. ꓕꓱ ꓟ ꓮ. ꓫꓵꓽ ꓟꓽ ꓬꓳ, ꓛꓵ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " Once you get married, the income will matter the most. ",
+      "lisu": " ꓦꓲ ꓧꓪ ꓗꓷꓳ ꓐꓯˍ ꓕꓲ ꓠꓬꓲ ꓗꓪ ꓐꓰ ꓠꓬ꓾ ꓠꓴ ꓟꓬꓱꓽ ꓬꓰ ꓧꓪ ꓟꓶˍ ꓟ ꓒꓴ ꓠꓬ ꓬꓳ ꓚꓵˍ ꓟ ꓒꓬꓱꓼ ꓡˍ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "mold ",
+    "eng_type": [{
+      "type": "n"
+    }, {
+      "type": "v"
+    }],
+    "lisu": " ꓑꓵ,꓾ ꓧꓳꓽ ꓑꓵ,꓿ ",
+    "mm": " ပုံသွင်း။ ",
+    "syntax": [{
+      "eng": " The Chinese people molded mud bricks since 7000 years ago. ",
+      "lisu": " ꓚꓳꓥ ꓗꓴꓷ ꓡꓽ ꓞꓳ ꓠꓬ ꓗꓳ. ꓗꓷ ꓟ 7000 ꓘꓳꓼ ꓕꓯ ꓡꓰ꓾ ꓠꓱ. ꓜꓲꓽ ꓞꓽ ꓛꓬꓺ ꓘꓴ. ꓧꓳꓽ ꓑꓵ, ꓣꓱꓽ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "molds ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓐꓵꓼ꓿ ",
+    "mm": " မှို၊မှိုတက်။ ",
+    "syntax": [{
+      "eng": " There are molds on the food, dump it away. ",
+      "lisu": " ꓜ ꓓꓴ ꓗꓪ ꓐꓵꓼ ꓠꓷꓼ ꓞ, ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "money ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓒꓴ꓿ ",
+    "mm": " ပိုက်ဆံ၊ အသပြာ။ ",
+    "syntax": [{
+      "eng": " Coin money was first invented and used in Greece, then in Italy. ",
+      "lisu": " ꓕꓳꓽ ꓞꓰꓽ ꓒꓴ ꓔꓯ ꓖ‐ꓣꓲꓸꓼ ꓗꓴꓷ ꓗꓪ ꓬꓲ ꓪꓴ. ꓬꓲ ꓚꓰꓼ ꓣꓱꓽ ꓗꓷ ꓢꓲ꓾ ꓗ ꓠꓯ ꓣꓳꓽ‐ꓟ ꓗꓴꓷ ꓗꓪ ꓣꓱꓽ ꓪꓴ. ꓔꓴˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "monk ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓧꓳꓽ ꓫ.꓿ ",
+    "mm": " ဘုန်းကြီး၊ ရဟန်း။ ",
+    "syntax": [{
+      "eng": " There is a vast number of Buddhist monks in Myanmar and Tibet, China. ",
+      "lisu": " ꓟꓬ‐ꓟ ꓗꓴꓷ ꓐꓰ ꓚꓳꓥ ꓗꓴꓷ ꓗꓪ,‐ꓜꓴ ꓟꓵꓽ ꓗꓪ ꓧꓳꓽ ꓫ ꓒ ꓵ ꓖꓴ ꓟꓽ ꓓ ꓠ ꓛꓲ ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "mono ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓔꓲ.꓾ ꓕꓲ ꓔꓲꓸꓼ ꓟ꓾ ꓕꓲ ꓚꓱ,꓾ ꓕꓲ ꓫꓵꓽˍ ꓟ꓿ ",
+    "mm": " မိုနို၊ တစ်ခုတည်း၊ တစ်လိုင်းတည်းဖြစ်သော။ ",
+    "syntax": [{
+      "eng": " People nowadays prefer stereo recording better than mono recording. ",
+      "lisu": " ꓮ ꓟꓶ ꓟ ꓡꓽ ꓞꓳ ꓠꓬ꓾ ꓢꓯꓼ ꓕꓲ ꓚꓺˍ ꓓꓳˍ ꓟ ꓢꓯꓼ ꓡꓴꓽ ꓚꓱ, ꓕꓯ ꓢꓲꓺ ꓠꓬ ꓮꓽ ꓟꓬ, ꓚꓺ ꓗꓪ ꓐꓰ ꓢꓯꓼ ꓓꓳˍ ꓟ ꓢꓯꓼ ꓡꓴꓽ ꓚꓱ, ꓔꓯ ꓠꓵˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "monkey ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓰꓼ꓾ ꓚꓬ, ꓟꓰꓼ꓿ ",
+    "mm": " မျောက်။ ",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "month ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓦ꓿ ",
+    "mm": " ရက်လ။ ",
+    "syntax": [{
+      "eng": " There are twelve months in a year. ",
+      "lisu": " ꓕꓲ ꓘꓳꓼ ꓗꓪ ꓞꓲ ꓠꓬꓲꓽ ꓦ ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "moon ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓦ ꓐꓻ꓿ ",
+    "mm": " လ။ ",
+    "syntax": [{
+      "eng": " The full moon night. ",
+      "lisu": " ꓦ ꓡꓴ. ꓟꓶꓼ ꓘꓶ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "mop ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓟ,꓾ ꓟꓶꓺ ꓛꓺ ꓙꓰ ꓡꓰ ꓟ,꓿ ",
+    "mm": " အကြမ်းတိုက်အဝတ်စုတ်၊ ကြမ်းတိုက်။ ",
+    "syntax": [{
+      "eng": " Please mop the wooden floor. ",
+      "lisu": " ꓢꓲ, ꓘꓪ. ꓩꓷ, ꓑꓽ ꓔꓯ ꓟ, ꓩꓴ ꓗꓷ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "mother ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟ, ꓟ꓿ ",
+    "mm": " မေးမေ၊ အမေ၊ မိခင်။ ",
+    "syntax": [{
+      "eng": " My mother loves me. ",
+      "lisu": " ꓥꓪ ꓟ, ꓟ ꓥꓪ ꓔꓯ ꓠꓲ, ꓠꓵˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "motivation ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓚꓰꓺ ꓑꓶ.꓾ ꓒꓬꓱꓼ ꓡˍ ꓟ ꓬꓲ ꓚꓰꓺ ꓬꓲ ꓑꓶ. ꓓꓴ꓾ ꓡꓵ, ꓔꓴ ꓑꓶ.꓿ ",
+    "mm": " အရင်းခံအကြောင်း။ ",
+    "syntax": [{
+      "eng": " We didn't know the company's motivation of withdrawal. ",
+      "lisu": " ꓗꓳ‐ꓑ‐ꓠꓲ ꓚꓱ, ꓡꓽ ꓙꓰˍ ꓟ ꓮ ꓫꓴꓽ ꓑꓶ ꓓꓴ ꓥ ꓡꓽ ꓥꓪ ꓠꓴꓽ ꓟꓽ ꓢꓷ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "mouth ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓷꓽ ꓠꓷ,꓾ ꓠ. ꓦꓵꓻ꓿ ",
+    "mm": " ပါးစပ်။ ",
+    "syntax": [{
+      "eng": " That little boy has a big mouth. ",
+      "lisu": " ꓮ ꓐꓲ ꓤꓼ ꓖꓳ ꓕꓲ ꓣꓳ ꓬꓲ ꓠ. ꓦꓴꓻ ꓮꓽ ꓗꓶ ꓪꓴꓽˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "move ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓙꓵꓺ꓾ ꓑꓯꓺ ꓙꓰ꓾ ꓚꓵ. ꓙꓰ꓾ ꓫꓳꓺ꓾ ꓡꓵ꓿ ",
+    "mm": " ရွှေ့၊ ရွှေ့ပြောင်း။ ",
+    "syntax": [{
+      "eng": " We just moved into our own home last month. ",
+      "lisu": " ꓥꓪ ꓠꓴꓽ ꓠꓬ ꓮꓼ ꓫꓷꓻ ꓕꓲ ꓦ ꓕꓯ ꓢꓲˍ ꓡꓰꓽ ꓚꓲ ꓛꓬ ꓦꓲ ꓗꓪ ꓚꓵ. ꓓꓵꓽ ꓙꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "movement ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓡꓵꓺˍ ꓟ꓾ ꓙꓰ ꓙꓰ ꓡ ꓡ ꓬꓰˍ ꓟ꓿ ",
+    "mm": " လှုပ်ရှား။ လှုပ်ရှားမှု။ ",
+    "syntax": [{
+      "eng": " CIA can detect the movement of the members of terrorists. ",
+      "lisu": " CIA ꓐꓯˍ ꓟ ꓟꓷꓽ ꓗꓴꓷꓼ ꓛꓽ ꓒ ꓜꓴ ꓡꓰ ꓜꓲꓽ ꓜꓲꓽ ꓥꓺ ꓟꓬꓱꓽ ꓬꓰ ꓜꓴ ꓟꓯꓼ ꓤ ꓐꓴ ꓡꓵ ꓔꓬ ꓟ ꓔꓯ ꓛꓽ ꓟꓶꓻ ꓐ ꓡˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "movie ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓢꓯ. ꓐꓬꓱꓽ꓿ ",
+    "mm": " ရုပ်ရှင်။ ",
+    "syntax": [{
+      "eng": " Chinese and Thai movie producers are trying to catch up with the Hollywood. ",
+      "lisu": " ꓚꓳꓥ ꓗꓴꓷ ꓐꓰ ꓕꓮꓲꓻ ꓗꓴꓷ ꓢꓯ. ꓐꓬꓱꓽ ꓫꓬ, ꓢꓴ ꓐꓴ ꓠꓬ ꓧꓳ.‐ꓡꓲ,‐ꓪꓴꓼ ꓔꓯ ꓖꓼ ꓕꓲꓺ ꓡꓰ ꓠ, ꓟ ꓐꓱ ꓶ ꓮꓽ ꓘꓶ ꓢꓯꓼ ꓕꓵꓼ ꓔꓬꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "much ",
+    "eng_type": [{
+      "type": "adv."
+    }, {
+      "type": " adj."
+    }],
+    "lisu": " ꓮꓽ ꓟꓬ,꓾ ꓮꓽ ꓘꓶ.꓿ ",
+    "mm": " သိပ်၊ အများကြီး၊ အလွန်။ ",
+    "syntax": [{
+      "eng": " We don't have much supply left. Let us go to store again. ",
+      "lisu": " ꓣꓳꓽ ꓔꓯ ꓜꓽ ꓘꓪ ꓮꓽ ꓟꓬ, ꓟꓽ ꓜꓰ ꓓ, ꓪ꓿ ꓙꓰ ꓡꓯ꓾ ꓙꓵꓺ ꓗꓪ ꓙꓰ ꓪꓴꓻ ꓬꓰ ꓡꓯ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "mud ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓠꓱ. ꓜꓲꓽ꓾ ꓠꓱ. ꓦꓱꓽ ꓒꓼ ꓡꓼ꓿ ",
+    "mm": " ရွှံ့။ ",
+    "syntax": [{
+      "eng": " We were accustomed to traveling on muddy roads. ",
+      "lisu": " ꓥꓪ ꓠꓴꓽ ꓠꓬ ꓠꓱ. ꓜꓲꓽ ꓑꓼ ꓡꓼ ꓙ ꓖꓴ ꓫꓱꓽ ꓫꓷ, ꓚꓽ ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "must ",
+    "eng_type": [{
+      "type": "v"
+    }, {
+      "type": " n"
+    }],
+    "lisu": " ꓠꓺ ꓗ,꓿ ",
+    "mm": " (လုပ်/သွား/ဖြစ်/ရမည်။) ",
+    "syntax": [{
+      "eng": " You must take responsibility for the loss of the money. ",
+      "lisu": " ꓒꓲꓼ ꓬꓰ꓾ ꓟꓶ ꓡꓰ ꓟ ꓒꓴ ꓐꓱ ꓶ ꓠꓴ ꓶꓻ ꓑꓱ. ꓣꓴ ꓠ ꓗ,꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "Myanmar ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓡꓳꓽ‐ꓟꓲ ꓗꓴꓷ꓾ ꓟꓬ‐ꓟ ꓗꓴꓷ꓿ ",
+    "mm": " မြန်မာနိုင်ငံ။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "name ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓬꓱ꓿ ",
+    "mm": " အမည်၊နာမည်။ ",
+    "syntax": [{
+      "eng": " You must learn to write your own name properly. ",
+      "lisu": " ꓣꓳꓽ ꓚꓲ ꓛꓬ ꓟꓬꓱ ꓔꓯ ꓬꓲ ꓖꓺ ꓙꓳ ꓙꓳˍ ꓐꓳ ꓗꓴ ꓠ, ꓟ ꓐꓱ ꓶ ꓖꓶꓻ ꓢꓳ ꓚꓳ,ˍ ꓢꓰꓽ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "narrow ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓝꓵ, ꓝꓵꓸꓼ ꓗ, ꓟ꓾ ꓟꓽ ꓦꓬꓺˍ ꓟ꓾ ꓞꓲ, ꓞꓲꓸꓼ ꓗ, ꓟ꓾ ꓟꓽ ꓩꓲꓺˍ ꓟ꓿ ",
+    "mm": " ကျဥ်းသော၊ သေးသွယ်သော။ ",
+    "syntax": [{
+      "eng": " Narrow means not wide. ",
+      "lisu": " ꓝꓵ,ˍ ꓡꓳ꓾ ꓞꓲ,ˍ ꓡꓳ ꓐꓯˍ ꓟ ꓠꓬ ꓟꓽ ꓦꓬꓺ꓾ ꓟꓽ ꓩꓲꓺ ꓐꓯˍ ꓟ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "near ",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": " ꓠꓶ꓾ ꓕꓲꓺ꓾ ꓟꓽ ꓶ꓾ ꓕꓱ ꓜꓶꓽ꓿ ",
+    "mm": " နီး၊ အနီး။ ",
+    "syntax": [{
+      "eng": " Our home is located near by the road. ",
+      "lisu": " ꓥꓪ ꓠꓴꓽ ꓦꓲ ꓠꓬ ꓙ ꓖꓴ ꓘꓶ ꓒꓽ ꓕꓲꓺ ꓗꓪ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "neat ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓬꓲ ꓖꓺ ꓙꓳ ꓙꓳˍ꓾ ꓚꓷꓽ ꓛꓲ, ꓟ꓿ ",
+    "mm": " သပ်ယပ်သော၊ သေသေသပ်သပ်ဖြစ်သော။ ",
+    "syntax": [{
+      "eng": " My bedroom is neat and clean. ",
+      "lisu": " ꓥꓪ ꓘꓷ, ꓖꓳꓼ ꓠꓬ ꓚꓷꓽ ꓛꓲ,ˍ ꓢꓲ ꓢꓲ ꓫꓬˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "neck ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓗꓶ. ꓝꓶ.꓾ ꓡꓯꓺ ꓐꓰꓻ꓿ ",
+    "mm": " လည်ပင်း။ ",
+    "syntax": [{
+      "eng": " Throat is the inner side of your neck. ",
+      "lisu": " ꓛꓴꓽ ꓖꓴꓻ ꓚꓺ ꓠꓬ ꓠꓴ ꓡꓯ ꓐꓱꓻ ꓬꓲ ꓠꓯꓸꓼ ꓕꓲ ꓔꓱ, ꓔꓯ ꓐꓯˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "necktie ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓮ. ꓟꓴꓽ ꓡꓺ ꓛꓱꓺ꓿ ꓗꓶ. ꓝꓶ. ꓔꓮꓲ. ꓓꓴ꓿ ",
+    "mm": " လည်စည်း။ ",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "need ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓚꓲ. ꓚꓳ,꓾ ꓛˍ ꓡꓳ꓾ ꓣꓱꓽ ꓚꓳ,ˍ꓾ ꓣꓱꓽ ꓬꓯꓼ꓿ ",
+    "mm": " လိုအပ်။ ",
+    "syntax": [{
+      "eng": " A friend in need is a friend in deed. ",
+      "lisu": " ꓚꓲ. ꓚꓳ,ˍ ꓕꓲ ꓑ, ꓣꓳꓽ ꓒꓺ ꓕꓲꓺ ꓗꓪ ꓔꓬ ꓟ ꓛꓳꓽ ꓒꓯ, ꓠꓬ ꓛꓳꓽ ꓒꓯ, ꓚꓵ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "needle ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓪꓳꓼ꓾ ꓒꓴ ꓪꓳꓼ꓿ ",
+    "mm": " အပ်ချောင်း။ ",
+    "syntax": [{
+      "eng": " A sewing needle. ",
+      "lisu": " ꓪꓳꓼ ꓚꓱ, ꓫꓲ ꓪꓳꓼ ꓕꓲ ꓕꓷ,꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "neighbor ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓠꓶ ꓛꓳꓽ꓿ ",
+    "mm": " အိမ်နီးချင်း၊ အနီးကပ်မိတ်ဆွေ။ ",
+    "syntax": [{
+      "eng": " People who live nearby your home. ",
+      "lisu": " ꓠꓴ ꓦꓲ ꓒꓺ ꓕꓲꓺ ꓗꓪ ꓔꓬ ꓟ ꓡꓽ ꓞꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "neither ",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": " ꓟꓽ (ꓥ)꓿ ",
+    "mm": " မဟုတ်။ ",
+    "syntax": [{
+      "eng": " I am neighter rich nor poor. ",
+      "lisu": " ꓥꓪ ꓠꓬ ꓐꓳˍ ꓟꓲ ꓟꓽ ꓐꓳ ꓫˍ ꓟꓲ ꓟꓽ ꓫ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "nephew ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓤ ꓓꓴꓻ꓿ ꓢ. ꓤ꓿ ",
+    "mm": " တူ။ ",
+    "syntax": [{
+      "eng": " My own brother's sons are my nephews. ",
+      "lisu": " ꓥꓪ ꓕꓲ ꓠꓱꓺ ꓢꓴ꓾ ꓥꓪ ꓮ. ꓬꓲꓼ ꓬꓲꓮ ꓐꓲ (ꓤꓼ) ꓐꓴ ꓠꓬ ꓥꓪ ꓤꓽ ꓓꓴꓻ ꓐꓴ ꓥꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " I am my uncle's nephew. ",
+      "lisu": " ꓥꓪ ꓠꓬ ꓥꓪ ꓮ ꓪꓵ ꓬꓲ ꓢ. ꓤꓼ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "never ",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": " ꓮ ꓕꓯ ꓡꓲ. ꓟꓽ (ꓬꓰ)꓿ ",
+    "mm": " ဘယ်တော့မှ။ ",
+    "syntax": [{
+      "eng": " He never smoked. ",
+      "lisu": " ꓬꓲ ꓮ ꓕꓯ ꓡꓲ. ꓬꓰꓺ ꓗꓳꓺ ꓟꓽ ꓛꓵꓼ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "new ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓫꓴꓼ꓾ ꓬꓲ ꓫꓵꓼ꓿ ꓓꓳꓽ ꓫꓵꓼ꓿ ",
+    "mm": " အသစ်။ ",
+    "syntax": [{
+      "eng": " Each day, many new books are published in English languag, but hardly a new book published in Lisu Lanuage in a year. ",
+      "lisu": " ꓕꓲ ꓠꓬꓲ ꓟ ꓠꓯꓸꓼ ꓗꓪ꓾ ꓰ‐ꓖꓰ‐ꓡꓲ ꓥꓳꓽ ꓗꓪ ꓕꓳ ꓶ ꓑꓷꓠ ꓮꓽ ꓟꓬ, ꓠꓬꓲ. ꓑꓶꓺ ꓔꓬˍ ꓟꓲ꓾ ꓡꓲ‐ꓢꓴ ꓥꓳꓽ ꓗꓪ ꓠꓽ ꓕꓲ ꓘꓳꓼ ꓘꓴꓽ ꓗꓪ ꓡꓰ. ꓕꓲ ꓑꓷꓠ ꓤꓼ ꓠꓬꓲ. ꓓꓳ ꓡ ꓠ, ꓟ ꓮꓽ ꓘꓶ ꓫˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "newspaper ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓓꓳꓽ ꓕꓳ ꓶ꓾ ꓫꓵꓽ ꓓꓳꓽ ꓕꓳ ꓶ꓿ ",
+    "mm": " သတင်းစာ။ ",
+    "syntax": [{
+      "eng": " Bangkok Post is a Thai newspaper. ",
+      "lisu": " ꓐꓯꓥ‐ꓗꓳꓼ ꓒꓳ.‐ꓢꓶ ꓠꓬ ꓕꓮꓲꓻ ꓗꓴꓷ ꓗꓪ ꓟ ꓓꓳꓽ ꓕꓳ ꓶ ꓕꓲ ꓚꓴ. ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "night ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓶꓼ ꓘꓶ꓾ ꓦꓬꓼ꓿ ",
+    "mm": " ည။ ",
+    "syntax": [{
+      "eng": " During the night we stayed inside the house. ",
+      "lisu": " ꓦꓬꓼ ꓝꓲ. ꓕꓯ ꓥꓪ ꓠꓴꓽ ꓠꓬ ꓦꓲ ꓘꓴꓽ ꓗꓪ ꓡꓰꓽ ꓔꓬ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "no ",
+    "eng_type": [{
+      "type": "n"
+    }, {
+      "type": " adv."
+    }],
+    "lisu": " ꓟꓽ ꓥ꓾ ꓟꓽ ꓔꓬ꓾ ꓟꓽ ꓡ꓾ ꓟꓽ ꓢꓷ꓿ ",
+    "mm": " မ၊ မဟုတ်၊ မသိ၊ မရှိ။ ",
+    "syntax": [{
+      "eng": " Is he a Lisu? No, he is not. He is a Japanesse. ",
+      "lisu": " ꓬꓲ ꓠꓬ ꓡꓲ‐ꓢꓴ ꓥ ꓡ? ꓵꓸꓼ꓾ ꓟꓽ ꓥ꓿ ꓬꓲ ꓠꓬ ꓙꓽ‐ꓑ ꓒ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "NO. ",
+    "eng_type": [{
+      "type": "abbrev."
+    }],
+    "lisu": " ꓠꓻ ꓐꓼ꓿ ",
+    "mm": " နံပါတ်။ ",
+    "syntax": [{
+      "eng": " NO. 1 or number One. ",
+      "lisu": " ꓠꓻ ꓐ ꓕꓲ꓿ ꓠꓻ ꓐꓼ ꓕꓲ ꓥˍ ꓟ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "none ",
+    "eng_type": [{
+      "type": "pron."
+    }, {
+      "type": " adv."
+    }],
+    "lisu": " ꓕꓲ ꓣꓳꓤꓼ ꓡꓲ.꓾ ꓕꓲ ꓣꓳ ꓤꓼ ꓖꓶꓻ ꓟꓽ꓿ ",
+    "mm": " ဘယ်သူမှ၊ ဘယ်သူ့အားမျှ။ ",
+    "syntax": [{
+      "eng": " None of you passed the exam. ",
+      "lisu": " ꓠꓴ ꓪꓽ ꓗꓪ ꓚꓳ. ꓕꓲ ꓣꓳ ꓤꓼ ꓖꓶꓻ ꓕꓳ ꓶ ꓟꓽ ꓧꓪ.꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "not ",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": " ꓟꓽ (ꓥ) ꓟꓽ (ꓢꓷ) ꓟꓽ (ꓔꓬ) ꓟꓽ (ꓗꓶ.)꓿ ",
+    "mm": " မ(ဟုတ်) မ(သိ) မ(ရှိ) အငြင်းဝါကျ၌အသုံးပြုသည်။ ",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "now ",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": " ꓮ ꓟꓶꓻ꓾ ꓔꓱ.ꓸꓼ ꓑ,꓿ ",
+    "mm": " အခု၊ ယခု။ ",
+    "syntax": [{
+      "eng": " Let us do it now. ",
+      "lisu": " ꓣꓳꓽ ꓕꓱ ꓕꓲ ꓑ, ꓬꓰ ꓡꓯ ꓨ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "nowadays ",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": " ꓮ ꓟꓶꓻ ꓟ ꓦꓬ ꓠꓬꓲ꓾ ꓟꓬ ꓟꓳ ꓦꓬ ꓠꓬꓲ꓿ ",
+    "mm": " ယခုခေတ်၊ မျက်မှောက်ကာလ။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "nut ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓙꓲꓻ ꓗꓳ, ꓢꓶ꓿ ",
+    "mm": " သီဟိုဠ်သီး၊ ခွံမာသီး။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "nutrition ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓢꓯꓼ ꓒꓬꓱꓼ ꓜ ꓫꓵꓽ꓿ ",
+    "mm": " အာဟာရ၊ သြဇာဓါတ်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "oak ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓫꓳ. ꓐꓳ꓿ ",
+    "mm": " ထင်းရှူး။ ",
+    "syntax": [{
+      "eng": " In the past, Oakland was filled with oak trees. ",
+      "lisu": " ꓧꓶ. ꓕꓯ ꓟ ꓦꓬ ꓠꓬꓲ ꓗꓪ꓾ ꓳꓸꓼ‐ꓡꓯ, ꓡꓳ ꓒꓱ ꓕꓲ ꓟꓵꓽ ꓡꓱꓸꓼ ꓫꓳ. ꓐꓳꓺ ꓜꓲꓻ ꓐꓲ ꓞ, ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "October ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓞꓲ ꓦ꓿ ",
+    "mm": " အောက်တိုဘာလ။ ",
+    "syntax": [{
+      "eng": " He was born on October 10th. ",
+      "lisu": " ꓬꓲ ꓔꓯ ꓞꓲ ꓦ ꓞꓲ ꓠꓬꓲ ꓕꓯ ꓦꓵˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "often ",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": " ꓙꓬꓽ ꓟꓽ ꓙꓬ꓾ ꓕꓲ ꓑ, ꓕꓲ ꓧꓪ,꓿ ",
+    "mm": " မကြာခဏ။ ",
+    "syntax": [{
+      "eng": " We all made mistakes often. ",
+      "lisu": " ꓣꓳꓽ ꓮꓽ ꓙꓵ ꓢꓴ ꓛꓬꓻ ꓖꓴ ꓥꓳꓽ ꓖꓴ ꓟꓽ ꓙꓬꓽ ꓟꓽ ꓙꓬꓽ ꓙꓳ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "omega ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓬꓲ ꓟꓶ꓾ ꓡꓳ, ꓬꓰˍ ꓟ꓿ ",
+    "mm": " အိုမီဂါ၊ အဆုံး။ ",
+    "syntax": [{
+      "eng": " I am the alpha and omega, said the Lord. ",
+      "lisu": " ꓥꓪ ꓠꓬ ꓬꓲ ꓪꓴ. ꓟˍ ꓐꓰ ꓬꓲ ꓟꓶ ꓟ ꓥ ꓡꓳ꓾ ꓐꓰ ꓢꓲꓺ ꓒ ꓡꓰ ꓐꓯˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "on ",
+    "eng_type": [{
+      "type": "prep."
+    }],
+    "lisu": " ꓕꓯ ꓢꓲꓺ꓾ ꓕꓯ ꓢꓲꓺ ꓗꓪ꓿ ",
+    "mm": " အပေါ်မှာ။ ",
+    "syntax": [{
+      "eng": " The book is on the table. ",
+      "lisu": " ꓕꓳ ꓶ ꓑꓷꓠ ꓠꓬ ꓚꓳ, ꓝꓲ. ꓕꓯ ꓢꓲꓺ ꓗꓪ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "one ",
+    "eng_type": [{
+      "type": "pron."
+    }],
+    "lisu": " ꓕꓲ꓿ ",
+    "mm": " တစ်။ ",
+    "syntax": [{
+      "eng": " There has only been one billionaire President in this world in the history. ",
+      "lisu": " ꓟꓲ ꓠꓯ ꓕꓯ ꓢꓲꓺ ꓗꓪ꓾ ꓟꓲ ꓠꓯ ꓚꓺ ꓟꓲꓽ ꓗꓪ꓾ ꓒꓴ ꓕꓲ ꓐꓲ‐ꓡꓬ ꓐꓳˍ ꓟ ꓗꓴꓷꓼ ꓪꓴ. ꓓꓵꓺ ꓣꓱꓽ ꓢꓴ ꓠꓬ ꓕꓲ ꓣꓳˍ ꓡꓰꓽ ꓙꓳ ꓠꓬꓲˍ ꓢꓰꓽ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "only ",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": " ꓡꓰꓽ꓾ ꓢꓲˍ ꓡꓰꓽ꓾ ꓔꓵꓸꓼ꓿ ",
+    "mm": " သာ၊ သာလျှင်၊ မျှသာ။ ",
+    "syntax": [{
+      "eng": " Samson always call his wife only. ",
+      "lisu": " ꓢ‐ꓟꓳ‐ꓢꓳ‐ꓠ ꓠꓬ ꓮ ꓕꓯˍ ꓟꓲ ꓬꓲ ꓦꓲ ꓢꓲ ꓟꓺ ꓕꓲ ꓣꓳ ꓔꓯˍ ꓡꓰꓽ ꓩꓳꓥ. ꓘꓴˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "opaque ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓢꓴ. ꓞ, ꓟ꓾ ꓟꓳ ꓟꓽ ꓙꓻ ꓙꓰ ꓟ꓿ ",
+    "mm": " အရောင်ပိတ်သော၊ ထွင်းဖေါက်မမြင်နိုင်သော။ ",
+    "syntax": [{
+      "eng": " This oil painting is opaque. ",
+      "lisu": " ꓬꓲꓴꓽ ꓛꓲ. ꓕꓱ ꓕꓲ ꓐꓬꓱꓽ ꓠꓬ ꓤ. ꓞꓲꓼ ꓟꓳ ꓟꓽ ꓙꓻ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "open ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓒꓴ꓾ ( ꓗ, ꓘꓶ) ꓒꓴ꓿ ",
+    "mm": " ဖွင့်။ ",
+    "syntax": [{
+      "eng": " Please open the book and read it. ",
+      "lisu": " ꓕꓳ ꓶ ꓑꓷꓠ ꓒꓴ ꓢꓲ ꓵ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "option ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓢꓲꓺ ꓣꓴ ꓓꓴ ꓚꓱ,꓿ ",
+    "mm": " ရွေးချယ်စရာ အခြားနည်းလမ်းများ။ ",
+    "syntax": [{
+      "eng": " In China, illicit drug dealers have no options but death. ",
+      "lisu": " ꓚꓳꓥ ꓗꓴꓷ ꓗꓪ ꓪꓴ. ꓞꓲꓼ ꓶꓻ ꓡꓯꓼ ꓟꓴ ꓢꓴ ꓐꓴ ꓐꓱ ꓶ ꓢꓲꓺ ꓣꓴ ꓠꓯ, ꓟ ꓚꓱ, ꓠꓬ ꓫꓵꓻˍ ꓟ ꓕꓲ ꓙꓰꓽ ꓡꓰꓽ ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "organ ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓖꓳ ꓓꓱꓽ ꓡꓯꓼ ꓗ꓿ ",
+    "mm": " ကိုယ်အင်္ဂါ၊ အော်ဂဲန်။ ",
+    "syntax": [{
+      "eng": " Our body organ branches such as hand, leg, heart etc. ",
+      "lisu": " ꓣꓳꓽ ꓖꓳ ꓓꓱꓽ ꓡꓯꓼ ꓗ.꓾ ꓡꓯꓼ ꓒꓯ,꓾ ꓚꓲ ꓑꓯ꓾ ꓠꓲ, ꓟˍ ꓡꓰꓳ ꓫꓵꓽ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "organize ",
+    "eng_type": [{
+      "type": "v"
+    }, {
+      "type": "n"
+    }],
+    "lisu": " ꓜꓴ ꓒꓬꓱꓼ ꓡ ꓠꓺ ꓧꓪ ꓜꓲꓼˍ ꓡꓳ꓾ ꓜꓴ ꓜꓲꓼˍ ꓡꓳ꓿ ",
+    "mm": " စည်းရုံးသည်၊ ဖွဲ့စည်းသည်။ ",
+    "syntax": [{
+      "eng": " Let us organize a group of volunteers. ",
+      "lisu": " ꓠꓲ, ꓡꓱꓻ ꓣꓱꓽ ꓙꓺ ꓜꓴ ꓕꓲ ꓜꓴ ꓧꓪꓺ ꓜꓲꓼ ꓡꓯ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "other ",
+    "eng_type": [{
+      "type": "adj."
+    }, {
+      "type": " adv."
+    }],
+    "lisu": " ꓠꓱ. ꓐꓯꓼ꓿ ",
+    "mm": " အခြား။ ",
+    "syntax": [{
+      "eng": " She does not have other names. ",
+      "lisu": " ꓬꓲ ꓔꓯ ꓠꓱ. ꓐꓯꓼ ꓕꓲ ꓟꓬꓱ ꓟꓽ ꓙꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "out ",
+    "eng_type": [{
+      "type": "v"
+    }, {
+      "type": " adj."
+    }, {
+      "type": " adv."
+    }, {
+      "type": " n"
+    }],
+    "lisu": " ꓬꓲ ꓐꓽ꓾ ꓬꓲ ꓐꓽ ꓢꓺ꓿ ",
+    "mm": " ထွက်၊ အပြင်ဘက်မှာ။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "outer ",
+    "eng_type": [{
+      "type": "adj."
+    }, {
+      "type": " n"
+    }],
+    "lisu": " ꓬꓲ ꓐꓽ ꓢꓲꓺ ꓗꓪ ꓥˍ ꓟ꓾ ꓬꓲ ꓐꓽ ꓕꓲ ꓔꓱ,꓿ ",
+    "mm": " အပြင်ဘက်၌ရှိသော။ ",
+    "syntax": [{
+      "eng": " Outer the rign of the solar system, outer space project. ",
+      "lisu": " ꓟꓲꓽ ꓟꓲ ꓛꓲ ꓢꓯꓼ ꓪꓽ ꓕꓲ ꓚꓳ ꓡꓳ ꓬꓲ ꓐꓽ ꓢꓲꓺ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "owe ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓐꓵꓺ꓾ ꓛꓺ꓿ ꓖꓶ ꓚꓳ,ˍ ꓟ꓾ ꓐꓶꓻ ꓚꓳ,ˍ ꓟ꓿ ",
+    "mm": " အကြွေးင်၊ ပေးဖို့ရှိ။ ",
+    "syntax": [{
+      "eng": " We all owe Thomas Edison a gratitude. ",
+      "lisu": " ꓣꓳꓽ ꓮꓽ ꓙꓵ ꓢꓴ ꓠꓬ ꓕꓳ‐ꓟ ꓰ‐ꓓꓲ‐ꓢ ꓔꓯ ꓣꓱꓽ ꓛꓰꓽ ꓕꓲ ꓟ ꓐꓵꓺ ꓞ, ꓡꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " How much do i owe you? ",
+      "lisu": " ꓠꓴ ꓔꓯ ꓮ ꓟꓬ ꓛꓲ ꓖꓶ ꓠꓯ, ꓡ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "own ",
+    "eng_type": [{
+      "type": "v"
+    }, {
+      "type": " n"
+    }, {
+      "type": " adj."
+    }],
+    "lisu": " ꓙꓳ꓿ ",
+    "mm": " ပိုင်သည်။ ရှိသည်။ ",
+    "syntax": [{
+      "eng": " Do you own a car? ",
+      "lisu": " ꓠꓴ ꓔꓯ ꓟꓳ ꓓꓳ ꓕꓲ ꓗ. ꓙꓳˍ ꓡ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "owner ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ပိုင်ရှင်။ ",
+    "mm": " Are you the owner of this car? --- ꓠꓴ ꓠꓬ ꓟꓳ ꓓꓳ ꓕꓱ ꓕꓲ ꓗ. ꓬꓲ ꓢꓲꓺ ꓒ ꓥ ꓡ?",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "ox ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓮ. ꓠꓬꓲꓽ ꓒꓵ,꓾ ꓠ. ꓗꓷ ꓟ ꓮ. ꓠꓬꓲꓽ ꓑ.꓾ ꓠꓬꓲꓽ꓿ ",
+    "mm": " နွားထီး(သင်းကွပ်ထားသော)။ ",
+    "syntax": [{
+      "eng": "* There are some oxan and cows on the paddy filed grazing the grass. ",
+      "lisu": " ꓙꓪ ꓓꓰ ꓟꓲ ꓗꓪ ꓮ. ꓠꓬꓲ ꓒꓵ,꓾ ꓮ. ꓠꓬꓲꓽ ꓟꓺ ꓮꓽ ꓟꓬ, ꓘ< ꓤꓼ ꓫꓵ. ꓖꓺ ꓜ ꓔꓬ ꓖꓴˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "page ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " စာမျက်နှာ။ ",
+    "mm": " This booklet has only thirty-two pages. --- ꓕꓳ ꓶ ꓑꓷꓠ ꓤꓼ ꓕꓱ ꓕꓲ ꓑꓷꓠ ꓗꓪ ꓕꓳ ꓶ ꓒꓳ, ꓢ ꓞꓲꓻ ꓠꓬꓲꓽ ꓒꓳ,ˍ ꓡꓰ ꓙꓳˍ ꓡꓳ꓿",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "pay ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓐꓶꓻ꓾ ꓒꓴ ꓐꓶꓻ꓾ ꓪꓽ ꓒꓵꓽ ꓐꓶꓻ꓿ ",
+    "mm": " အဖိုးအခပေးချေသည်၊ ငွေပေးချေသည်။ ",
+    "syntax": [{
+      "eng": " The boss pay us bi-weekly. ",
+      "lisu": " ꓡꓮꓳꓽ ꓑꓮꓥꓽ ꓡꓰ ꓥꓪ ꓠꓴꓽ ꓔꓯ ꓠꓬꓲꓽ ꓠꓽ ꓕꓲ ꓧꓪ, ꓪꓽ ꓒꓵꓽ ꓖꓶˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "pagoda ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓡꓳ‐ꓟꓲꓽ ꓪꓴ. ꓓꓵ ꓕꓱꓼ ꓔꓶ.꓾ ꓜꓰꓻ ꓔꓲꓺ꓾ ꓡꓳ‐ꓟꓲ ꓬꓲꓮ ꓪꓴ‐ꓢ꓿ ",
+    "mm": " စေတီ၊ ဗုဒ္ဓဘာသာဘုရားပုထိုး။ ",
+    "syntax": [{
+      "eng": " A place or temple whereBuddhists worship their gods. ",
+      "lisu": " ꓩꓴ, ꓤ ꓦ ꓡꓱ ꓢꓴ ꓐꓴ ꓬꓲꓮ ꓪꓴ‐ꓢ ꓐꓴ ꓔꓯ ꓪꓴ. ꓓꓵꓺ ꓕꓱꓼ ꓔꓶ.꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "pass ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓗꓳ. ꓙꓰ꓾ ꓘꓳꓻ ꓙꓰ꓾ ꓧꓪ. ꓡꓰ꓿ ",
+    "mm": " ကျော်လွှားနိုင်သည်၊ အောင်သည်။ ",
+    "syntax": [{
+      "eng": " Did you pass the interview? ",
+      "lisu": " ꓠꓴ ꓲꓠ‐ꓔ‐ꓐꓲꓴ, ꓧꓪ. ꓡꓰꓳ ꓪ? / ꓠꓴ ꓲꓠ‐ꓔ‐ꓐꓲꓴ, ꓒ. ꓢꓶ ꓗꓷ ꓡꓰꓳ ꓪ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "passenger ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓑꓺ ꓢꓰ ꓙ꓾ ꓜꓶ ꓢꓴ꓿ ",
+    "mm": " ပါစင်ဂျာ။ ",
+    "syntax": [{
+      "eng": " There were two passengers in the taxi cab. ",
+      "lisu": " ꓔꓯ‐ꓫꓲ ꓟꓳ ꓓꓳ ꓘꓴꓽ ꓗꓪ ꓑ‐ꓢꓰ‐ꓙ ꓠꓬꓲꓽ ꓣꓳ ꓜꓶ ꓞ, ꓡꓳ꓿ꓓꓯ, ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "passport ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓒ. ꓢꓶ ꓒꓳꓼ꓿ ",
+    "mm": " ပါ့စပို့။ ",
+    "syntax": [{
+      "eng": " You don't have to bribe to get a passport in the US and Thailand. ",
+      "lisu": " ꓟꓷꓽ ꓗꓴꓷ ꓐꓰ ꓕꓮꓲꓻ ꓗꓴꓷ ꓗꓪ ꓒ.‐ꓢꓶ‐ꓒꓳꓼ ꓕꓲ ꓟ ꓪ ꓠ, ꓟ ꓐꓱ ꓶ ꓘꓴꓽ ꓕꓴ. ꓗ. ꓟꓽ ꓛꓵ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "path ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓙꓻ ꓚꓬ,꓾ ꓙ ꓖꓴ ꓤꓼ꓿ ",
+    "mm": " လူသွားလမ်းကြောင်း၊ တောင်ပေါ်လမ်း။ ",
+    "syntax": [{
+      "eng": " The mountain path to the slash & burn paddy fields was steep and narrow. ",
+      "lisu": " ꓓꓱꓽ ꓑꓬ, ꓟꓲ ꓙꓰˍ ꓟ ꓪꓽ ꓚꓲ ꓙꓻ ꓚꓬ, ꓠꓬ ꓝꓳ,ˍ ꓢꓲ ꓝꓵ,ˍ ꓟꓲ ꓝꓵ,ˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "pen ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓐꓳ ꓗ.꓿ ",
+    "mm": " ဖေါင်တိန်၊ ဘောပင်။ ",
+    "syntax": [{
+      "eng": " I need a pen to write. ",
+      "lisu": " ꓥꓪ ꓕꓳ ꓶ ꓕꓲ ꓚꓴ. ꓐꓳ ꓓꓴ ꓐꓳ ꓗ. ꓕꓲ ꓟ ꓣꓱꓽ ꓚꓳ,ˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "pet ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓞꓳ ꓤ ꓦꓲ ꓠꓯꓸꓼ ꓗꓪ ꓔꓬˍ ꓟ ꓦꓵ ꓙꓱꓽ꓾ ꓮ. ꓠꓽ꓾ ꓮꓽ ꓠꓬ. ꓐꓰ ꓫꓵꓺ ꓥꓪ.ˍ ꓡꓰꓳ ꓫꓵꓽ꓿ ",
+    "mm": " အိမ်မွှေးတိရိစ္ဆန်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "pond ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓬꓲꓻ ꓐꓱ꓾ ꓛꓵ, ꓕꓽ꓿ ",
+    "mm": " သဘာဝရေကန်။ ",
+    "syntax": [{
+      "eng": " There used to be a pond here in the middle of the field. ",
+      "lisu": " ꓕꓪ ꓪꓽ ꓓꓰ ꓗꓳ ꓡꓳ ꓗꓪ ꓧꓶ ꓕꓯ ꓠꓬ ꓬꓲꓻ ꓐꓱꓺ ꓕꓲ ꓟ ꓙꓳ ꓠꓬꓲꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "poverty ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓫ ꓟꓷꓼˍ ꓟ.꓿ ",
+    "mm": " ဆင်းရဲမွဲတေမှု။ ",
+    "syntax": [{
+      "eng": " There is no poverty in the US, but middle class and the millionaires. ",
+      "lisu": " ꓟꓷꓽ ꓗꓴꓷ ꓗꓪ ꓫ ꓟꓷꓼˍ ꓟ ꓟꓽ ꓙꓳ꓿ ꓞꓳ ꓐꓳ ꓤ, ꓤꓼˍ ꓐꓰ ꓞꓳ ꓐꓳ ꓓꓽ ꓟ ꓡꓰꓽ ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "post office ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓬꓴꓽ ꓚꓴꓲ,꓾ ꓝꓺ ꓓꓮꓲꓸꓼ꓿ ",
+    "mm": " စာတိုက်။ ",
+    "syntax": [{
+      "eng": " The place where letter and percels are controlled. ",
+      "lisu": " ꓬꓲꓴꓽ ꓚꓴꓲ, ꓗꓪ ꓕꓳ ꓡ ꓡꓯꓼ ꓫꓴ ꓐꓰ ꓑꓺ ꓢꓰꓻ ꓕꓱ, ꓐꓴ ꓔꓯ ꓗꓪꓼˍ ꓡꓳ꓿ ꓙꓵꓽˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "poster ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓑꓳ ꓢꓶ ꓔꓺ ꓐꓬꓱꓽ꓿ ",
+    "mm": " ပိုစတာ။ ",
+    "syntax": [{
+      "eng": " A big poster stands at the corner of the roads. ",
+      "lisu": " ꓙꓻ ꓖꓴ ꓠꓬꓲꓽ ꓝꓱꓺ ꓒꓺ ꓕꓲꓺ ꓗꓪ ꓑꓳ ꓢꓶ ꓔꓺ ꓐꓬꓱꓽ ꓓꓽ ꓟ ꓕꓲ ꓟ ꓔꓶꓺ ꓔ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "property ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓠꓴ ꓙꓳˍ ꓟ ꓖꓴꓽ ꓙꓴꓽ꓾ ꓚꓬꓺ ꓛꓽ꓿ ",
+    "mm": " ပိုင်ဆိုင်မှု၊ အိမ်ခြံ၊ ယာမြေ။ ",
+    "syntax": [{
+      "eng": " When they died, all the church properties they had stolen where left behind. ",
+      "lisu": " ꓬꓲ ꓪꓽ ꓫꓵꓻˍ ꓕꓯ꓾ ꓘꓴ‐ꓜꓲ‐ꓞꓳ ꓔꓯˍ ꓐꓰ ꓘꓴꓽ ꓦ, ꓗꓶ. ꓦ, ꓟ ꓖꓴꓽ ꓙꓴꓽ ꓮꓽ ꓙꓵꓽ ꓗ ꓠꓯ. ꓢꓲꓺ ꓛ, ꓒꓲ, ꓬꓰ ꓖꓴꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "protect ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓑꓮꓳꓽ ꓩꓴ.꓿ ",
+    "mm": " ကာကွယ်။ ",
+    "syntax": [{
+      "eng": " The soldiers protect their country from the enemies. ",
+      "lisu": " ꓟꓯꓼ ꓒ ꓐꓴ ꓠꓬ ꓚꓲ ꓛꓬ ꓗꓴꓷ ꓔꓯ ꓑꓮꓳꓽ ꓩꓴ, ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "protest ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓔꓳ,꓾ ꓗꓽ ꓛꓵꓽ꓾ ꓡꓯꓼ ꓧꓺ꓿ ",
+    "mm": " ကန့်ကွက်။ ",
+    "syntax": [{
+      "eng": " We tolerated many oppressions in the past without event protesting. ",
+      "lisu": " ꓗꓳ. ꓡ ꓟ ꓦꓬ ꓠꓬꓲ ꓗꓪ꓾ ꓠꓬꓲ. ꓣꓲꓺˍ ꓟ ꓮꓽ ꓟꓬ, ꓫꓵꓽ ꓮꓽ ꓟꓬ, ꓙꓰꓽ ꓔꓯ ꓡꓯꓼ ꓧꓺˍ ꓟ꓾ ꓗꓽ ꓛꓵꓽˍ ꓟ ꓟꓽ ꓬꓰ ꓬꓰ ꓣꓳꓽ ꓘꓳꓻ ꓜꓲꓽ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "pull ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓚꓵ,꓾ ꓖꓳꓻ꓿ ",
+    "mm": " ဆွဲ။ ",
+    "syntax": [{
+      "eng": " Pull the door handle to open it. ",
+      "lisu": " ꓗ ꓘꓶ ꓡꓯꓼ ꓪꓵꓽ ꓔꓯ ꓣꓱꓽ ꓢꓲ ꓚꓵ, ꓒꓴ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "purse ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓒꓲꓽ ꓑꓮꓳꓺ꓾ ꓒꓴ ꓒꓲꓽ ꓑꓮꓳ꓿ ",
+    "mm": " ပိုက်ဆံအိပ်။ ",
+    "syntax": [{
+      "eng": " The money is in the purse on the table. ",
+      "lisu": " ꓒꓴ ꓠꓬ ꓚꓳ, ꓝꓲꓺ ꓕꓯ ꓢꓲꓺ ꓗꓪ ꓟ ꓒꓲꓽ ꓑꓮꓳꓽ ꓘꓴꓽ ꓗꓪ ꓓꓯ, ꓡꓳ꓿ ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "put ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓛ,꓾ ꓒꓯ,꓾ ꓗꓶꓺ꓾ ꓧꓳꓽ꓿ ",
+    "mm": " ချ၊ထား၊ထည့်၊သွင်း။ ",
+    "syntax": [{
+      "eng": " Put the oil in a bottle and keep away. ",
+      "lisu": " ꓧꓪꓽ ꓞꓶꓻ ꓔꓯ ꓐꓬꓻ ꓩꓴꓽ ꓗꓪ ꓗꓶꓺ ꓧꓳꓽ ꓢꓲ ꓫꓺ ꓦ,꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "quack ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓯ, ꓟꓶꓻ ꓢꓯꓼ꓿ ꓠꓯ ꓞꓲꓼ ꓟ. ꓒ ꓬꓲ ꓚꓬꓽ꓿ ",
+    "mm": " ဘဲမြည်သံ၊ သမားတော်တု။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "quadruple ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓡꓲ꓾ ꓡꓲ ꓩꓴ.꓿ ",
+    "mm": " လေး၊ လေးဆ။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "quake ",
+    "eng_type": [{
+      "type": "v"
+    }, {
+      "type": " n"
+    }],
+    "lisu": " ꓟꓵꓽ ꓙꓴꓽ ꓚꓵ,꓿ ꓟꓵꓽ ꓓꓵꓺˍ ꓟ꓿ ",
+    "mm": " ငလျင်၊ လှုပ်သည်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "qualify ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓐꓯ ꓔ ꓟ ꓮꓽ ꓙꓵ ꓐꓲ ꓜꓲꓽˍ ꓡꓳ꓿ ꓖꓳ ꓚꓳ,꓾ ꓪꓺ ꓚꓳ,ˍ ꓡꓳ꓾ ꓟꓶꓻ ꓒꓵꓽˍ ꓡꓳ꓿ ",
+    "mm": " ထင်ရှားသည်။လိုအပ်ချက်ပြည့်မီသည်။ ",
+    "syntax": [{
+      "eng": " You qualify for this job. ",
+      "lisu": " ꓟꓬꓱꓽ ꓕꓱ ꓟ ꓠꓴ ꓪꓺ ꓓˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "qualification ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓓˍ ꓟ꓾ ꓗꓴ.ˍ ꓟ꓾ ꓙꓳˍ ꓟ ꓑꓷꓽ ꓢꓲ,꓿ ",
+    "mm": " လိုအပ်ချက်ပြည့်မီသည်။ ",
+    "syntax": [{
+      "eng": " Without any qualification in any fields, we were all granted U.S. citizenship through the grace of God. ",
+      "lisu": " ꓮ ꓡꓲ ꓫꓵꓽ ꓢꓷ ꓠꓲ, ꓚꓱ, ꓕꓲ ꓫꓵꓽ ꓗꓪˍ ꓟꓲ ꓖꓼ ꓟꓽ ꓓꓰ ꓢꓴ ꓣꓳꓽ ꓮꓽ ꓙꓵ ꓢꓴ ꓔꓯ꓾ ꓪꓴ‐ꓢ ꓣꓱꓽ ꓛꓰꓽ ꓗꓪ ꓐꓰ ꓟꓷꓽ ꓗꓴꓷ ꓑꓺ ꓫꓬꓻ ꓡꓽ ꓞꓳ ꓒꓬꓱꓼ ꓡ ꓝꓲꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "quality ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓗꓪꓺ ꓡꓲ ꓔꓲꓺ꓾ ꓒꓲꓥꓽ ꓚꓵ,꓿ ",
+    "mm": " အရည်အသွေး။ ",
+    "syntax": [{
+      "eng": " This movie does not have quality. ",
+      "lisu": " ꓢꓯ. ꓐꓬꓱꓽ ꓕꓱ ꓕꓲ ꓟ ꓗꓪ‐ꓡꓲ‐ꓔꓲ ꓟꓽ ꓙꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "quantity ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓮ ꓟꓬꓺ ꓛꓲ꓾ ꓮ ꓟꓬ ꓟꓺ꓾ ꓔꓯꓺ ꓙꓺ꓿ ",
+    "mm": " ပမာဏ။ ",
+    "syntax": [{
+      "eng": " The quantity of the gas in this tank can be changed but not the quality easily. ",
+      "lisu": " ꓐꓳ, ꓓꓽ ꓟ ꓘꓴꓽ ꓗꓪ ꓖꓯ, ꓢꓶ ꓮ ꓟꓬꓺ ꓛꓲ ꓓꓯ, ꓝꓲ ꓠ, ꓟ ꓬꓰ ꓐ ꓡˍ ꓟꓲ꓾ ꓖꓯ, ꓢꓶ ꓗꓪ ꓡꓲ ꓔꓲ ꓟꓬꓽ ꓟꓬꓲ ꓙꓲꓻ ꓡ ꓓꓴ ꓠꓽ ꓬꓰ ꓫˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "quarter ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓡꓲ ꓐꓱ ꓕꓲ ꓐꓱ꓾ ꓡꓲ ꓐꓶ ꓕꓲ ꓐꓶ꓿ ꓘ, ꓒꓱ꓿ ",
+    "mm": " လေးပုံတစ်ပုံ၊ ရပ်ကွက်။ ",
+    "syntax": [{
+      "eng": " A twenty-five cent is a quarter of one dollar. ",
+      "lisu": " ꓠꓬꓲꓽ ꓞꓲ ꓥꓪꓽ ꓑꓯ. ꓠꓬ ꓕꓲ ꓒꓯꓼ ꓬꓲ ꓡꓲ ꓐꓱ ꓕꓲ ꓐꓱ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "quarrel ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓟꓷꓽ ꓠꓷ, ꓟꓬꓽ ꓡꓯꓼ ꓘꓳ꓾ ꓐꓯ ꓡꓯꓼ ꓘꓳ꓿ ",
+    "mm": " ရန်ဖြစ်၊ စကားများ။ ",
+    "syntax": [{
+      "eng": " A while later, they found better way to deal with each other and stopped quarreling over trifles forever. ",
+      "lisu": " ꓕꓲ ꓑ, ꓤ ꓟꓶꓺ ꓫꓵ ꓡꓰ ꓗ ꓠꓯ꓾ ꓬꓲ ꓪꓽ ꓠꓬ ꓕꓲ ꓣꓳ ꓛꓳꓽ ꓕꓲ ꓣꓳ ꓮ ꓡꓲ ꓐꓰ ꓙꓻ ꓡꓯꓼ ꓘꓳ ꓠꓯ, ꓟ ꓚꓱ, ꓟꓬꓽ ꓠꓬꓲ ꓜꓳꓽˍ ꓕꓲ ꓚꓱ, ꓡꓳ. ꓟꓳ ꓡꓰ ꓢꓲ꓾ ꓟꓷꓽ ꓠꓷ, ꓟꓬꓽ ꓡꓯꓼ ꓘꓳˍ ꓟ ꓔꓷꓼ ꓐꓰ ꓠ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "queen ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓪ ꓔꓲ. ꓟ꓾ ꓪꓽ ꓝꓲꓺ ꓟ꓿ ",
+    "mm": " ဘုရင်မ၊ မိဘုရား။ ",
+    "syntax": [{
+      "eng": " Queen Elizabeth II is the present queen of England. ",
+      "lisu": " ꓰ‐ꓡꓲ‐ꓜ‐ꓐꓯꓼ ꓪ ꓔꓲ ꓟ ꓠꓬ ꓬꓲꓥ ꓗꓴꓷ ꓬꓲ ꓪ ꓔꓲ. ꓟ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "question ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓠꓺ ꓠꓬꓲ ꓘꓶ꓿ ",
+    "mm": " မေးခွန်း။ ",
+    "syntax": [{
+      "eng": " The question is how they got rich. ",
+      "lisu": " ꓡꓽ ꓞꓳ ꓕꓱ ꓕꓲ ꓧꓳꓪꓽ ꓮ ꓡꓲ ꓐꓰ ꓞꓳ ꓐꓳ ꓒꓬꓱꓼ ꓡ ꓡꓼ ꓐꓯˍ ꓟ ꓠꓺ ꓠꓬꓲ ꓓꓴ ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "queue ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓝꓯ. ꓦꓰꓼˍ ꓡꓳ꓿ ",
+    "mm": " စီတန်း၊ တန်းစီ။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "quick ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓝꓷꓼ꓾ ꓟꓬꓱꓺ꓾ ꓒꓲ.꓿ ",
+    "mm": " မြန်၊ သွက်။ ",
+    "syntax": [{
+      "eng": " Everyone should be quick to listen , slow to speak and slow to become angry. ",
+      "lisu": " ꓮ ꓡꓲ ꓕꓲ ꓣꓳˍ ꓟꓲ꓾ ꓠ ꓠ, ꓟ ꓗꓪ ꓝꓷꓼ꓾ ꓫ ꓕꓱˍ ꓟ ꓗꓪ ꓒꓲꓽ ꓢꓲ꓾ ꓠꓲ, ꓢꓲꓼˍ ꓟ ꓗꓪˍ ꓟꓲ ꓠꓲ, ꓡꓯꓽ ꓢꓴ ꓬꓰ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "quit ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓓꓳ꓾ ꓓꓳ ꓙꓰ꓿ ",
+    "mm": " ထွက်။ ",
+    "syntax": [{
+      "eng": " He quit the band. ",
+      "lisu": " ꓛꓲ ꓐꓶꓻ ꓜꓴ ꓗꓪ ꓐꓰ ꓬꓲ ꓓꓳ ꓙꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "quota ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓒꓯꓽ ꓝꓰ, ꓔ ꓟ꓾ ꓐꓱꓻ ꓝꓰ, ꓔ ꓟ꓾ ꓗꓳꓺ ꓔꓺ꓿ ",
+    "mm": " ကိုတာ၊ ဝေစု။ ",
+    "syntax": [{
+      "eng": " The army sergeant was jailed for a month for taking army ration more than his quota. ",
+      "lisu": " ꓟꓯꓼ ꓙꓻ ( ꓟꓯꓽ ꓛꓱꓽ ) ꓗꓪ ꓟ ꓮꓽ ꓙꓲꓽ ꓒ ꓠꓬ꓾ ꓟꓯꓼ ꓜꓽ ꓘꓪ ꓐꓱ ꓖꓶ ꓔ ꓟ ( ꓒꓯꓽ ꓝꓰ, ꓔ ꓟ ) ꓕꓯ ꓢꓲꓺ ꓟꓬꓽ ꓠꓬꓲ ꓕꓴꓼ ꓣꓴ ꓗꓷ ꓑꓶ. ꓓꓴ꓾ ꓬꓲ ꓔꓯ ꓦ ꓐ ꓕꓲ ꓟ ꓐꓱ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "quote ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓗꓳ. ꓣꓴ ꓐꓳ꓿ ",
+    "mm": " ကိုးကားသည်၊ မှီငြှမ်း။ ",
+    "syntax": [{
+      "eng": " The book was not his own work. It was full of quotations. ",
+      "lisu": " ꓣꓳ ꓐꓯ ꓔꓬ ꓟ ꓕꓳ ꓶ ꓖꓳ ꓕꓲ ꓑꓷꓠ ꓠꓬ ꓬꓲ ꓚꓲ ꓛꓬ ꓡꓯꓼ ꓟꓬꓱꓽ ꓟꓽ ꓥ꓿ ꓢꓴ ꓕꓳ ꓶ ꓑꓷꓠ ꓗꓪ ꓐꓰ ꓗꓳ. ꓣꓴ ꓔ ꓟ ꓙꓳ, ꓙꓳꓽ ꓐꓲ ꓞ, ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "rare ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓫ. ꓐꓽˍ ꓟ꓾ ꓧꓪ ꓟꓶꓻ ꓫˍ ꓟ꓿ ",
+    "mm": " ရှားပါးသော။ ",
+    "syntax": [{
+      "eng": " Xui-lu jade is a very rare precious stone. ",
+      "lisu": " ꓫꓴꓲ‐ꓡꓴꓼꓬꓵ. ꓠꓬ ꓮꓽ ꓓꓲꓽ ꓫ. ꓐꓽˍ ꓟ ꓒꓵꓽ ꓡꓳ ꓬ. ꓛꓲ ꓕꓲ ꓫꓵꓽ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "read ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓵ꓾ ꓕꓳ ꓶ ꓵ꓿ ",
+    "mm": " ဖတ်၊ စာဖတ်သည်။ ",
+    "syntax": [{
+      "eng": " The boy reads all good books available. ",
+      "lisu": " ꓮ ꓐꓲ ꓤ ꓠꓬ꓾ ꓙꓲˍ ꓟ ꓕꓳ ꓶ ꓮ ꓟꓬ ꓑꓷꓠ ꓪ ꓓˍ ꓠꓬ ꓖꓳ ꓟꓬ ꓑꓷꓠ ꓮꓽ ꓙꓵ ꓵˍ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "real ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓚꓵ ꓚꓵ꓾ ꓚꓵ ꓚꓵ ꓥˍ ꓟ꓾ ꓬꓲ ꓚꓽ ꓥˍ ꓟ꓿ ",
+    "mm": " စစ်မှန်သော။ ",
+    "syntax": [{
+      "eng": " The young man didn't really love that poor rich window. ",
+      "lisu": " ꓖꓴꓽ ꓡꓯ. ꓒ ꓠꓬ ꓫꓱ. ꓤꓼ ꓞꓲꓼ ꓒꓴ ꓙꓳ ꓢꓴ ꓟꓶ ꓛꓵꓽ ꓟ ꓖꓳ ꓕꓲ ꓣꓳ ꓔꓯ ꓬꓲ ꓚꓽ ꓠꓲ, ꓠꓵˍ ꓟ ꓟꓽ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "realize ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓙꓽ ꓜꓲꓼ꓾ ꓚ, ꓟꓶꓻ ꓡꓰ꓿ ",
+    "mm": " သိရှိသဘောပေါက်၊ နားလည်။ ",
+    "syntax": [{
+      "eng": " By the time they realized they were investing in something fultile, their money was gone. ",
+      "lisu": " ꓙꓲ ꓖꓴ ꓟꓽ ꓙꓳˍ ꓕꓲ ꓫꓵꓽ ꓗꓪ ꓒꓴ ꓫꓵ. ꓔꓶꓺ ꓔꓬ ꓫꓵꓽ ꓥ ꓐꓷ, ꓐꓯˍ ꓟ ꓬꓲ ꓪꓽ ꓙꓽ ꓜꓲꓼ ꓡꓰ ꓝꓲ ꓕꓯ꓾ ꓬꓲ ꓪꓽ ꓒꓴ ꓫꓵꓺ ꓠꓬ ꓟꓶ ꓬꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "relate ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓗꓴ. ꓙꓲꓽ ꓙꓳˍ ꓡꓳ꓾ ꓗꓪꓽˍ ꓡꓳ꓾ ꓝ ꓡꓯꓼ ꓘꓳ ꓞ, ꓡꓳ꓿ ",
+    "mm": " ပါတ်သက်သည်၊ ဆက်နွက်သည်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "religion ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓦ ꓡꓱ ꓚꓱ,꓾ ꓙꓵꓻ ꓚꓱ,꓿ ",
+    "mm": " ဘာသာရေး။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "rely ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓪꓽ ꓪꓴꓽ ꓘꓳ,ˍ ꓡꓳ꓾ ꓗꓳꓺˍ ꓡꓳ꓿ ꓘꓮꓳ.ˍ ꓡꓳ꓿ ",
+    "mm": " အားကိုးအားထားသည်၊ မှီခိုသည်။ ",
+    "syntax": [{
+      "eng": " You cannot rely on the little kids in budgeting. ",
+      "lisu": " ꓒꓴ ꓓꓵꓽ ꓓꓳ ꓐ, ꓙꓰꓼ ꓐꓳ꓾ ꓚꓲ. ꓢꓪ.ˍ ꓟ ꓟꓬꓱꓽ ꓗꓪ ꓟꓬꓺ ꓖꓻ ꓤ ꓐꓴ ꓔꓯ ꓘꓮꓳ. ꓟꓽ ꓓ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "remark ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓐꓯ ꓚꓴꓽˍ ꓡꓳ꓿ ꓠꓴ ꓙꓽ ꓟꓶˍ ꓟ꓾ ꓠꓴ ꓡꓳ. ꓟꓳˍ ꓟ ꓐꓯ ꓖꓶˍ ꓡꓳ꓿ ",
+    "mm": " မှတ်ချက်ပေးသည်။ ",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "remote ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓶˍ ꓗꓪ꓾ ꓶˍ ꓟ꓾ ꓒꓺ ꓕꓲꓸꓼ ꓟꓽ ꓗ, ꓟ꓿ ",
+    "mm": " ဝေးလံသော။ ",
+    "syntax": [{
+      "eng": " A remote control. ",
+      "lisu": " ꓣꓲꓽ ꓟꓴꓸꓼ ꓣꓱꓽ ꓓꓴ꓿ ꓬꓮꓳꓽ ꓘꓳꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "remove ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓣꓴ ꓙꓵꓺ ꓩꓴ꓾ ꓣꓴ ꓦ ꓩꓴ ꓗꓷ꓿ ",
+    "mm": " ပြောင်းရွှေ့၊ ဖယ်ရှား။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "rent ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓦꓲ ꓝꓴꓻ꓾ ꓦꓲ ꓦꓪ. ꓖꓶ꓿ ",
+    "mm": " အိမ်ငှား၊ အခန်းငှား။ ",
+    "syntax": [{
+      "eng": " We rent apartment room and lived there for many years. ",
+      "lisu": " ꓮꓽ ꓒꓸꓼ ꓟꓯꓸꓼ ꓦꓲ ꓝꓴꓺ ꓔꓬ, ꓗꓷ ꓟ ꓟ ꓟꓶꓻ ꓫꓵꓺ ꓫꓵ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "resurrect ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓢꓯ. ꓡꓽ ꓡ꓾ ꓢꓯ. ꓡꓰꓽ ꓡ꓿ ",
+    "mm": " အမြေပုံ။ ",
+    "syntax": [{
+      "eng": " The bible says Jesus was resurrected from the dead. ",
+      "lisu": " ꓕꓳ ꓶ ꓗꓪ꓾ ꓢꓲ ꓒ ꓬꓰ‐ꓢꓴ ꓔꓯ ꓢꓯ. ꓡꓰꓼ ꓡ ꓝꓲꓳ꓾ ꓐꓰ ꓐꓳ ꓔ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "resurrection ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓢꓯ. ꓡꓰꓼ ꓡ ꓟ꓿ ",
+    "mm": " သေဆုံးပြီးမှ ပြန်လည်ရှင်သန်ခြင်း။ ခရစ်တော်၏ရှင်ပြန်ထမြောက်ခြင်း။ ",
+    "syntax": [{
+      "eng": " The fact of Jesus resurrection was the reason of Christain faith. ",
+      "lisu": " ꓢꓲ ꓒ ꓬꓰ‐ꓢꓴ ꓫꓵꓻ ꓗꓪ ꓐꓰ ꓢꓯ. ꓡꓰꓼ ꓡꓻ ꓳ ꓐꓯˍ ꓟ ꓕꓱ ꓕꓲ ꓘꓶ ꓠꓬ ꓙꓲ ꓢꓴ ꓢꓲ ꓤ ꓐꓴ ꓪꓴ‐ꓢ ꓦ ꓡꓱˍ ꓟ ꓚꓱꓺ ꓑꓶ. ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "righteous ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓔꓱ, ꓚꓵˍ ꓟ꓿ ",
+    "mm": " ဖြောင့်မှတ်သော၊ ဖြောင့်မှန်သော။ ",
+    "syntax": [{
+      "eng": " The bible says no one can become righteous by themselves. ",
+      "lisu": " ꓮꓽ ꓟˍ ꓟꓲ ꓚꓲ ꓛꓬ ꓢꓯꓼ ꓕꓵꓼ ꓢꓲ ꓔꓱ, ꓚꓵ ꓢꓴ ꓒꓬꓱꓼ ꓡ ꓟꓽ ꓓ꓾ ꓐꓰ ꓢꓲ‐ꓫꓬ‐ꓕꓳ‐ꓶ ꓗꓪ ꓐꓳ ꓔ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "rights ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓢꓲꓺ ꓪꓽ꓾ ꓢꓲꓺ ꓣꓷꓽ꓿ ",
+    "mm": " အခွင့်အရေး။ ",
+    "syntax": [{
+      "eng": " You don't have the rights to kiss your friend's wife at will. ",
+      "lisu": " ꓚꓲ ꓛꓬ ꓛꓳꓽ ꓒꓯ, ꓦꓲ ꓢꓲ ꓟ ꓔꓯ ꓠꓲ, ꓫꓵˍ ꓡꓳˍ ꓡꓰ ꓐꓳꓼ ꓖꓶ ꓠ, ꓟ ꓢꓲꓺ ꓪꓽ ꓠꓴ ꓔꓯ ꓟꓽ ꓙꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "road ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓙ ꓖꓴ꓿ ",
+    "mm": " လမ်း။ ",
+    "syntax": [{
+      "eng": " Some parts of the roads were rocky and some parts muddy. ",
+      "lisu": " ꓙ ꓖꓴ ꓕꓲ ꓕꓳ. ꓕꓳ. ꓠꓬ ꓭ ꓗꓼ ꓡꓼ ꓥ ꓢꓲ꓾ ꓕꓲ ꓕꓳ. ꓕꓳ. ꓠꓬ ꓠꓱ. ꓜꓲꓽ ꓒꓼ ꓡꓼ ꓗ, ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "rock ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓬ. ꓛꓲ ꓓꓽ ꓟ꓾ ꓭ ꓛꓲ ꓓꓽ ꓟ꓿ ",
+    "mm": " ကျောက်တုံး။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "rope ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓛꓲꓺ ꓚꓺ꓾ ꓛꓲ ꓤꓼ ꓚꓺ꓿ ",
+    "mm": " ကြိုး။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "rotate ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓚꓳꓺ꓾ ꓚꓳ ꓡꓳ ꓚꓳꓺ꓿ ",
+    "mm": " လည်ပါတ်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "round ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓡꓴ.꓾ ꓚꓳ ꓡꓳ ꓡꓳ꓿ ꓡꓴ. ꓡꓴ. ꓗ, ꓟ꓿ ",
+    "mm": " လုံးသော၊ ပတ်ပတ်လည်။ ",
+    "syntax": [{
+      "eng": " My elder brother Samuel bought a round table for dining-room. ",
+      "lisu": " ꓥꓪ ꓗꓳ, ꓗꓳꓺ ꓢ‐ꓟꓴ‐ꓬꓰ ꓡꓰ ꓜꓻ ꓜ ꓗꓳ, ꓐꓱ ꓶ ꓚꓳ. ꓝꓲꓺ ꓡꓴ. ꓕꓲ ꓟ ꓪꓴꓺ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "rude ",
+    "eng_type": [{
+      "type": "an"
+    }],
+    "lisu": " ꓟꓽ ꓙꓻ ꓣꓳꓽ꓾ ꓗꓳ.ˍ ꓡꓳ꓾ ꓬꓲ ꓗꓳ. ꓬꓲ ꓡꓽˍ ꓡꓰ ꓐꓰ ꓗ,꓿ ",
+    "mm": " ရိုင်းပြသော၊ မယဥ်ကျေးသော။ ",
+    "syntax": [{
+      "eng": " A haughty person's speeches and behaviors are rude toward other people. ",
+      "lisu": " ꓘꓶ ꓘ, ꓠꓲ, ꓘ, ꓢꓴ ꓫ ꓕꓱ ꓘꓶ ꓐꓰ ꓞꓳ ꓙꓳˍ ꓟ ꓚꓱ, ꓮꓽ ꓙꓵ ꓠꓬ ꓢꓴ ꓒꓬꓱꓽ ꓕꓯ ꓗꓪ ꓗꓳ.ˍ ꓟ ꓥ ꓡꓳ꓿ ꓬꓲ ꓗꓳ. ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "rule ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓙꓵꓽˍ ꓡꓳ꓾ ꓗꓪꓼˍ ꓡꓳ꓿ ",
+    "mm": " အုပ်ချုပ်သည်၊ အုပ်စိုးသည်။ ",
+    "syntax": [{
+      "eng": " Wisdom rules the earth. ",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "save ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓚꓬꓴ.꓿ ꓒꓴ ꓞꓽ꓾ ꓒꓴ ꓠ.꓿ ",
+    "mm": " ကယ်ဆယ္။ ငွေစု။ ",
+    "syntax": [{
+      "eng": " Alexander Fleming's discovery of penicillin have saved millions of lives so far. ",
+      "lisu": " ꓮ‐ꓡꓯ‐ꓜꓯ‐ꓓ ꓩ‐ꓡꓯ‐ꓟꓲꓠ ꓧꓪ ꓟꓳ ꓗꓷ ꓟ ꓠꓯ ꓞꓲꓼ \" ꓑꓯ‐ꓠꓯ‐ꓢꓲ‐ꓗꓲꓠ ꓡꓰ ꓞꓳ ꓤ ꓢꓯꓼ ꓟꓬ ꓟꓶ ꓟꓶ ꓢꓯ, ꓢꓯ, ꓵ ꓖꓴ ꓟꓽ ꓓ ꓚꓬꓴ. ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "safe ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓙꓲ ꓣꓴꓽ ꓓꓴ ꓟꓽ ꓙꓳ꓿ ꓮʼ ꓛꓪꓽˍ ꓟ꓿ ",
+    "mm": " လုံခြုံသော၊ ဘေးကင်းသော၊ လုံခြုံရေး။ ",
+    "syntax": [{
+      "eng": " To live in this 150 years old building is not safe. ",
+      "lisu": " 150 ꓘꓳꓼ ꓙꓳˍ ꓟ ꓦꓲ ꓕꓱ ꓕꓲ ꓢꓽ ꓠꓯꓸꓼ ꓗꓪ ꓔꓬ ꓠꓬ ꓟꓽ ꓮʼ ꓛꓪꓽ꓿ ꓙꓲ ꓣꓴꓽ ꓓꓴ ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "safety ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓮʼ ꓛꓪꓽ꓿ ",
+    "mm": " လုံခြုံရေး။ ",
+    "syntax": [{
+      "eng": " Safety first. ",
+      "lisu": " ꓮʼ ꓛꓪꓽ ꓓꓽ ꓪꓴ.꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "sale ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓪꓴꓽ ꓜˍ ꓟ꓿ ",
+    "mm": " ရောင်းချခြင်း။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "sell ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓪꓴꓽ꓾ ꓪꓴꓽˍ ꓡꓳ꓿ ",
+    "mm": " ရောင်း၊ ‌ရောင်းသည်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "serve ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓣꓱꓽ ꓙ꓾ ꓩꓴꓽ ꓢꓲ,꓾ ꓚꓳ ꓩꓴ꓿ ",
+    "mm": " အစေခံ။ ",
+    "syntax": [{
+      "eng": " Love one another and serve one another humbly. ",
+      "lisu": " ꓕꓲ ꓣꓳ ꓛꓳꓽ ꓕꓲ ꓣꓳ ꓠꓲ, ꓠꓵ ꓡꓯꓼ ꓘꓳ꓾ ꓣꓱꓽ ꓙ ꓡꓯꓼ ꓘꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "service ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓣꓱꓽ ꓙ ꓟꓬꓱꓽ꓾ ꓩꓴꓽ ꓪꓴꓸꓼ ꓟꓬꓱꓽ꓿ ",
+    "mm": " ဝန်ဆောင်မှု။ ",
+    "syntax": [{
+      "eng": " All the youth in the village involved in voluntary services. ",
+      "lisu": " ꓞꓳ ꓘ, ꓗꓪ ꓟ ꓞꓳ ꓡꓱ ꓤ ꓮꓽ ꓙꓵ꓾ ꓣꓱꓽ ꓛꓱꓽ ꓣꓱꓽ ꓙ ꓟꓬꓱꓽ ꓔ, ꓬꓰ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "several ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓢ ꓡꓲ ꓣꓳ꓾ ꓢ ꓡꓲ (ꓟ)꓿ ",
+    "mm": " သုံးလေးခု/ ယောက်။ ",
+    "syntax": [{
+      "eng": " Only serveral Lisu girls from the village are taking a sewing course. ",
+      "lisu": " ꓞꓳ ꓘ, ꓗꓪ ꓐꓰ ꓡꓲ‐ꓢꓴ ꓟꓺ ꓢ ꓡꓲ ꓣꓳ ꓛꓲˍ ꓡꓰꓽ ꓪꓳꓼ ꓚꓱ, ꓙꓲꓼ ꓟꓬꓱꓽ ꓢꓳ ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "sing ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓖꓪ꓾ ꓐꓵꓻ꓿ ",
+    "mm": " ဆို၊သီဆို၊ အဆိုတော်။ ",
+    "syntax": [{
+      "eng": " Do you want to sing the King of song? ",
+      "lisu": " ꓪ ꓔꓲ ꓔꓯ ꓠꓴ ꓟꓴ ꓖꓪ ꓕꓲ ꓚꓱ, ꓖꓪ ꓖꓶ ꓠꓲ, ꓫꓵˍ ꓡ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "sit ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓠꓬꓲ. ꓠ.꓿ ",
+    "mm": " ထိုင်သည်။ ထိုင်စေသည်။ ",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "sit down ",
+    "eng_type": [{
+      "type": "phrasal."
+    }],
+    "lisu": " ꓠꓬꓲ. ꓠ.꓿ ",
+    "mm": " ထိုင်ပါ။ ",
+    "syntax": [{
+      "eng": " Please sit down. ",
+      "lisu": " ꓠꓬꓲ. ꓠ.꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "soap ",
+    "eng_type": [{
+      "type": "an"
+    }],
+    "lisu": " ꓞꓽ ꓑꓬꓺ꓾ ꓐꓵꓻ ꓞꓶ ꓞꓲꓽ ꓓꓴ ꓞꓽ ꓐꓬꓺ꓿ ",
+    "mm": " ဆပ်ပြာ။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "soft ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓠꓴꓽ ꓡꓯꓻ꓾ ꓠꓴꓽ ꓠꓴꓽ ꓤꓼ ꓔ꓾ ꓣꓪꓽˍ ꓡꓳ꓿ ꓤꓳꓼ ꓤꓳꓼ ꓗ, ꓟ꓿ ꓟꓽ ꓗꓳ,꓿ ꓟꓽ ꓩꓴꓻ꓿ ",
+    "mm": " ပျော့။ ",
+    "syntax": [{
+      "eng": " This cotton pillow is so soft. I like it. ",
+      "lisu": " ꓢꓺ ꓡꓽ ꓟꓵꓺ ꓪꓴ. ꓖꓳꓼ ꓡꓳ ꓕꓱ ꓟ ꓮꓽ ꓘꓶ ꓤꓳꓼˍ ꓡꓳ꓿ ꓣꓪꓽˍ ꓡꓳ꓿ ꓥꓪ ꓠꓵˍ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "sold ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓪꓴꓽ ꓜ ꓔ ꓟ꓾ ꓪꓴꓽ ꓗꓷ ꓟ꓿ ",
+    "mm": " ရောင်းပြီးဖြစ်သော။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "soldier ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓯꓼ ꓒ꓿ ",
+    "mm": " စစ်သား။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "son ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓤ ꓠꓱ꓾ ꓮ ꓐꓲ꓾ ꓤꓽ꓿ ",
+    "mm": " သား။ ",
+    "syntax": [{
+      "eng": " They say he has six sons. ",
+      "lisu": " ꓬꓲ ꓔꓯ ꓤꓽ ( ꓮ ꓐꓲ ) 6 ꓫꓵ. ꓙꓳˍ ꓙꓳꓽ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "song ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓴꓽ ꓖꓪꓽ꓿ ",
+    "mm": " သီချင်း။ ",
+    "syntax": [{
+      "eng": " Please sing me a Lisu song. ",
+      "lisu": " ꓥꓪ ꓔꓯ ꓡꓲ‐ꓢꓴ ꓟꓴ ꓖꓪ ꓕꓲ ꓚꓱ, ꓖꓪ ꓖꓶ ꓡꓯ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "soon ",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": " ꓟꓽ ꓟꓶꓻ ꓫꓵ ꓕꓯ꓾ ꓮꓽ ꓧꓪ, ꓕꓲ ꓑꓸꓼ ꓕꓯ꓿ ",
+    "mm": " မကြာမီ။ ",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "sort ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓢꓲꓺ꓾ ꓮꓽ ꓟꓬ, ꓗꓪ ꓐꓰ ꓢꓲꓺ ꓣꓴ꓾ ꓢꓲꓺ ꓓꓳ ꓩꓴ꓿ ",
+    "mm": " ရွေးချယ်၊ ရွေးကောက်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "sorrow ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓠꓲ, ꓫˍ ꓟ꓿ ꓠꓲ, ꓗꓷ, ꓟꓬ ꓗꓷ,ˍ ꓟ꓿ ",
+    "mm": " ဝမ်းနည်းခြင်း။ ",
+    "syntax": [{
+      "eng": " The long sorrow over his lost wife eventually took his last breath. ",
+      "lisu": " ꓦꓲ ꓢꓲ ꓟꓺ ꓟꓶ ꓬꓰ ꓟ ꓑꓶ. ꓓꓴ ꓟꓶ ꓫꓵꓺ ꓫꓵ ꓠꓲ, ꓫ ꓟꓬ ꓫ ꓗꓷ ꓠꓬ꓾ ꓬꓲ ꓟꓶ ꓕꓯ ꓬꓲ ꓖꓶꓻ ꓢꓯꓼ ꓟꓬ ꓟꓶ ꓬꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "soup ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓕꓮꓥꓺ ꓳꓽ ꓬꓲꓻ꓾ ꓕꓮꓥꓺ ꓪꓴꓽ ꓬꓲꓻ꓿ ",
+    "mm": " ဟင်းချိုရည်။ ",
+    "syntax": [{
+      "eng": " Thai Tom Yum soup. ",
+      "lisu": " ꓕꓮꓲꓻ ꓔꓳꓟ.ˍꓬꓮꓟ ꓪꓴꓽ ꓬꓲꓻ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "sow ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓫꓵ.꓿ ꓡꓲ. ꓤ ꓫꓵ.꓿ ꓜꓻ ꓫꓵ. ꓫꓵ.꓿ ",
+    "mm": " ပျိုးကြဲ၊မျိုးစေ့ကြဲ။ ",
+    "syntax": [{
+      "eng": " You get what you sow.",
+      "lisu": " ꓠꓴ ꓮ. ꓫꓵꓽ ꓫꓵ. ꓔ ꓠꓬ ꓮ. ꓫꓵꓽ ꓜꓲ ꓣꓱꓽ ꓡˍ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "stand ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓦꓰꓼ꓾ ꓔꓴ꓾ ꓦꓰꓼ ꓞ,꓿ ",
+    "mm": " ထရပ်၊ ထ။ ",
+    "syntax": [{
+      "eng": " Most parents generally stand for their own children. ",
+      "lisu": " ꓐ, ꓐ ꓟ, ꓟ ꓣꓱꓽ ꓢꓴ ꓟꓬꓽ ꓐꓱ ꓠꓬ꓾ ꓚꓲ ꓛꓬ ꓮ ꓐꓲ ꓮ. ꓟꓲꓽ ꓕꓲ ꓛꓱꓽ ꓗꓪ ꓦꓰꓼˍ ꓡꓳ ( ꓫꓵꓽ ꓪꓴꓻ ꓓꓳ ꓡ ꓕꓯ )꓿ ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "stand up ",
+    "eng_type": [{
+      "type": "phrasal."
+    }],
+    "lisu": " ꓔꓴ ꓡ꓾ ꓦꓰꓼ ꓔꓴ ꓡ꓿ ꓔꓴ ꓡꓯ꓿ ",
+    "mm": " မတ်တတ်ထ။ ",
+    "syntax": [{
+      "eng": " \"Stand Up the class\" Commanded the teacher. ",
+      "lisu": " ꓙꓳꓥꓽ ꓟ. ꓒ ꓡꓰ꓾ \"ꓢꓳ ꓤ ꓮꓽ ꓙꓵ ꓔꓴ ꓡꓯ꓿\" ꓐꓰ ꓕꓵꓼ ꓪꓽ ꓖꓶˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "standard ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓢꓴ. ꓟꓴꓽ꓾ ꓔꓯꓺ ꓙꓷꓻ꓾ ꓔꓯꓻ ꓙꓷꓻ ꓬꓲ ꓔꓲꓻ꓿ ",
+    "mm": " စံ၊ စံချိန်၊ စံညွှန်း။ ",
+    "syntax": [{
+      "eng": " Our restaurant is trying our best to offer a high standard of services. ",
+      "lisu": " ꓥꓪ ꓠꓴꓽ ꓜꓻ ꓜꓽ ꓙꓵꓺ (ꓢꓰꓠ) ꓠꓬ ꓪꓰ ꓤꓼ ꓔꓯ ꓟꓴˍ ꓕꓲ ꓙꓷ ꓗꓪ ꓩꓴꓽ ꓢꓲ, ꓐ ꓡ ( ꓣꓱꓽ ꓙꓺ ) ꓠ, ꓟ ꓢꓯꓼ ꓕꓵꓼ ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "stop ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓠꓽ꓾ ꓦꓽ꓿ ",
+    "mm": " ရပ်။ ",
+    "syntax": [{
+      "eng": " Stop at the red lights. ",
+      "lisu": " ꓙ ꓝꓱ ꓮ. ꓔꓳ. ꓠꓲꓺˍ ꓕꓯ ꓕꓲ ꓑ, ꓤꓼ ꓦꓽ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "study ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓢꓳ꓿ ",
+    "mm": " သင်ယူ၊ ဆည်းပူး။ ",
+    "syntax": [{
+      "eng": " The little baby started learning from watching people from his crib even before he reaches the age to study at school. ",
+      "lisu": " ꓤꓼ ꓠꓱ ꓤ ꓠꓬ ꓙꓳꓥ ꓦꓲ ꓗꓪ ꓙꓰ ꓢꓲ ꓢꓳ ꓠ, ꓟ ꓬꓲ ꓞꓲꓼ ꓟꓽ ꓑꓰ ꓢꓰꓽ ꓕꓯ ꓡꓰ꓾ ꓬꓲ ꓔꓯ ꓫꓵ. ꓔ ꓖꓴ ꓗꓪ ꓓꓯ, ꓢꓲ꓾ ꓡꓽ ꓞꓳ ꓔꓯ ꓛꓳꓽ ꓢꓲ ꓢꓳ ꓪꓴ. ꓔꓬˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "tall ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓟꓴˍ ꓟ꓾ ꓖꓳ ꓓꓱꓽ ꓟꓴˍ ꓟ꓿ ",
+    "mm": " မြင့်သော၊ ရှည်သော(အရပ်)။ ",
+    "syntax": [{
+      "eng": " Grandpa was tall but I am short. ",
+      "lisu": " ꓥꓪ ꓮꓺ ꓑ ꓖꓳ ꓓꓱꓽ ꓟꓴˍ ꓥ ꓟꓲ꓾ ꓥꓪ ꓠꓽ ꓱˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "tail ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓬꓲ. ꓟꓶ.꓾ ꓟꓶ.꓿ ",
+    "mm": " အမြီး။ ",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "tell ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓐꓯ꓾ ꓐꓯ ꓖꓶ꓿ ",
+    "mm": " ပြော။ ",
+    "syntax": [{
+      "eng": " I will tell them that you are comming too.",
+      "lisu": " ꓠꓴ ꓖꓻ ꓡ ꓔꓳꓼˍ ꓥ ꓐꓰ ꓛꓳꓽ ꓒꓯ, ꓐꓴ ꓔꓯ ꓥꓪ ꓐꓯ ꓖꓶ ꓓꓴ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "Thailand ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓕꓮꓲꓻ ꓗꓴꓷ꓿ ",
+    "mm": " ထိုင်းနိုင်ငံ။ ",
+    "syntax": [{
+      "eng": " Thailand is not only famous for her hospitality but also have good reputation for the quality of Thai Royal Police Force in protecting her citizens and tourists.",
+      "lisu": " ꓕꓮꓲꓻ ꓗꓴꓷ ꓠꓬ ꓪꓰ ꓤꓼ ꓔꓯ ꓘꓳ ꓣꓴ ꓠꓲ, ꓡꓱꓻˍ ꓑꓶ. ꓓꓴ ꓟꓬꓱ ꓓꓳꓽ ꓓꓳˍ ꓡꓰꓽ ꓟꓽ ꓞꓲ꓾ ꓗꓴꓷ ꓚꓲꓥ ꓛꓽ ꓟꓯꓼ ꓜꓴ ꓐꓴ ꓑꓺ ꓫꓬꓼ ꓡꓽ ꓞꓳ ꓐꓰ ꓟꓵꓽ ꓚꓳ ꓪꓰ ꓤꓼ ꓐꓴ ꓔꓯ ꓑꓮꓳꓽ ꓩꓴ.ˍ ꓟ ꓗꓪ ꓓˍ ꓑꓶ. ꓓꓴˍ ꓟꓲ ꓙꓲˍ ꓟ ꓟꓬꓱ ꓪꓺ ꓦ, ꓟ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "tie ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓛꓲ ꓚꓺ ꓞꓳ,꓾ ꓞꓳ,꓿ ",
+    "mm": " ချည်သည်၊ ကြိုးချည်သည်။ ",
+    "syntax": [{
+      "eng": " Please tie the rope to the pole. ",
+      "lisu": " ꓛꓲ ꓤꓼ ꓚꓺ ꓮ. ꓕꓱ ꓟ ꓤꓲꓺ ꓘꓴ ꓗꓪ ꓞꓳ, ꓕꓲꓺ ꓩꓴ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "tight ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓔꓰ,꓿ ",
+    "mm": " တင်းသော၊ ကြပ်သော။ ",
+    "syntax": [{
+      "eng": " Your necktie is too tight. ",
+      "lisu": " ꓠꓴ ꓠꓯ‐ꓔꓮꓲ ꓞꓳ, ꓔ ꓟ ꓔꓰ, ꓟꓬꓽ ꓜꓲ ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "time ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓫꓵꓽ ꓫꓱ꓾ ꓙꓵ,꓾ ꓬꓲ ꓙꓵ,꓿ ",
+    "mm": " အချိန်။ ",
+    "syntax": [{
+      "eng": " What time is it?",
+      "lisu": " ꓫꓵꓽ ꓫꓱ ꓮ ꓟꓬ ꓙꓵ, ꓛꓲˍ ꓪ? ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "tire ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓠꓲ, ꓜꓲꓺ ꓡꓰ꓾ ꓐꓴꓻ ꓡꓰ꓿ ꓪꓴꓽ ꓧꓶꓻ꓾ ꓴꓽ ꓧꓶꓻ꓿ ",
+    "mm": " ပင်ပန်း။ ",
+    "syntax": [{
+      "eng": " Very soon he will tire of his wife too. ",
+      "lisu": " ꓟꓽ ꓟꓶ ꓫꓵꓺ ꓕꓯ꓾ ꓦꓲ ꓢꓲ ꓟꓺ ꓕꓱ ꓕꓲ ꓣꓳ ꓔꓯˍ ꓟꓲ ꓬꓲ ꓠꓲ, ꓐꓶꓺ ꓡꓰˍ ꓥꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " When you get tired of working , you may stop and take a break. ",
+      "lisu": " ꓟꓬꓱꓽ ꓬꓰ ꓪꓴꓽ ꓧꓶꓻ ꓡ ꓕꓯ꓾ ꓕꓲ ꓑ, ꓤꓼ ꓦꓽ ꓢꓲ꓾ ꓪꓴꓽ ꓧꓶꓻ ꓠꓽ ꓛꓵˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "tires ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓔꓺ ꓬꓻ꓾ ꓟꓳ ꓓꓳ ꓛꓲ ꓪꓳꓽ ꓔꓺ‐ꓬꓻ꓿ ",
+    "mm": " ကားတိုင်ယာ။ ",
+    "syntax": [{
+      "eng": " Two of your car tires are worn out. You need to replace them with new ones. ",
+      "lisu": " ꓠꓴ ꓟꓳ ꓓꓳ ꓔꓮꓲꓺ‐ꓬ ꓠꓬꓲꓽ ꓐꓽ ꓡꓱꓺ ꓬꓰ ꓐꓷꓳ꓿ ꓬꓲ ꓫꓵꓼ ꓪꓴꓻ ꓡꓶ. ꓠ ꓗ, ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "to ",
+    "eng_type": [{
+      "type": "conj."
+    }],
+    "lisu": " ꓓꓴ꓾ ꓠ, ꓟ꓿ ꓔꓯ ꓢꓲꓺ꓿ ",
+    "mm": " သို့၊ ဖို့၊ ရန်။ ",
+    "syntax": [{
+      "eng": " He is going to school. ",
+      "lisu": " ",
+      "mm": ""
+    }, {
+      "eng": " We need to think of helping our parents. ",
+      "lisu": " ꓣꓳꓽ ꓐ, ꓐꓽ ꓟ, ꓟ ꓔꓯ ꓬꓰ ꓙ ꓚꓱ, ꓔꓯ ꓟꓳ.ˍ ꓟꓲ ꓓꓵꓽ ꓙ ꓠꓬꓲ ꓓꓴ ꓙꓳˍ ꓡꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " In those days we were so poor that we did not have proper clothes to wear. ",
+      "lisu": " ꓖꓳ ꓕꓲ ꓦꓬꓼ ꓠꓬꓲ ꓕꓯ ꓥꓪ ꓠꓴꓽ ꓦꓲ ꓗꓪ ꓮꓽ ꓘꓶ ꓫ.ˍ ꓠꓬꓲ꓾ ꓖꓪꓽ ꓓꓴ ꓐꓵꓻ ꓞꓶ ꓟꓶꓺ ꓛꓲ ꓙꓲ ꓙꓲ ꓤꓼ ꓫꓵꓽ ꓖꓶꓺ ꓟꓽ ꓪ ꓖꓪꓽ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "tomorrow ",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": " ꓢ, ꓖꓡꓻ꓾ ꓢ, ꓠꓯꓼ꓿ ꓢ, ꓖꓪꓺ꓿ ",
+    "mm": " နက်ဖြန်၊ အနာဂါတ်။ ",
+    "syntax": [{
+      "eng": " Tomorrow she will come to see you. ",
+      "lisu": " ꓢ, ꓠꓯꓼ ꓬꓲ ꓠꓴ ꓔꓯ ꓡ ꓜꓲꓻ ꓡˍ ꓥꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " I don't know about tomorrow. ",
+      "lisu": " ꓢ, ꓖꓪꓺ ꓟ ꓙ ꓖꓴ ꓥꓪ ꓟꓽ ꓢꓷ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "too ",
+    "eng_type": [{
+      "type": "adv."
+    }],
+    "lisu": " ꓟꓬꓽ ꓜꓲ꓾ ꓮꓽ ꓘꓶ꓿ ꓗꓪ ꓔꓷꓽ꓿ ",
+    "mm": " လွန်းသော၊ အလွန်အမင်း။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "toy ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓤ ꓠꓱ ꓤꓼ ꓗ ꓠꓯ, ꓓꓴ꓾ ꓗ ꓠꓯ, ꓙꓰꓽ꓿ ",
+    "mm": " ကစားစရာအရုပ်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "true ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓔꓱ,ˍ ꓟ꓾ ꓟꓽ ꓗꓶ.ˍ ꓟ꓾ ꓬꓲ ꓚꓵ꓿ ",
+    "mm": " မှန်ကန်သော။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "try ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓢꓯꓼ ꓕꓵꓼ꓿ ꓤ, ꓠꓬꓲ꓾ ꓫꓵꓽ ꓠꓬꓲ꓿ ",
+    "mm": " ကြိုးစား၊ စမ်းကြည့်သည်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "Tuesday ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓠꓽ ꓠꓬꓲꓽ ꓠꓬꓲ꓿ ",
+    "mm": " အင်္ဂါနေ့။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "turn ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓒꓳ,꓿ ꓫꓵ. ꓚꓳꓺ꓿ ",
+    "mm": " လှည့်သည်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "ugly ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓦꓶꓻˍ ꓟ꓾ ꓒꓬꓱꓽ ꓦꓶꓻˍ ꓟ꓾ ꓟꓽ ꓐꓲꓻˍ ꓟ꓿ ",
+    "mm": " ရုပ်ဆိုးသော၊ မလှပသော၊ အကျဥ်းတန်သော။ ",
+    "syntax": [{
+      "eng": " He looks ugly apparently, but his heart is beautiful. ",
+      "lisu": " ꓬꓲ ꓔꓯ ꓔꓱ, ꓠꓬꓲˍ ꓕꓯ꓾ ꓕꓯ ꓢꓲ) ꓕꓲ ꓔꓱ, ꓗꓪ ꓒꓬꓱꓽ ꓦꓶꓻˍ ꓡꓳ ꓐꓯˍ ꓟꓲ꓾ ꓬꓲ ꓠꓲ, ꓟ ꓠꓬ ꓮꓽ ꓘꓶ ꓐꓲꓻˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "UN ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓗꓴꓷꓼ ꓜꓴ ꓜꓲꓼ ꓚꓰ꓿ ꓧꓳꓪ, ꓡꓯꓽ ꓘꓳˍ ꓟ ꓗꓴꓷ ꓜꓴ꓿ ",
+    "mm": " ကုလသမဂ္ဂ၊ ယူအင်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "uncle ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓮꓺ ꓪꓳꓺ꓾ ꓪꓳ. ꓒ꓿ ",
+    "mm": " အဘ၊ ဦးလေး၊ ဦးကြီး။ ",
+    "syntax": [{
+      "eng": " My father's brother is my uncle. ",
+      "lisu": " ꓥꓪ ꓐ, ꓐ ꓬꓲ ꓠꓬꓲ ꓤ ꓠꓬ ꓥꓪ ꓮ ꓪꓳꓺ ꓥꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " My mother's brother is my uncle. ",
+      "lisu": " ꓥꓪ ꓟ, ꓟ ꓬꓲ ꓮ. ꓬꓲꓼ ꓠꓬ ꓥꓪ ꓮ ꓪꓵꓺ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "under ",
+    "eng_type": [{
+      "type": "prep."
+    }],
+    "lisu": " ꓠꓯ. ꓘꓪ꓾ ꓙꓵꓽ ꓘꓪꓺ꓿ ",
+    "mm": " အောက်၊ အောက်မှာ။ ",
+    "syntax": [{
+      "eng": " There is a car under the tree. ",
+      "lisu": " ꓖꓪꓻ ꓢꓲ, ꓜꓲ ꓠꓯ. ꓘꓪ ꓗꓪ ꓟꓳ ꓓꓳ ꓕꓲ ꓗ. ꓓ, ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "undress ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓐꓵꓻ ꓞꓶ ꓡꓵ.꓾ ꓐꓵ ꓞꓶ ꓬꓵ.꓿ ",
+    "mm": " အဝတ်ချွတ်သည်။ ",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "understand ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓙꓽ ꓜꓲꓼˍ ꓡꓲ꓾ ꓠ ꓠ, ꓗꓴˍ ꓡꓳ꓿ ",
+    "mm": " နားလည်သည်၊ သဘောပေါက်သည်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "united ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓕꓲ ꓠꓲ, ꓟꓺꓼ꓾ ꓪꓽ ꓡꓯꓼ ꓘꓳ꓾ ꓧꓳ, ꓡꓯꓼ ꓘꓳˍ ꓟ꓾ ꓕꓲ ꓧꓷ, ꓕꓲ ꓟꓬꓸꓼ ꓥˍ ꓟ꓿ ",
+    "mm": " စည်းလုံးသော၊ ပေါင်းစည်းထားသော။ ",
+    "syntax": [{
+      "eng": " The United States of America. ",
+      "lisu": " ꓕꓲ ꓧꓷ, ꓕꓲ ꓟꓬꓸꓼ ꓧꓳ, ꓡꓯꓼ ꓘꓳˍ ꓟ ꓟꓷꓽ ꓗꓴꓷ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "unity ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓧꓳ, ꓡꓯꓼ ꓘꓳˍ ꓟ꓾ ꓪꓽ ꓡꓯꓼ ꓘꓳˍ ꓟ꓿ ",
+    "mm": " စည်းလုံးညီညွတ်မှု/ ရေး။ ",
+    "syntax": [{
+      "eng": " The Unity among the American citizens is so strong. ",
+      "lisu": " ꓟꓷꓽ ꓗꓴꓷ ꓑꓺ ꓫꓬꓼ ꓡꓽ ꓞꓳ ꓐꓴ ꓗꓳ ꓡꓳ ꓗꓪ ꓧꓳ, ꓡꓯꓼ ꓘꓳ꓾ ꓪꓽ ꓡꓯꓼ ꓘꓳˍ ꓟ ꓮꓽ ꓘꓶ ꓢꓯꓼ ꓔꓰ,ˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "until ",
+    "eng_type": [{
+      "type": "prep."
+    }],
+    "lisu": " ꓟꓽ ꓛꓲ ꓕꓻ ꓑꓳ.꓾ ꓗꓪ ꓔꓷꓽ꓾ ꓗꓪ ꓛꓲ꓿ ",
+    "mm": " သည်အထိ၊ တိုင်အောင်။ ",
+    "syntax": [{
+      "eng": " You can stay in here until the rain will stop. ",
+      "lisu": " ꓟꓶ ꓦꓻ ꓬꓯꓼ ꓠꓽ ꓡꓰˍ ꓗꓪ ꓛꓲ ꓠꓴ ꓕꓪꓻ ꓠꓯꓸꓼ ꓗꓪ ꓔꓬ ꓛꓵˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "urge ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓓꓱꓽ ꓢꓯꓼ ꓖꓶ ꓘꓶ ꓕꓱ꓿ ꓢꓯꓼ ꓖꓶ ꓘꓶ ꓕꓰ꓿ ꓛꓴꓰ ꓖꓶ꓿ ",
+    "mm": " တိုက်တွန်းသည်။ ",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "urgent ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓞ ꓞꓽ꓾ ꓠꓲ, ꓞ꓾ ꓕꓱ ꓕꓲ ꓑ, (ꓣꓱꓽ ꓬꓯꓼˍ ꓟ꓾ ꓛˍ ꓟ) ",
+    "mm": " အမြန်လိုသည်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "urine ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓤꓲ. ",
+    "mm": " ဆီး။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "up ",
+    "eng_type": [{
+      "type": "adv."
+    }, {
+      "type": " prep."
+    }],
+    "lisu": " ꓕꓯ ꓢꓲꓺ꓾ ꓕꓯ ꓢꓲꓺ ꓗꓪ꓿ ",
+    "mm": " အပေါ်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "upper ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓖꓽ ꓑꓳ.꓾ ꓕꓯ ꓢꓲꓺ꓾ ꓕꓯ ꓢꓲꓺ ꓗꓪ꓿ ",
+    "mm": " အပေါ်ပိုင်း၊ အထက်မှာ။ ",
+    "syntax": [{
+      "eng": " The landscapes upper Salwin river are mountainous. ",
+      "lisu": " ꓠꓴ.‐ꓙꓬꓺ ꓠꓯ ꓬꓲꓻ ꓡꓳ ꓖꓼ ꓑꓳ. ꓕꓲ ꓕꓱꓺ ꓟ ꓟꓵꓽ ꓒꓬꓱꓽ ꓠꓬ ꓪꓽ ꓚꓲ ꓪꓽ ꓐꓽ ꓟꓬꓽˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "velocity ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓬꓱ ꓢꓴ.꓾ ꓝꓷꓼ ꓢꓴ.꓿ ",
+    "mm": " အလျင်၊ မြန်နှုန်း။ ",
+    "syntax": [{
+      "eng": " It is an amazing thing that human kinds know the velocity of the earth's movement. ",
+      "lisu": " ꓟꓲ ꓠꓯ ꓡꓴ. ꓕꓱ ꓕꓲ ꓢꓶ ꓙꓵꓺ ꓔꓬ ꓟ ꓟꓬꓱ ꓢꓴ. ꓔꓯ ꓞꓳ ꓤ ꓐꓴ ꓢꓷ. ꓐ ꓡˍ ꓟ ꓠꓬ ꓓꓵꓽ ꓙ ꓟꓶꓻ ꓓꓴ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "victim ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓪꓯꓼ ꓔꓲ.꓾ ꓢꓴ ꓢꓰꓼˍ ꓟ ꓘꓳ ꓪ ꓢꓴ꓿ ",
+    "mm": " သားကောင်။ ",
+    "syntax": [{
+      "eng": " We were all victims of internal war. Lisu village. ",
+      "lisu": " ꓣꓳꓽ ꓮꓽ ꓙꓵ ꓢꓴ ꓠꓬ ꓟꓯꓼ ꓟꓶ ꓙꓽ ꓬꓲ ꓪꓯꓼ ꓔꓲ. ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "victory ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓧꓪ. ꓓꓴꓽ꓾ ꓧꓪ. ꓡꓰˍ ꓟ꓿ ",
+    "mm": " အောင်ပွဲ။ ",
+    "syntax": [{
+      "eng": " Victory over the poverty was successfully achieved in the U.S.A.",
+      "lisu": " ꓟꓷꓽ ꓗꓴꓷ ꓗꓪ ꓠꓬ ꓫ ꓟꓷꓼˍ ꓟ ꓔꓯ ꓬꓲ ꓜꓲꓸꓼ ꓧꓪ. ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "voice ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓢꓯꓼ꓿ ",
+    "mm": " အသံ။ ",
+    "syntax": [{
+      "eng": " The government listens to the voice of the oppressed. ",
+      "lisu": " ꓗꓴꓷ ꓙꓵꓽ ( ꓮ‐ꓢꓴ‐ꓬ ) ꓠꓬ ꓠꓬꓲ. ꓤꓲꓺˍ ꓟ ꓔꓳ, ꓜꓳꓽ ꓪ ꓢꓴ ꓐꓴ ꓫ ꓕꓱ ꓢꓯꓼ ꓔꓯ ꓠ ꓠ, ꓔꓬ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "volleyball ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓐꓳ ꓡꓲ ꓐꓳ,꓿ ",
+    "mm": " ဘော်လီဘော။ ",
+    "syntax": [{
+      "eng": " The tallest man on earth cannot play volleyball.",
+      "lisu": " ꓟꓲ ꓠꓯ ꓗꓪ ꓖꓳ ꓓꓱꓽ ꓟꓴ ꓓꓰˍ ꓢꓴ ꓖꓳ ꓕꓲ ꓣꓳ ꓐꓳ‐ꓡꓲꓐꓳ, ꓗ, ꓠꓯ, ꓟꓽ ꓐ ꓡ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "volume ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓪꓳꓻ ꓡꓴꓟ,꓾ ꓟꓶꓻ ꓢꓯꓼ ꓪꓳꓻ ꓡꓴꓟ,꓾ ꓟꓶꓻ ꓢꓯꓼ ꓪꓴꓽ ꓣꓳ꓿ ",
+    "mm": " အသံတိုးလျှော့။ ",
+    "syntax": [{
+      "eng": " Please turn the volumne of the music player a little bit louder. ",
+      "lisu": " ꓟꓴꓽ ꓖꓪꓽ ꓢꓯꓼ ꓪꓳꓻ ꓡꓴꓟ, ꓮ. ꓔꓲ ꓤꓼ ꓡꓵ, ꓟꓴ ꓓꓯ ꓩꓴ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "vote ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓟꓯ, ꓗꓶꓺ꓾ ꓟꓯ, ꓧꓳꓽ꓿ ",
+    "mm": " မဲထည့်။ ",
+    "syntax": [{
+      "eng": " We voted for the one who gave us hope and he won the election. ",
+      "lisu": " ꓥꓪ ꓠꓴꓽ ꓔꓯ ꓥꓳꓺ ꓡꓳ. ꓓꓴ ꓖꓶ ꓔ ꓢꓴ ꓖꓳ ꓕꓲ ꓣꓳ ꓔꓯ ꓟꓯ, ꓗꓶꓺ ꓖꓶ ꓗꓷ ꓠꓬ ꓪꓴ. ꓓꓵ ꓣꓱꓽ ꓢꓴ ꓢꓲꓺ ꓑꓮꓲꓽ ꓲ‐ꓡꓯ‐ꓫꓲ ꓗꓪ ꓬꓲ ꓧꓪ. ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "war ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓶ ꓙꓽ꓾ ꓟꓯꓼ ꓘꓶ꓿ ",
+    "mm": " စစ်မီး၊ တိုက်ပွဲ။ ",
+    "syntax": [{
+      "eng": " War is made up of many battles. ",
+      "lisu": " ꓟꓯꓼ ꓟꓶ ꓙꓽ ꓠꓬ ꓢꓰꓼ ꓡꓯꓼ ꓘꓳ ꓐꓷꓺ ꓡꓯꓼ ꓘꓳˍ ꓟ ꓮꓽ ꓟꓬ, ꓔꓯ ꓐꓯˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "water ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓬꓲꓻ ꓙꓬ꓾ ꓮ. ꓙꓬ꓿ ",
+    "mm": " ရေ။ ",
+    "syntax": [{
+      "eng": " Water can be found in three different forms hot or cold, ice and vapor. ",
+      "lisu": " ꓬꓲꓻ ꓙꓬ ꓔꓯ ꓖꓳ ꓓꓱꓽ ꓢ ꓒꓳ, ꓗꓪ ꓐꓰ ꓟꓳ ꓪ ꓓˍ ꓡꓳ꓿ ꓖꓳ ꓟ ꓠꓬ꓾ ꓬꓲꓞꓻ ꓥ ꓠꓬ ꓬꓲ ꓙꓬ꓾ ꓪꓽ ꓐꓰ ꓟꓴ ꓗꓴ. ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "wed ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓡꓯꓼ ꓒꓯ, ꓝ꓿ ꓝꓱ ꓡꓯꓼ ꓘꓳ꓿ ",
+    "mm": " လက်ထပ်၊ မင်္ဂလာဆောင်။ ",
+    "syntax": [{
+      "eng": " It was sunny on his wedding day. ",
+      "lisu": " ꓬꓲ ꓡꓯꓼ ꓑꓯ, ꓝ ꓕꓲ ꓠꓬꓲ ꓕꓯ ꓟꓴꓽ ꓗꓪ ꓐꓺˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "west ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓐꓶꓻ ꓓꓵꓽ꓿ ",
+    "mm": " အနောက်ဖက်။ အနောက်နိုင်ငံများ။ ",
+    "syntax": [{
+      "eng": " The sun rises in the east and sets in the west. ",
+      "lisu": " ꓟꓲꓽ ꓟꓲ ꓠꓬ ꓐꓶꓻ ꓓꓳ ꓗꓪ ꓐꓰ ꓓꓳ ꓡ ꓢꓲ꓾ ꓐꓶꓻ ꓓꓵꓽ ꓗꓪ ꓓꓵꓽ ꓙꓰˍ ꓡꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " The United States of America is not only the greatest nation in the West, but also the greatest in the entire world so far. ",
+      "lisu": " ꓟꓷꓽ ꓗꓴꓷ ꓠꓬ ꓐꓶꓻ ꓓꓵꓽ ꓗꓴꓷꓼ ꓐꓴ ꓗꓳ ꓡꓳ ꓗꓪ ꓪꓽ ꓠꓬꓲ ꓓꓰˍ ꓟ ꓗꓴꓷꓽ ꓥ ꓟˍ ꓡꓰꓽ ꓟꓽ ꓞꓲ꓾ ꓕꓲ ꓟꓲ ꓠꓯ ꓡꓴ. ꓡꓱꓸꓼ ꓗꓪ ꓪꓽ ꓠꓬꓲ ꓓꓰˍ ꓟ ꓗꓴꓷ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "wet ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓒꓼ꓾ ꓬꓲꓻ ꓙꓬ ꓒꓼ꓿ ",
+    "mm": " စိုသည်၊ ရေစို။ ",
+    "syntax": [{
+      "eng": " Your clothes are wet. ",
+      "lisu": " ꓠꓴ ꓐꓵꓻ ꓞꓶ ꓟꓶꓺ ꓛꓲ ꓬꓲꓻ ꓙꓬ ꓒꓼˍ ꓡꓳ꓿ ꓡꓵ. ꓢꓲ ꓮ. ꓙꓬ ꓫꓵ. ꓓꓳ ꓗꓷ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "wife ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓤꓽ ꓟꓶꓻ꓾ ꓦꓲ ꓢꓲ ꓟ꓿ ",
+    "mm": " မိန်းမ၊ ဇနီး။ ",
+    "syntax": [{
+      "eng": " After your girlfriend is married to you , she become your wife. ",
+      "lisu": " ꓠꓴ ꓠꓲ, ꓙꓽ ꓐꓰ ꓡꓯꓼ ꓒꓯ, ꓝ ꓗꓷ ꓗ ꓠꓯ ꓠꓬ ꓬꓲ ꓠꓽ ꓠꓴ ꓤꓽ ꓟꓶꓻ ꓗꓷ ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "win ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓧꓪ.꓾ ꓧꓪ. ꓡꓰ꓿ ",
+    "mm": " နိုင်၊ အောင်မြင်။ ",
+    "syntax": [{
+      "eng": " America's love wins the hearts of all human kinds. ",
+      "lisu": " ꓟꓷꓽ ꓗꓴꓷ ꓬꓲ ꓠꓵ ꓠꓲ, ꓡꓰ ꓟꓲ ꓠꓯ ꓡꓽ ꓞꓳ ꓮꓽ ꓙꓵ ꓠꓲ, ꓟ ꓔꓯ ꓧꓪ. ꓡꓰꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "wine ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓪꓮꓲꓻ꓾ ꓙꓵꓻ ꓛꓵꓻ꓿ ",
+    "mm": " ဝိုင်အရက်။ ",
+    "syntax": [{
+      "eng": " Wine is made of grapes and kept in the oak-barrels. ",
+      "lisu": " ꓪꓮꓲꓻ ꓙꓵꓻ ꓔꓯ ꓛꓱꓼ ꓡꓱꓼ ꓢꓶ ꓣꓱꓽ ꓢꓲ ꓫꓬ,ˍ ꓡꓳ꓿ ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "work ",
+    "eng_type": [{
+      "type": "v"
+    }, {
+      "type": " n"
+    }],
+    "lisu": " ꓟꓬꓱꓽ ꓣꓱꓽ꓾ ꓟꓬꓱꓽ ꓬꓰ꓿ ",
+    "mm": " အလုပ်လုပ်။ ",
+    "syntax": [{
+      "eng": " There is a Chinese saying, \"Work like a poor and eat like a rich\". ",
+      "lisu": " ꓧꓮꓠꓽ ꓞꓳ ꓫꓵꓽ ꓐꓯ ꓘꓶ ꓕꓲ ꓘꓶ ꓙꓳˍ꓿ \"ꓞˍ ꓫˍ ꓡꓰ ꓐꓰ ꓟꓬꓱꓽ ꓬꓰ ꓢꓲ꓾ ꓞꓳ ꓐꓳˍ ꓡꓰ ꓐꓰ ꓜ ꓓꓳ꓿\" ꓙꓳꓽ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "worry ",
+    "eng_type": [{
+      "type": "v"
+    }, {
+      "type": " n"
+    }],
+    "lisu": " ꓛꓲ. ꓫ꓾ ꓙꓽ ꓫ꓿ ",
+    "mm": " စိုးရိမ်၊ ပူပင်။ ",
+    "syntax": [{
+      "eng": " I don't worry about tomorrow because I don't know about it.",
+      "lisu": " ꓢ, ꓖꓡꓻ ꓟ ꓙ ꓖꓴ ꓔꓯ ꓥꓪ ꓟꓽ ꓢꓷ ꓑꓶ. ꓓꓴ꓾ ꓢ, ꓖꓶꓻ ꓐꓱ ꓶ ꓥꓪ ꓟꓽ ꓛꓲ. ꓫ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "wring ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓫꓵ.꓾ ꓛꓵ,꓿ ",
+    "mm": " ညှစ်သည်။ ",
+    "syntax": [{
+      "eng": " The women wring wet clothes. ",
+      "lisu": " ꓤ ꓟꓶ ꓤꓼ ꓐꓴ ꓠꓬ ꓞꓲꓽ ꓦ. ꓟ ꓐꓵꓻ ꓞꓶ ꓟꓶꓺ ꓛꓲ ꓐꓴ ꓔꓯ ꓫꓵ.ˍ ꓡꓳ ( ꓬꓲꓻ ꓙꓬ ꓫꓵ. ꓓꓳ ꓗꓷˍ ꓡꓳ)꓿ ",
+      "mm": ""
+    }, {
+      "eng": " The angry boy wrung the bird to dead. ",
+      "lisu": " ꓠꓲ, ꓢꓲꓼ ꓔꓬ ꓟ ꓮ ꓐꓲ ꓤꓼ ꓡꓰ ꓠꓬ, ꓔꓯ ꓡꓯꓻ ꓐꓰ ꓞꓲ ꓢꓰꓼ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "write ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓐꓳ꓾ ꓕꓳ ꓶ ꓐꓳ꓿ ",
+    "mm": " ရေးသည်။ ",
+    "syntax": [{
+      "eng": " That author has written more than ten books so far.",
+      "lisu": " ꓕꓳ ꓶ ꓐꓳ ꓒ ꓖꓳ ꓕꓲ ꓣꓳ ꓡꓰ ꓐꓳ ꓔ ꓟ ꓕꓳ ꓶ ꓞꓲ ꓑꓷꓠ ꓟꓽ ꓞꓲ ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "wrong ",
+    "eng_type": [{
+      "type": "adj."
+    }],
+    "lisu": " ꓞꓳ.ˍ ꓟ꓾ ꓛꓬꓻˍ ꓟ꓿ ꓟꓽ ꓜꓳꓽˍ ꓟ꓿ ",
+    "mm": " မှားသော၊ မမှန်သော။ ",
+    "syntax": [{
+      "eng": " Five of your answer to ten question are wrong. ",
+      "lisu": " ꓠꓺ ꓠꓬꓲ ꓘꓶ ꓞꓲ ꓘꓶ ꓪꓴ. ꓗꓪ ꓠꓴ ꓖꓶ ꓔ ꓟ ꓒꓳ, ꓘꓶ ꓥꓪꓽ ꓟ ꓠꓬ ꓛꓬꓻ ꓞ, ꓡꓳ꓿ ",
+      "mm": ""
+    }, {
+      "eng": " When you did something wrong to your friends, you felt shy to apologize them for it. ",
+      "lisu": " ꓛꓳꓽ ꓒꓯ, ꓐꓴ ꓔꓯ ꓠꓴ ꓡꓰ ꓕꓲ ꓫꓵꓽ ꓫꓵꓽ ꓬꓰ ꓛꓬ ꓗꓷ ꓕꓯ꓾ ꓠꓴ ꓛꓬ ꓖꓴ ꓐꓱ ꓶ ꓖꓶꓻ ꓬꓲꓼ ꓠ, ꓟ ꓠꓴ ꓮꓽ ꓘꓶ ꓫ ꓔꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "wrote ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓐꓳ ꓗꓷꓳ꓾ ꓕꓳ ꓶ ꓐꓳ ꓗꓷꓳ꓿ ",
+    "mm": " ရေးခဲ့သည်။ ",
+    "syntax": [{
+      "eng": " Last year, he wrote at least ten letters to his grandfather to entertain the old man.",
+      "lisu": " ꓮꓽ ꓠꓲ, ꓕꓲ ꓘꓳꓼ ꓘꓴꓽ ꓗꓪ ꓬꓲ ꓮ ꓑꓺ ꓔꓯ ꓠꓲ, ꓗꓴ ꓖꓶˍ ꓐꓰ꓾ ꓕꓳ ꓶ ꓡꓯꓼ ꓫꓴ ꓠꓲ. ꓓꓰ ꓞꓲꓻ ꓚꓴ. ꓐꓳ ꓢꓳꓥꓼ ꓗꓷꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "xenophobia ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓞꓳ ꓜꓲꓽ ꓔꓯ ꓙꓳꓺˍ ꓟ꓿ ꓞꓳ ꓫꓵꓼ ꓪꓽ ꓫꓵꓼ ꓔꓯ ꓙꓺ ꓡꓯꓼ ꓘꓳ ꓟꓽ ꓑꓶ. ꓟ꓿ ꓐꓶ ꓗꓴꓷꓼ ꓒ ꓔꓯ ꓟꓽ ꓠꓵ. ꓟ꓾ ꓙꓳꓺ ꓟ꓿ ",
+    "mm": " သူစိမ်း၊ လူစိမ်းကိုကြောက်ခြင်း။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "x-ray ",
+    "eng_type": [{
+      "type": "n"
+    }, {
+      "type": " v"
+    }],
+    "lisu": " ꓯ‐ꓢꓶ‐ꓣꓯ꓿ ꓯ‐ꓢꓶ‐ꓣꓯ ꓐꓬꓱꓽ ꓓꓱꓽ꓿ ",
+    "mm": " အိတ်စရေးဓါတ်မှန်၊ ဓါတ်မှန်ရိုက်သည်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "xylophone ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓻ ꓙꓱꓻ ꓟꓶꓻ ꓙꓰꓽ꓿ ꓟꓻ ꓙꓱꓻ ꓛꓲꓥꓽ꓿ ꓟꓻ ꓘꓪ ꓒꓬ. ꓤꓼ꓾ ꓥˍ ꓠꓬ ꓢꓲ, ꓘꓪ. ꓒꓬ. ꓤꓼ ꓐꓴ ꓔꓯ ꓝꓯ. ꓡꓯꓼ ꓙꓱꓻ ꓔ ꓢꓲ ꓲʼ ꓗꓷ ꓠꓬ ꓬꓲ ꓢꓯꓼ ꓠꓺ ꓢꓻ ꓡꓴꓽ ꓢꓯꓼ ꓓꓳ ꓡ ꓠꓺ ꓫꓬ, ꓔ ꓟ ꓚꓲꓥꓽ꓿ ",
+    "mm": " ပတ္တလာ။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "year ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓘꓳꓼ꓾ ꓬꓲ ꓘꓳꓼ꓿ ",
+    "mm": " နှစ်။ ",
+    "syntax": [{
+      "eng": " What year is this? It is the year of roaster. ",
+      "lisu": " ꓞꓲ ꓠꓲ, ꓮ. ꓫꓵꓽ ꓘꓳꓼ ꓥ ꓡ?ꓞꓲ ꓠꓲ, ꓠꓬ ꓮ. ꓬ. ꓘꓳꓼ ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "yell ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓢꓯꓼ ꓓꓽ ꓟ ꓡꓰ ꓘꓴˍ ꓡꓳ꓿ ",
+    "mm": " အော်သည်၊ ငယ်သံပါအောင်အော်သည်။ ",
+    "syntax": [{
+      "eng": " The watchman yelled, \"Stop danger ahead.\". ",
+      "lisu": " ꓦꓴ ꓠꓬ, ꓢꓴ ꓡꓰ ꓢꓯꓼ ꓓꓽ ꓟ ꓡꓰ ꓘꓴˍ ꓡꓳ꓾ \"ꓠꓽ ꓗꓷ꓿ ꓟꓲ. ꓙꓬ ꓗꓪ ꓙꓲ ꓣꓴꓽ ꓓꓴ ꓙꓳˍ ꓥ꓿\"",
+      "mm": ""
+    }]
+  }, {
+    "eng": "yellow ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓫꓵꓺ꓾ ꓫꓵꓺ ꓫꓵ꓾ ꓫꓵ ꓡꓯ꓿ ",
+    "mm": " အဝါရောင်။ ",
+    "syntax": [{
+      "eng": " Green is made of yellow and blue. ",
+      "lisu": " ꓠꓲ, ꓛꓵꓼ ꓢꓷꓽ ꓠꓬ ꓫꓵꓺ ꓡꓯꓺ ꓐꓰ ꓡꓯꓽ ꓢꓷꓽ ꓠꓬꓲꓽ ꓙꓰꓽ ꓫꓳ, ꓢꓲ ꓒꓬꓱꓼ ꓡˍ ꓟ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "yes ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓥ ꓡꓯ꓿ ꓥꓳ꓿ ꓰ꓿ ",
+    "mm": " ဟုတ်ကဲ့။ ",
+    "syntax": [{
+      "eng": " Yes, I believe. ",
+      "lisu": " ꓥꓳ꓾ ꓥꓪ ꓙꓵˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "yesterday ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓮꓽ ꓟꓰꓺ꓿ ",
+    "mm": " မနေ့က။ ",
+    "syntax": [{
+      "eng": " Yesterday was the past and today is present. ",
+      "lisu": " ꓮꓽ ꓟꓰꓻ ꓠꓬ ꓗꓳ. ꓗꓷ ꓟ ꓥ ꓢꓲ꓾ ꓠꓬꓲ. ꓟꓲ ꓠꓬ ꓟꓬ‐ꓟꓳ ꓙꓵ, ꓥꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "yet ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓐꓯˍ ꓟꓲ꓾ ‐‐ꓢꓰꓽ꓿ ",
+    "mm": " သေး၊တုန်း။ ",
+    "syntax": [{
+      "eng": " He won a state lottery. Yet, he wears like a poor. ",
+      "lisu": " ꓬꓲ ꓠꓬ ꓞꓮꓲ ꓒꓬꓽ ꓡꓳ‐ꓔ ꓡꓲ ꓓꓽ ꓟ ꓕꓲ ꓟ ꓧꓪ. ꓡꓰꓳ ꓐꓯˍ ꓟꓲ꓾ ꓞꓳ ꓫ ꓤꓼ ꓡꓰ ꓐꓰ ꓖꓪꓽ ꓔꓬ ꓢꓰꓽ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "yield ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓣꓮꓥ. ꓖꓶ꓾ ꓙꓵꓺ ꓖꓶ꓾ ꓙ ꓖꓴ ꓖꓶ꓿ ꓬꓲ ꓢꓶ ꓓꓱꓼ꓿ ",
+    "mm": " လမ်းဖယ်ပေးသည်၊ ဦးစားပေးသည်။ ထွက်သည်၊ အသီးအနှံထွက်သည်။ ",
+    "syntax": [{
+      "eng": " At the round about, there is a traffic sign that reads \"Yield to the right of way\". ",
+      "lisu": " ꓙꓻ ꓚꓳ ꓡꓴ. ꓗꓪ \"ꓧꓶ ꓕꓯ ꓙꓰ ꓙꓲꓽ ꓙꓳˍ ꓢꓴ ꓔꓯ ꓙ ꓖꓴ ꓖꓶ\" ꓐꓯˍ ꓟ \"ꓢꓮꓲꓸꓼ\" ꓕꓲ ꓟ ꓞꓳ, ꓔ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "yoke ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓮ. ꓠꓬꓲꓽ ꓡꓽ ꓡꓰꓺ꓿ ꓮ. ꓑꓶꓺ꓿ ",
+    "mm": " လှည်းတံပိုး။ ",
+    "syntax": [{
+      "eng": " Two bulls are tied to a yoke to pull the cart behind. ",
+      "lisu": " ꓡꓽ ꓡꓰ ꓕꓲ ꓟˍ ꓮ. ꓠꓬꓲꓽ ꓠꓬꓲꓽ ꓘ, ꓝꓶ. ꓢꓲ꓾ ꓗ ꓠꓯ. ꓢꓲꓺ ꓗꓪ ꓟ ꓡꓱ. ꓔꓯ ꓖꓳꓻ ꓝꓲˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "you ",
+    "eng_type": [{
+      "type": "pron."
+    }],
+    "lisu": " ꓠꓴ꓿ ",
+    "mm": " နင်၊ မင်း၊ ခင်ဗျား။ ",
+    "syntax": [{
+      "eng": " Do you know where she was from?",
+      "lisu": " ꓬꓲ ꓮ ꓡꓲ ꓗꓪ ꓢꓴ ꓥ ꓟ ꓠꓴ ꓢꓷ ꓡ?",
+      "mm": ""
+    }]
+  }, {
+    "eng": "young ",
+    "eng_type": [{
+      "type": "adj."
+    }, {
+      "type": " n"
+    }],
+    "lisu": " ꓡꓯ.ˍ ꓟ꓾ ꓞꓲꓼ ꓣꓳˍ ꓟ꓿ ꓞꓳ ꓡꓯ.꓿ ",
+    "mm": " ငယ်ရွယ်သော၊ နုပျိုသော။ ",
+    "syntax": [{
+      "eng": " I am old, but you are young. ",
+      "lisu": " ꓥꓪ ꓠꓬ ꓞꓲꓼ ꓟꓳꓽˍ ꓡꓳ꓿ ꓠꓴ ꓠꓽ ꓞꓳ ꓡꓯ ꓥ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "your ",
+    "eng_type": [{
+      "type": "det."
+    }],
+    "lisu": " ꓠꓴ ꓔꓯ꓾ ꓠꓴ ꓔꓯ ꓟ꓿ ",
+    "mm": " နင့်ဟာ၊ မင်းဟာ၊ ခင်ဗျားရဲ့။ ",
+    "syntax": [{
+      "eng": " Your mother is very kind. ",
+      "lisu": " ꓠꓴ ꓟ, ꓟ ꓠꓲ, ꓟ ꓮꓽ ꓘꓶ ꓙꓲˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "youth ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓞꓳ ꓡꓱ ꓤ꓾ ꓞꓲꓼ ꓣꓳ ꓢꓴ꓿ ",
+    "mm": " လူငယ်။ ",
+    "syntax": [{
+      "eng": " The Village Youth Association will have a meeting tonight. ",
+      "lisu": " ꓠꓬꓲ. ꓟꓶꓼ ꓘꓶꓼ ꓘ, ꓞꓳ ꓡꓱ ꓤꓼ ꓜꓴ ꓖꓪ ꓙꓱ ꓜꓲꓼ ꓓꓴ ꓙꓳˍ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "zebra ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓟꓳꓽ ꓙꓬꓼ ꓡꓯꓼ꓾ ꓟꓴꓽ ꓙꓬꓼ ꓡꓯꓼ꓿ ",
+    "mm": " မြင်းကျား။ ",
+    "syntax": [{
+      "eng": " In fact, a zebra is just a horse. ",
+      "lisu": " ꓬꓲ ꓚꓽ ꓐꓯ ꓕꓯ ꓟꓴꓽ ꓙꓬꓼ ꓡꓯꓼˍ ꓟꓲ ꓮ. ꓟꓴꓽˍ ꓡꓰꓽ ꓥ ꓡꓳ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "zenith ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " ꓟꓴ ꓓꓰˍ ꓗꓪ꓾ ꓟꓴ ꓡꓳ, ꓗꓪ꓿ ",
+    "mm": " အထွဋ်အထိပ်၊ အမြင့်ဆုံးနေရာ၊ ထိပ်ဖြား။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "zest ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓠꓲ, ꓒꓴ ꓗ, ꓛꓲꓽ ꓢꓯꓼ ꓙꓳ ꓠꓬꓲ ꓬꓰˍ ꓟ꓿ ",
+    "mm": " စိတ်ဝင်စားမှုနှင့် စိတ်အားထက်သန်မှု၊ ဟင်းခပ်အမွှေးအကြိုင်အဖြစ်အသုံးပြုသောလိမ်မော်ခွံ။ ",
+    "syntax": [{
+      "eng": " There were some oak trees in every Lisu village. ",
+      "lisu": " ꓡꓽ ꓞꓳ ꓖꓳ ꓕꓲ ꓧꓳꓽ",
+      "mm": ""
+    }]
+  }, {
+    "eng": "zip ",
+    "eng_type": [{
+      "type": "n"
+    }, {
+      "type": " v"
+    }],
+    "lisu": " ꓜꓲꓸꓼ꓿ ꓜꓲꓸꓼ ꓒꓴ꓾ ꓜꓲꓸꓼ ꓢꓳ꓿ ",
+    "mm": " ဇစ်။ ",
+    "syntax": [{
+      "eng": " Zip up your pants, boy. ",
+      "lisu": " ꓮ ꓐꓲ ꓤꓼꓳ꓾ ꓠꓴ ꓟꓶꓺ ꓛꓲ ꓜꓲꓸꓼ ꓢꓳꓺ ꓓꓯ ꓩꓴ꓿",
+      "mm": ""
+    }]
+  }, {
+    "eng": "zoo ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓢꓯ. ꓫꓵꓽ ꓜꓴꓺ ꓐꓱ꓿ ",
+    "mm": " တိရိစ္ဆန်ရုံ။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "zoology ",
+    "eng_type": [{
+      "type": "n"
+    }],
+    "lisu": " ꓢꓯ. ꓫꓵꓽ ꓢꓯ. ꓙꓰꓽ ꓔꓯ ꓟꓳ. ꓢꓳˍ ꓟ ꓢꓷ ꓠꓲ,꓿ ",
+    "mm": " တိရိစ္ဆန်ဗေဒ။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+  }, {
+    "eng": "zoom ",
+    "eng_type": [{
+      "type": "v"
+    }],
+    "lisu": " 1.ꓐꓬꓱꓽ ꓓꓱꓽ ꓓꓴ ꓗꓰ‐ꓟ‐ꓣ ꓗꓪ ꓠꓳꓽˍ ꓟ ꓡꓯ,‐ꓢꓶ ( ꓠꓬ ꓐꓻ ꓟꓬ ꓢꓶ ) ꓣꓱꓽ ꓢꓲ꓾ ꓠꓴ ꓓꓱꓽ ꓔꓳꓽˍ ꓟ ꓐꓬꓱꓽ ꓔꓯ꓾ ꓠꓴ ꓛꓳꓽ ꓔꓬ ꓟ ꓐꓬꓱꓽ ꓔꓯ ꓬꓲ ꓐꓶ, ꓪꓴꓽ ꓡ ꓓꓴ ꓙꓺˍ ꓟ꓿2. ꓟꓳ ꓓꓳ ꓐꓬꓱꓺ ꓦꓲ ꓐꓴ ꓮꓽ ꓘꓶ. ꓟꓬꓱꓺ ꓠꓺ \"ꓪꓲꓽ ꓪꓲꓽ\" ꓐꓰ ꓙꓰˍ ꓟ꓿ ",
+    "mm": " အနီးကပ်ဆွဲကြည့်သည်(ကင်မရာမှန်ပြောင်းဖြင့်)။ ကား၊လေယဥ်ပျံများအရှိန်ဖြင့်သွားလာသည်။",
+    "syntax": [{
+      "eng": "",
+      "lisu": "",
+      "mm": ""
+    }]
+}]
